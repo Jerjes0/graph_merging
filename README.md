@@ -26,11 +26,6 @@ This project is part of the DSC 291 - Topics in Causal Inference course at UC Sa
 
 The Causal Inference Agent is designed to generate and merge causal graphs using natural language processing. It leverages Google's Gemini API to create causal graphs based on user queries and provides functionality to merge multiple graphs into a unified representation.
 
-## Collaborators
-
-- Jerjes Aguirre Chavez
-- [Add other collaborators here]
-
 ## Setup Instructions
 
 ### 1. Create and Activate Conda Environment
