@@ -1,0 +1,133 @@
+{
+    "Human Activities": {
+        "children": [
+            "Greenhouse Gas Emissions",
+            "Deforestation",
+            "Pollution"
+        ],
+        "description": "Activities performed by humans that impact the environment"
+    },
+    "Greenhouse Gas Emissions": {
+        "children": [
+            "Global Warming",
+            "Ocean Acidification"
+        ],
+        "description": "Release of gases like CO2 and methane into the atmosphere"
+    },
+    "Deforestation": {
+        "children": [
+            "Habitat Loss",
+            "Increased CO2 levels"
+        ],
+        "description": "Clearing of forests for various purposes"
+    },
+    "Pollution": {
+        "children": [
+            "Water Contamination",
+            "Air Pollution"
+        ],
+        "description": "Introduction of harmful substances into the environment"
+    },
+    "Global Warming": {
+        "children": [
+            "Melting Glaciers",
+            "Sea Level Rise"
+        ],
+        "description": "Increase in Earth's average temperature"
+    },
+    "Ocean Acidification": {
+        "children": [
+            "Coral Bleaching",
+            "Marine Ecosystem Disruption"
+        ],
+        "description": "Decrease in ocean pH due to increased CO2 absorption"
+    },
+    "Habitat Loss": {
+        "children": [
+            "Biodiversity Loss"
+        ],
+        "description": "Destruction of natural habitats"
+    },
+    "Increased CO2 levels": {
+        "children": [
+            "Climate Change"
+        ],
+        "description": "Elevated levels of carbon dioxide in the atmosphere"
+    },
+    "Water Contamination": {
+        "children": [
+            "Waterborne Diseases"
+        ],
+        "description": "Contamination of water sources with pollutants"
+    },
+    "Air Pollution": {
+        "children": [
+            "Respiratory Problems"
+        ],
+        "description": "Presence of harmful substances in the air"
+    },
+    "Melting Glaciers": {
+        "children": [
+            "Sea Level Rise"
+        ],
+        "description": "Melting of glaciers and ice caps"
+    },
+    "Sea Level Rise": {
+        "children": [
+            "Coastal Flooding"
+        ],
+        "description": "Increase in sea level due to thermal expansion and melting ice"
+    },
+    "Coral Bleaching": {
+        "children": [
+            "Coral Reef Degradation"
+        ],
+        "description": "Loss of color in corals due to stress"
+    },
+    "Marine Ecosystem Disruption": {
+        "children": [
+            "Fisheries Decline"
+        ],
+        "description": "Disruption of marine ecosystems due to ocean acidification"
+    },
+    "Biodiversity Loss": {
+        "children": [
+            "Ecosystem Instability"
+        ],
+        "description": "Loss of plant and animal species"
+    },
+    "Climate Change": {
+        "children": [
+            "Extreme Weather Events"
+        ],
+        "description": "Long-term changes in temperature and weather patterns"
+    },
+    "Waterborne Diseases": {
+        "children": [],
+        "description": "Diseases spread through contaminated water"
+    },
+    "Respiratory Problems": {
+        "children": [],
+        "description": "Respiratory illnesses caused by air pollution"
+    },
+    "Coastal Flooding": {
+        "children": [],
+        "description": "Flooding of coastal areas due to sea level rise"
+    },
+    "Coral Reef Degradation": {
+        "children": [],
+        "description": "Damage and destruction of coral reefs"
+    },
+    "Fisheries Decline": {
+        "children": [],
+        "description": "Decline in fish populations"
+    },
+    "Ecosystem Instability": {
+        "children": [],
+        "description": "Instability and reduced resilience of ecosystems"
+    },
+    "Extreme Weather Events": {
+        "children": [],
+        "description": "More frequent and intense weather events"
+    }
+}

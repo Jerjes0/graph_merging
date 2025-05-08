@@ -1,0 +1,39 @@
+{
+    "Regular Exercise": {
+        "children": [
+            "Improved Cardiovascular Health",
+            "Reduced Stress Levels"
+        ],
+        "description": "Engaging in regular physical activity"
+    },
+    "Improved Cardiovascular Health": {
+        "children": [
+            "Lower Risk of Heart Disease",
+            "Increased Energy Levels"
+        ],
+        "description": "Improved heart function and blood circulation"
+    },
+    "Reduced Stress Levels": {
+        "children": [
+            "Improved Mood",
+            "Better Sleep Quality"
+        ],
+        "description": "Lower levels of cortisol and improved stress response"
+    },
+    "Lower Risk of Heart Disease": {
+        "children": [],
+        "description": "Decreased likelihood of developing heart disease"
+    },
+    "Increased Energy Levels": {
+        "children": [],
+        "description": "Greater stamina and vitality"
+    },
+    "Improved Mood": {
+        "children": [],
+        "description": "Reduced symptoms of anxiety and depression"
+    },
+    "Better Sleep Quality": {
+        "children": [],
+        "description": "Improved sleep patterns and duration"
+    }
+}
