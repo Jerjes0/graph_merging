@@ -12,6 +12,7 @@ The graph merging module is a key component of the Causal Inference Agent projec
 - Zida Jin
 - Samyak Karnavat
 - Peng Wang
+- Thuy Nguyen
 
 ## Course Information
 
