@@ -20,7 +20,7 @@ The graph merging module is a key component of the Causal Inference Agent projec
 
 # Causal Inference Agent
 
-This project is part of the DSC 291 - Topics in Causal Inference course at UC San Diego, taught by Professor Biewi Huang.
+This project is part of the DSC 291 - Topics in Causal Inference course at UC San Diego, taught by Professor Biwei Huang.
 
 ## Project Overview
 
