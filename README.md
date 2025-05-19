@@ -12,24 +12,12 @@ The graph merging module is a key component of the Causal Inference Agent projec
 - Zida Jin
 - Samyak Karnavat
 - Peng Wang
+- Thuy Nguyen
 
 ## Course Information
 
 - Course: DSC291
 - Institution: UC San Diego
-
-# Causal Inference Agent
-
-This project is part of the DSC 291 - Topics in Causal Inference course at UC San Diego, taught by Professor Biewi Huang.
-
-## Project Overview
-
-The Causal Inference Agent is designed to generate and merge causal graphs using natural language processing. It leverages Google's Gemini API to create causal graphs based on user queries and provides functionality to merge multiple graphs into a unified representation.
-
-## Collaborators
-
-- Jerjes Aguirre Chavez
-- [Add other collaborators here]
 
 ## Setup Instructions
 
