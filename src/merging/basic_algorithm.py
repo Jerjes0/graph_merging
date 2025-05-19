@@ -5,23 +5,22 @@ def load_graph(filename):
     with open(filename, 'r') as file:
         return json.load(file)
 
-def load_main_graph(filename, new):
+def load_main_graph(filename):
     return
 
 def merge_graph(graph, main_graph):
     return
 
-def save_main_graph(graph, is_new):
+def save_main_graph(filename, graph):
     return
 
 if __name__ == "__main__":
-    # arguments: merged_filename, new/existing, graph_filenames...
-    if len(sys.argv) < 3:
-        print("Usage: python basic_algorithm.py merged_filename new/existing graph_filenames...")
+    # arguments: merged_filename, graph_filenames...
+    if len(sys.argv) < 2:
+        print("Usage: python basic_algorithm.py merged_filename graph_filenames...")
         return 0
     merged_filename = sys.argv[0]
-    is_new = sys.argv[1] == "new"
-    main_graph = load_main_graph(merged_filename, is_new)
+    main_graph = load_main_graph(merged_filename)
 
     for i in range(2,len(sys.argv)):
         graph_filename = sys.argv[i]
@@ -29,4 +28,4 @@ if __name__ == "__main__":
         graph = load_graph(graph_filename)
         merge_graph(graph, main_graph)
 
-    save_main_graph(main_graph, is_new)
+    save_main_graph(merged_filename, main_graph)
