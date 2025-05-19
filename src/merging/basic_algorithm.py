@@ -1,18 +1,20 @@
 import json
 import sys
+import os
 
 def load_graph(filename):
-    with open(filename, 'r') as file:
-        return json.load(file)
-
-def load_main_graph(filename):
-    return
+    if os.path.exists(filename):
+        with open(filename, 'r') as file:
+            return json.load(file)
+    else:
+        return []
 
 def merge_graph(graph, main_graph):
     return
 
 def save_main_graph(filename, graph):
-    return
+    with open(filename, 'w') as file:
+        json.dump(data, file, indent=4)
 
 if __name__ == "__main__":
     # arguments: merged_filename, graph_filenames...
@@ -20,7 +22,7 @@ if __name__ == "__main__":
         print("Usage: python basic_algorithm.py merged_filename graph_filenames...")
         return 0
     merged_filename = sys.argv[0]
-    main_graph = load_main_graph(merged_filename)
+    main_graph = load_graph(merged_filename)
 
     for i in range(2,len(sys.argv)):
         graph_filename = sys.argv[i]
