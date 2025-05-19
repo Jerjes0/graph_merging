@@ -1,0 +1,105 @@
+{
+    "Attention": {
+        "children": [
+            "Stimulus Salience",
+            "Goal-directed Selection"
+        ],
+        "description": "The cognitive process of selectively concentrating on a discrete aspect of the environment"
+    },
+    "Stimulus Salience": {
+        "children": [
+            "Sensory Input",
+            "Prior Knowledge"
+        ],
+        "description": "The inherent properties of a stimulus that make it stand out"
+    },
+    "Sensory Input": {
+        "children": [
+            "Visual Features",
+            "Auditory Features"
+        ],
+        "description": "Information received through the senses"
+    },
+    "Visual Features": {
+        "children": [
+            "Color",
+            "Shape"
+        ],
+        "description": "Visual characteristics of a stimulus"
+    },
+    "Auditory Features": {
+        "children": [
+            "Loudness",
+            "Pitch"
+        ],
+        "description": "Auditory characteristics of a stimulus"
+    },
+    "Prior Knowledge": {
+        "children": [
+            "Past Experiences",
+            "Expectations"
+        ],
+        "description": "Existing knowledge influencing attention"
+    },
+    "Goal-directed Selection": {
+        "children": [
+            "Task Demands",
+            "Individual Goals"
+        ],
+        "description": "Attention driven by specific goals or tasks"
+    },
+    "Task Demands": {
+        "children": [
+            "Instructions",
+            "Context"
+        ],
+        "description": "Requirements and constraints of a task"
+    },
+    "Individual Goals": {
+        "children": [
+            "Motivations",
+            "Interests"
+        ],
+        "description": "Personal objectives and preferences"
+    },
+    "Color": {
+        "children": [],
+        "description": "The hue of a visual stimulus"
+    },
+    "Shape": {
+        "children": [],
+        "description": "The form or outline of a visual stimulus"
+    },
+    "Loudness": {
+        "children": [],
+        "description": "The intensity of an auditory stimulus"
+    },
+    "Pitch": {
+        "children": [],
+        "description": "The frequency of an auditory stimulus"
+    },
+    "Past Experiences": {
+        "children": [],
+        "description": "Memories and previous encounters"
+    },
+    "Expectations": {
+        "children": [],
+        "description": "Anticipated events or outcomes"
+    },
+    "Instructions": {
+        "children": [],
+        "description": "Explicit directions or guidelines"
+    },
+    "Context": {
+        "children": [],
+        "description": "Surrounding circumstances or situation"
+    },
+    "Motivations": {
+        "children": [],
+        "description": "Underlying drives and desires"
+    },
+    "Interests": {
+        "children": [],
+        "description": "Specific areas of focus or curiosity"
+    }
+}

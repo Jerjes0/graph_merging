@@ -1,0 +1,127 @@
+{
+    "Working Memory Capacity": {
+        "children": [
+            "Cognitive Performance",
+            "Attentional Control"
+        ],
+        "description": "The amount of information that can be held in mind and manipulated at once."
+    },
+    "Cognitive Performance": {
+        "children": [
+            "Problem Solving",
+            "Learning"
+        ],
+        "description": "Overall effectiveness in cognitive tasks."
+    },
+    "Attentional Control": {
+        "children": [
+            "Selective Attention",
+            "Inhibitory Control"
+        ],
+        "description": "Ability to focus attention and resist distractions."
+    },
+    "Problem Solving": {
+        "children": [
+            "Decision Making",
+            "Creativity"
+        ],
+        "description": "Ability to find solutions to problems."
+    },
+    "Learning": {
+        "children": [
+            "Knowledge Acquisition",
+            "Skill Development"
+        ],
+        "description": "Acquisition of new information and skills."
+    },
+    "Selective Attention": {
+        "children": [
+            "Focus",
+            "Filtering"
+        ],
+        "description": "Ability to focus on relevant information and ignore irrelevant information."
+    },
+    "Inhibitory Control": {
+        "children": [
+            "Impulse Control",
+            "Interference Suppression"
+        ],
+        "description": "Ability to suppress irrelevant thoughts and actions."
+    },
+    "Decision Making": {
+        "children": [
+            "Choice Accuracy",
+            "Speed of Decision"
+        ],
+        "description": "Process of selecting a course of action."
+    },
+    "Creativity": {
+        "children": [
+            "Idea Generation",
+            "Innovation"
+        ],
+        "description": "Ability to generate novel and useful ideas."
+    },
+    "Knowledge Acquisition": {
+        "children": [
+            "Encoding",
+            "Retrieval"
+        ],
+        "description": "Process of acquiring and storing new information."
+    },
+    "Skill Development": {
+        "children": [
+            "Practice",
+            "Expertise"
+        ],
+        "description": "Process of improving skills through practice."
+    },
+    "Focus": {
+        "children": [],
+        "description": "Maintaining attention on a specific task."
+    },
+    "Filtering": {
+        "children": [],
+        "description": "Ignoring irrelevant stimuli."
+    },
+    "Impulse Control": {
+        "children": [],
+        "description": "Resisting the urge to act impulsively."
+    },
+    "Interference Suppression": {
+        "children": [],
+        "description": "Suppressing irrelevant thoughts or memories."
+    },
+    "Choice Accuracy": {
+        "children": [],
+        "description": "Accuracy of decisions made."
+    },
+    "Speed of Decision": {
+        "children": [],
+        "description": "Speed at which decisions are made."
+    },
+    "Idea Generation": {
+        "children": [],
+        "description": "Ability to generate new ideas."
+    },
+    "Innovation": {
+        "children": [],
+        "description": "Ability to implement new ideas."
+    },
+    "Encoding": {
+        "children": [],
+        "description": "Process of storing information in memory."
+    },
+    "Retrieval": {
+        "children": [],
+        "description": "Process of accessing stored information."
+    },
+    "Practice": {
+        "children": [],
+        "description": "Repetitive engagement in a skill."
+    },
+    "Expertise": {
+        "children": [],
+        "description": "High level of skill and knowledge in a specific area."
+    }
+}

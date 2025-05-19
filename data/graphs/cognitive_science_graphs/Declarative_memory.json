@@ -1,0 +1,135 @@
+{
+    "Declarative Memory": {
+        "children": [
+            "Encoding",
+            "Retrieval"
+        ],
+        "description": "The long-term memory system responsible for storing facts and events."
+    },
+    "Encoding": {
+        "children": [
+            "Attention",
+            "Consolidation"
+        ],
+        "description": "The process of transforming sensory information into a format suitable for storage in long-term memory."
+    },
+    "Retrieval": {
+        "children": [
+            "Recall",
+            "Recognition"
+        ],
+        "description": "The process of accessing and bringing stored information back into conscious awareness."
+    },
+    "Attention": {
+        "children": [
+            "Selective Attention",
+            "Divided Attention"
+        ],
+        "description": "The cognitive process of selectively concentrating on one aspect of the environment while ignoring others."
+    },
+    "Consolidation": {
+        "children": [
+            "Sleep",
+            "Synaptic Plasticity"
+        ],
+        "description": "The process by which newly encoded memories are stabilized and integrated into long-term memory networks."
+    },
+    "Recall": {
+        "children": [
+            "Free Recall",
+            "Cued Recall"
+        ],
+        "description": "The spontaneous retrieval of information from memory without any external cues."
+    },
+    "Recognition": {
+        "children": [
+            "Familiarity",
+            "Recollection"
+        ],
+        "description": "The process of identifying previously encountered information as familiar."
+    },
+    "Selective Attention": {
+        "children": [
+            "Focus",
+            "Filtering"
+        ],
+        "description": "The ability to focus on a specific stimulus while ignoring distractions."
+    },
+    "Divided Attention": {
+        "children": [
+            "Task Switching",
+            "Multitasking"
+        ],
+        "description": "The ability to attend to multiple stimuli or tasks simultaneously."
+    },
+    "Sleep": {
+        "children": [
+            "REM Sleep",
+            "Slow-Wave Sleep"
+        ],
+        "description": "A crucial role in memory consolidation, particularly for declarative memories."
+    },
+    "Synaptic Plasticity": {
+        "children": [
+            "Long-Term Potentiation",
+            "Long-Term Depression"
+        ],
+        "description": "Changes in the strength of connections between neurons that underlie learning and memory."
+    },
+    "Free Recall": {
+        "children": [
+            "Serial Position Effect",
+            "Contextual Cues"
+        ],
+        "description": "Recalling information in any order without any prompts."
+    },
+    "Cued Recall": {
+        "children": [
+            "Retrieval Cues",
+            "Encoding Specificity"
+        ],
+        "description": "Recalling information with the help of hints or cues."
+    },
+    "Familiarity": {
+        "children": [
+            "Sense of Knowing",
+            "Gut Feeling"
+        ],
+        "description": "A feeling of knowing something without being able to explicitly recall the details."
+    },
+    "Recollection": {
+        "children": [
+            "Detailed Memory",
+            "Episodic Recall"
+        ],
+        "description": "The conscious retrieval of specific details about a past event."
+    },
+    "Serial Position Effect": {
+        "children": [
+            "Primacy Effect",
+            "Recency Effect"
+        ],
+        "description": "The tendency to remember the first and last items in a list better than the middle items."
+    },
+    "Retrieval Cues": {
+        "children": [
+            "Contextual Cues",
+            "Semantic Cues"
+        ],
+        "description": "Stimuli that help trigger the retrieval of a memory."
+    },
+    "Long-Term Potentiation": {
+        "children": [
+            "Increased Synaptic Strength",
+            "Enhanced Neurotransmission"
+        ],
+        "description": "A persistent strengthening of synapses based on recent patterns of activity."
+    },
+    "Long-Term Depression": {
+        "children": [
+            "Decreased Synaptic Strength",
+            "Weakened Neurotransmission"
+        ],
+        "description": "A long-lasting decrease in the effectiveness of synapses."
+    }
+}

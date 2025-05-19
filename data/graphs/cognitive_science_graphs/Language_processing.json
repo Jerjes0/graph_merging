@@ -1,0 +1,403 @@
+{
+    "Language Processing": {
+        "children": [
+            "Lexical Analysis",
+            "Syntactic Analysis"
+        ],
+        "description": "The overall process of understanding and interpreting human language"
+    },
+    "Lexical Analysis": {
+        "children": [
+            "Tokenization",
+            "Part-of-Speech Tagging"
+        ],
+        "description": "Breaking down text into individual words and identifying their grammatical roles"
+    },
+    "Syntactic Analysis": {
+        "children": [
+            "Parsing",
+            "Dependency Parsing"
+        ],
+        "description": "Analyzing the grammatical structure of sentences"
+    },
+    "Tokenization": {
+        "children": [
+            "Word Segmentation",
+            "Sentence Segmentation"
+        ],
+        "description": "Dividing text into individual units (tokens)"
+    },
+    "Part-of-Speech Tagging": {
+        "children": [
+            "Named Entity Recognition",
+            "Word Sense Disambiguation"
+        ],
+        "description": "Assigning grammatical tags to words"
+    },
+    "Parsing": {
+        "children": [
+            "Constituency Parsing",
+            "Phrase Structure Grammar"
+        ],
+        "description": "Creating a tree-like representation of sentence structure"
+    },
+    "Dependency Parsing": {
+        "children": [
+            "Dependency Tree",
+            "Head-Modifier Relationships"
+        ],
+        "description": "Representing grammatical relations between words"
+    },
+    "Word Segmentation": {
+        "children": [
+            "Morphological Analysis",
+            "Compound Word Splitting"
+        ],
+        "description": "Identifying word boundaries"
+    },
+    "Sentence Segmentation": {
+        "children": [
+            "Punctuation Detection",
+            "Sentence Boundary Detection"
+        ],
+        "description": "Identifying sentence boundaries"
+    },
+    "Named Entity Recognition": {
+        "children": [
+            "Entity Type Classification",
+            "Entity Linking"
+        ],
+        "description": "Identifying and classifying named entities"
+    },
+    "Word Sense Disambiguation": {
+        "children": [
+            "Contextual Analysis",
+            "Semantic Similarity"
+        ],
+        "description": "Determining the correct meaning of a word based on context"
+    },
+    "Constituency Parsing": {
+        "children": [
+            "Context-Free Grammars",
+            "Treebank Parsing"
+        ],
+        "description": "Parsing based on constituent phrases"
+    },
+    "Phrase Structure Grammar": {
+        "children": [
+            "Rule-based Parsing",
+            "Probabilistic Parsing"
+        ],
+        "description": "Grammar defining phrase structure"
+    },
+    "Dependency Tree": {
+        "children": [
+            "Graph Representation",
+            "Dependency Relations"
+        ],
+        "description": "Graphical representation of word dependencies"
+    },
+    "Head-Modifier Relationships": {
+        "children": [
+            "Head Identification",
+            "Modifier Identification"
+        ],
+        "description": "Identifying the head and modifier words in a sentence"
+    },
+    "Morphological Analysis": {
+        "children": [
+            "Stemming",
+            "Lemmatization"
+        ],
+        "description": "Analyzing word forms"
+    },
+    "Compound Word Splitting": {
+        "children": [
+            "Rule-based Splitting",
+            "Machine Learning based Splitting"
+        ],
+        "description": "Splitting compound words into their constituent parts"
+    },
+    "Punctuation Detection": {
+        "children": [
+            "Regular Expressions",
+            "Machine Learning"
+        ],
+        "description": "Detecting punctuation marks"
+    },
+    "Sentence Boundary Detection": {
+        "children": [
+            "Rule-based Detection",
+            "Machine Learning Detection"
+        ],
+        "description": "Detecting sentence boundaries"
+    },
+    "Entity Type Classification": {
+        "children": [
+            "Person",
+            "Location",
+            "Organization"
+        ],
+        "description": "Classifying entities into predefined types"
+    },
+    "Entity Linking": {
+        "children": [
+            "Knowledge Base Lookup",
+            "Disambiguation"
+        ],
+        "description": "Linking entities to knowledge bases"
+    },
+    "Contextual Analysis": {
+        "children": [
+            "Word Embeddings",
+            "Contextualized Word Embeddings"
+        ],
+        "description": "Analyzing the context of words"
+    },
+    "Semantic Similarity": {
+        "children": [
+            "WordNet",
+            "Distributional Semantics"
+        ],
+        "description": "Measuring the semantic similarity between words"
+    },
+    "Context-Free Grammars": {
+        "children": [
+            "CFG Rules",
+            "Parse Trees"
+        ],
+        "description": "Formal grammar defining sentence structure"
+    },
+    "Treebank Parsing": {
+        "children": [
+            "Statistical Parsing",
+            "Supervised Learning"
+        ],
+        "description": "Parsing using treebanks"
+    },
+    "Rule-based Parsing": {
+        "children": [
+            "Hand-crafted Rules",
+            "Pattern Matching"
+        ],
+        "description": "Parsing based on hand-crafted rules"
+    },
+    "Probabilistic Parsing": {
+        "children": [
+            "Probabilistic Context-Free Grammars",
+            "Hidden Markov Models"
+        ],
+        "description": "Parsing using probabilistic models"
+    },
+    "Graph Representation": {
+        "children": [
+            "Nodes",
+            "Edges"
+        ],
+        "description": "Representing dependencies as a graph"
+    },
+    "Dependency Relations": {
+        "children": [
+            "Subject",
+            "Object",
+            "Modifier"
+        ],
+        "description": "Types of dependency relations"
+    },
+    "Stemming": {
+        "children": [
+            "Porter Stemmer",
+            "Snowball Stemmer"
+        ],
+        "description": "Reducing words to their stems"
+    },
+    "Lemmatization": {
+        "children": [
+            "WordNet Lemmatizer",
+            "Spacy Lemmatizer"
+        ],
+        "description": "Reducing words to their dictionary forms"
+    },
+    "Rule-based Splitting": {
+        "children": [
+            "Dictionary Lookup",
+            "Rule-based System"
+        ],
+        "description": "Splitting compound words based on rules"
+    },
+    "Machine Learning based Splitting": {
+        "children": [
+            "Supervised Learning",
+            "Unsupervised Learning"
+        ],
+        "description": "Splitting compound words using machine learning"
+    },
+    "Regular Expressions": {
+        "children": [
+            "Pattern Matching",
+            "String Manipulation"
+        ],
+        "description": "Using regular expressions for punctuation detection"
+    },
+    "Machine Learning": {
+        "children": [
+            "Support Vector Machines",
+            "Neural Networks"
+        ],
+        "description": "Using machine learning for punctuation detection"
+    },
+    "Rule-based Detection": {
+        "children": [
+            "Heuristics",
+            "Rules"
+        ],
+        "description": "Detecting sentence boundaries using rules"
+    },
+    "Machine Learning Detection": {
+        "children": [
+            "Recurrent Neural Networks",
+            "Transformers"
+        ],
+        "description": "Detecting sentence boundaries using machine learning"
+    },
+    "Person": {
+        "children": [],
+        "description": "Person entity type"
+    },
+    "Location": {
+        "children": [],
+        "description": "Location entity type"
+    },
+    "Organization": {
+        "children": [],
+        "description": "Organization entity type"
+    },
+    "Knowledge Base Lookup": {
+        "children": [],
+        "description": "Looking up entities in a knowledge base"
+    },
+    "Disambiguation": {
+        "children": [],
+        "description": "Disambiguating entities"
+    },
+    "Word Embeddings": {
+        "children": [],
+        "description": "Representing words as vectors"
+    },
+    "Contextualized Word Embeddings": {
+        "children": [],
+        "description": "Representing words as vectors based on context"
+    },
+    "WordNet": {
+        "children": [],
+        "description": "Lexical database of English"
+    },
+    "Distributional Semantics": {
+        "children": [],
+        "description": "Semantic approach based on word distributions"
+    },
+    "CFG Rules": {
+        "children": [],
+        "description": "Rules defining context-free grammars"
+    },
+    "Parse Trees": {
+        "children": [],
+        "description": "Tree representations of parsed sentences"
+    },
+    "Statistical Parsing": {
+        "children": [],
+        "description": "Parsing using statistical methods"
+    },
+    "Supervised Learning": {
+        "children": [],
+        "description": "Machine learning using labeled data"
+    },
+    "Hand-crafted Rules": {
+        "children": [],
+        "description": "Manually created rules"
+    },
+    "Pattern Matching": {
+        "children": [],
+        "description": "Matching patterns in text"
+    },
+    "Probabilistic Context-Free Grammars": {
+        "children": [],
+        "description": "Probabilistic extension of context-free grammars"
+    },
+    "Hidden Markov Models": {
+        "children": [],
+        "description": "Probabilistic models for sequential data"
+    },
+    "Nodes": {
+        "children": [],
+        "description": "Nodes in a graph"
+    },
+    "Edges": {
+        "children": [],
+        "description": "Edges in a graph"
+    },
+    "Subject": {
+        "children": [],
+        "description": "Subject dependency relation"
+    },
+    "Object": {
+        "children": [],
+        "description": "Object dependency relation"
+    },
+    "Modifier": {
+        "children": [],
+        "description": "Modifier dependency relation"
+    },
+    "Porter Stemmer": {
+        "children": [],
+        "description": "A stemming algorithm"
+    },
+    "Snowball Stemmer": {
+        "children": [],
+        "description": "A stemming algorithm"
+    },
+    "WordNet Lemmatizer": {
+        "children": [],
+        "description": "A lemmatizer using WordNet"
+    },
+    "Spacy Lemmatizer": {
+        "children": [],
+        "description": "A lemmatizer from the SpaCy library"
+    },
+    "Dictionary Lookup": {
+        "children": [],
+        "description": "Looking up words in a dictionary"
+    },
+    "Rule-based System": {
+        "children": [],
+        "description": "A rule-based system for splitting compound words"
+    },
+    "Unsupervised Learning": {
+        "children": [],
+        "description": "Machine learning without labeled data"
+    },
+    "Support Vector Machines": {
+        "children": [],
+        "description": "A machine learning algorithm"
+    },
+    "Neural Networks": {
+        "children": [],
+        "description": "A machine learning algorithm"
+    },
+    "Recurrent Neural Networks": {
+        "children": [],
+        "description": "A type of neural network"
+    },
+    "Transformers": {
+        "children": [],
+        "description": "A type of neural network"
+    },
+    "Heuristics": {
+        "children": [],
+        "description": "Rules of thumb"
+    },
+    "Rules": {
+        "children": [],
+        "description": "Rules for sentence boundary detection"
+    }
+}

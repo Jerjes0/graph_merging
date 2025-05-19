@@ -1,0 +1,211 @@
+{
+    "Cognitive Flexibility": {
+        "children": [
+            "Working Memory",
+            "Inhibitory Control"
+        ],
+        "description": "The ability to switch between different tasks or mental sets."
+    },
+    "Working Memory": {
+        "children": [
+            "Attentional Control",
+            "Cognitive Load"
+        ],
+        "description": "The ability to hold information in mind and manipulate it."
+    },
+    "Inhibitory Control": {
+        "children": [
+            "Impulse Control",
+            "Interference Suppression"
+        ],
+        "description": "The ability to suppress irrelevant information or impulses."
+    },
+    "Attentional Control": {
+        "children": [
+            "Selective Attention",
+            "Sustained Attention"
+        ],
+        "description": "The ability to focus attention on relevant information and ignore distractions."
+    },
+    "Cognitive Load": {
+        "children": [
+            "Task Complexity",
+            "Processing Speed"
+        ],
+        "description": "The amount of mental effort required to perform a task."
+    },
+    "Impulse Control": {
+        "children": [
+            "Emotional Regulation",
+            "Behavioral Inhibition"
+        ],
+        "description": "The ability to resist impulsive actions."
+    },
+    "Interference Suppression": {
+        "children": [
+            "Proactive Interference",
+            "Retroactive Interference"
+        ],
+        "description": "The ability to suppress interfering information from memory."
+    },
+    "Selective Attention": {
+        "children": [
+            "Visual Attention",
+            "Auditory Attention"
+        ],
+        "description": "The ability to focus attention on specific stimuli."
+    },
+    "Sustained Attention": {
+        "children": [
+            "Vigilance",
+            "Concentration"
+        ],
+        "description": "The ability to maintain attention over time."
+    },
+    "Task Complexity": {
+        "children": [
+            "Number of Steps",
+            "Difficulty of Steps"
+        ],
+        "description": "The complexity of a task."
+    },
+    "Processing Speed": {
+        "children": [
+            "Mental Speed",
+            "Reaction Time"
+        ],
+        "description": "The speed at which information is processed."
+    },
+    "Emotional Regulation": {
+        "children": [
+            "Stress Management",
+            "Emotional Intelligence"
+        ],
+        "description": "The ability to manage and regulate emotions."
+    },
+    "Behavioral Inhibition": {
+        "children": [
+            "Self-Control",
+            "Delay of Gratification"
+        ],
+        "description": "The ability to inhibit inappropriate behaviors."
+    },
+    "Proactive Interference": {
+        "children": [
+            "Prior Learning",
+            "Memory Interference"
+        ],
+        "description": "Interference caused by previously learned information."
+    },
+    "Retroactive Interference": {
+        "children": [
+            "Subsequent Learning",
+            "Memory Interference"
+        ],
+        "description": "Interference caused by subsequently learned information."
+    },
+    "Visual Attention": {
+        "children": [
+            "Visual Search",
+            "Object Recognition"
+        ],
+        "description": "The ability to focus attention on visual stimuli."
+    },
+    "Auditory Attention": {
+        "children": [
+            "Auditory Discrimination",
+            "Speech Perception"
+        ],
+        "description": "The ability to focus attention on auditory stimuli."
+    },
+    "Vigilance": {
+        "children": [
+            "Alertness",
+            "Responsiveness"
+        ],
+        "description": "The ability to maintain alertness and responsiveness over time."
+    },
+    "Concentration": {
+        "children": [
+            "Focus",
+            "Persistence"
+        ],
+        "description": "The ability to concentrate on a task."
+    },
+    "Number of Steps": {
+        "children": [],
+        "description": "The number of steps involved in a task."
+    },
+    "Difficulty of Steps": {
+        "children": [],
+        "description": "The difficulty of the steps involved in a task."
+    },
+    "Mental Speed": {
+        "children": [],
+        "description": "The speed of mental processing."
+    },
+    "Reaction Time": {
+        "children": [],
+        "description": "The time it takes to respond to a stimulus."
+    },
+    "Stress Management": {
+        "children": [],
+        "description": "The ability to manage stress."
+    },
+    "Emotional Intelligence": {
+        "children": [],
+        "description": "The ability to understand and manage emotions."
+    },
+    "Self-Control": {
+        "children": [],
+        "description": "The ability to control oneself."
+    },
+    "Delay of Gratification": {
+        "children": [],
+        "description": "The ability to delay gratification."
+    },
+    "Prior Learning": {
+        "children": [],
+        "description": "Previously learned information."
+    },
+    "Memory Interference": {
+        "children": [],
+        "description": "Interference with memory."
+    },
+    "Subsequent Learning": {
+        "children": [],
+        "description": "Subsequently learned information."
+    },
+    "Visual Search": {
+        "children": [],
+        "description": "The ability to search for visual information."
+    },
+    "Object Recognition": {
+        "children": [],
+        "description": "The ability to recognize objects."
+    },
+    "Auditory Discrimination": {
+        "children": [],
+        "description": "The ability to discriminate between auditory stimuli."
+    },
+    "Speech Perception": {
+        "children": [],
+        "description": "The ability to perceive speech."
+    },
+    "Alertness": {
+        "children": [],
+        "description": "The state of being alert."
+    },
+    "Responsiveness": {
+        "children": [],
+        "description": "The ability to respond quickly."
+    },
+    "Focus": {
+        "children": [],
+        "description": "The ability to focus attention."
+    },
+    "Persistence": {
+        "children": [],
+        "description": "The ability to persist in a task."
+    }
+}

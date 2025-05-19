@@ -1,0 +1,121 @@
+{
+    "Executive Function": {
+        "children": [
+            "Working Memory",
+            "Inhibition",
+            "Cognitive Flexibility"
+        ],
+        "description": "Higher-level cognitive processes that enable goal-directed behavior"
+    },
+    "Working Memory": {
+        "children": [
+            "Attention",
+            "Information Maintenance"
+        ],
+        "description": "The ability to hold information in mind and manipulate it"
+    },
+    "Inhibition": {
+        "children": [
+            "Response Inhibition",
+            "Interference Control"
+        ],
+        "description": "The ability to suppress inappropriate thoughts, actions, or emotions"
+    },
+    "Cognitive Flexibility": {
+        "children": [
+            "Mental Set Shifting",
+            "Task Switching"
+        ],
+        "description": "The ability to switch between different tasks or perspectives"
+    },
+    "Attention": {
+        "children": [
+            "Selective Attention",
+            "Sustained Attention"
+        ],
+        "description": "The ability to focus on relevant information and ignore distractions"
+    },
+    "Information Maintenance": {
+        "children": [
+            "Encoding",
+            "Retrieval"
+        ],
+        "description": "The processes involved in storing and accessing information in working memory"
+    },
+    "Response Inhibition": {
+        "children": [
+            "Impulse Control",
+            "Delay of Gratification"
+        ],
+        "description": "The ability to refrain from acting on impulses"
+    },
+    "Interference Control": {
+        "children": [
+            "Distraction Resistance",
+            "Cognitive Filtering"
+        ],
+        "description": "The ability to resist distractions and focus on the task at hand"
+    },
+    "Mental Set Shifting": {
+        "children": [
+            "Adaptability",
+            "Problem Solving"
+        ],
+        "description": "The ability to adjust to changing demands and perspectives"
+    },
+    "Task Switching": {
+        "children": [
+            "Multitasking",
+            "Efficient Processing"
+        ],
+        "description": "The ability to smoothly transition between different tasks"
+    },
+    "Selective Attention": {
+        "children": [],
+        "description": "Focusing on specific stimuli while ignoring others"
+    },
+    "Sustained Attention": {
+        "children": [],
+        "description": "Maintaining focus over a period of time"
+    },
+    "Encoding": {
+        "children": [],
+        "description": "The process of transforming information into a format suitable for storage"
+    },
+    "Retrieval": {
+        "children": [],
+        "description": "The process of accessing stored information"
+    },
+    "Impulse Control": {
+        "children": [],
+        "description": "The ability to regulate impulses and resist immediate gratification"
+    },
+    "Delay of Gratification": {
+        "children": [],
+        "description": "The ability to postpone immediate rewards for larger future rewards"
+    },
+    "Distraction Resistance": {
+        "children": [],
+        "description": "The ability to ignore distractions and maintain focus"
+    },
+    "Cognitive Filtering": {
+        "children": [],
+        "description": "The ability to select relevant information and filter out irrelevant information"
+    },
+    "Adaptability": {
+        "children": [],
+        "description": "The ability to adjust to changing circumstances"
+    },
+    "Problem Solving": {
+        "children": [],
+        "description": "The ability to find solutions to problems"
+    },
+    "Multitasking": {
+        "children": [],
+        "description": "The ability to perform multiple tasks simultaneously"
+    },
+    "Efficient Processing": {
+        "children": [],
+        "description": "The ability to process information quickly and accurately"
+    }
+}

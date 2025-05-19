@@ -90,9 +90,9 @@ class DataGenerator:
             graph_str = response.text
             
             # Print the raw response for debugging
-            print("Raw response from model:")
-            print(graph_str)
-            print("\nAttempting to parse response...")
+            # print("Raw response from model:")
+            # print(graph_str)
+            # print("\nAttempting to parse response...")
             
             # Clean the response string to ensure it's a valid JSON
             graph_str = graph_str.strip()

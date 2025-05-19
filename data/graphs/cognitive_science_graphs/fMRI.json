@@ -1,0 +1,232 @@
+{
+    "fMRI": {
+        "children": [
+            "Experimental Design",
+            "Data Acquisition"
+        ],
+        "description": "Functional Magnetic Resonance Imaging"
+    },
+    "Experimental Design": {
+        "children": [
+            "Hypothesis Formulation",
+            "Task Design"
+        ],
+        "description": "Planning and structuring the fMRI experiment"
+    },
+    "Data Acquisition": {
+        "children": [
+            "Scanning Parameters",
+            "Subject Preparation"
+        ],
+        "description": "Process of obtaining fMRI data"
+    },
+    "Hypothesis Formulation": {
+        "children": [
+            "Research Question",
+            "Literature Review"
+        ],
+        "description": "Defining the research question and reviewing existing literature"
+    },
+    "Task Design": {
+        "children": [
+            "Stimuli Presentation",
+            "Behavioral Measures"
+        ],
+        "description": "Designing the tasks or stimuli presented during scanning"
+    },
+    "Scanning Parameters": {
+        "children": [
+            "Sequence Selection",
+            "Image Resolution"
+        ],
+        "description": "Setting parameters for the fMRI scanner"
+    },
+    "Subject Preparation": {
+        "children": [
+            "Informed Consent",
+            "Head Stabilization"
+        ],
+        "description": "Preparing the subject for the fMRI scan"
+    },
+    "Sequence Selection": {
+        "children": [
+            "BOLD Contrast",
+            "EPI"
+        ],
+        "description": "Choosing the appropriate fMRI sequence"
+    },
+    "Image Resolution": {
+        "children": [
+            "Spatial Resolution",
+            "Temporal Resolution"
+        ],
+        "description": "Determining the spatial and temporal resolution of the images"
+    },
+    "Informed Consent": {
+        "children": [
+            "Ethical Approval",
+            "Participant Information"
+        ],
+        "description": "Obtaining informed consent from participants"
+    },
+    "Head Stabilization": {
+        "children": [
+            "Head Coil",
+            "Motion Correction"
+        ],
+        "description": "Ensuring minimal head movement during scanning"
+    },
+    "BOLD Contrast": {
+        "children": [
+            "Blood Oxygenation Level Dependent",
+            "Neural Activity"
+        ],
+        "description": "Utilizing BOLD contrast to measure neural activity"
+    },
+    "EPI": {
+        "children": [
+            "Echo Planar Imaging",
+            "Fast Imaging"
+        ],
+        "description": "Using EPI for fast image acquisition"
+    },
+    "Spatial Resolution": {
+        "children": [
+            "Voxel Size",
+            "Image Clarity"
+        ],
+        "description": "Defining the size of voxels and image clarity"
+    },
+    "Temporal Resolution": {
+        "children": [
+            "Sampling Rate",
+            "Data Accuracy"
+        ],
+        "description": "Determining the sampling rate and data accuracy"
+    },
+    "Ethical Approval": {
+        "children": [
+            "IRB Review",
+            "Ethical Guidelines"
+        ],
+        "description": "Obtaining ethical approval from the Institutional Review Board"
+    },
+    "Participant Information": {
+        "children": [
+            "Demographic Data",
+            "Health History"
+        ],
+        "description": "Collecting demographic and health information from participants"
+    },
+    "Motion Correction": {
+        "children": [
+            "Image Preprocessing",
+            "Data Quality"
+        ],
+        "description": "Correcting for head motion during image processing"
+    },
+    "Neural Activity": {
+        "children": [
+            "Brain Regions",
+            "Cognitive Processes"
+        ],
+        "description": "Measuring neural activity in specific brain regions"
+    },
+    "Blood Oxygenation Level Dependent": {
+        "children": [
+            "Hemodynamic Response",
+            "Oxygen Consumption"
+        ],
+        "description": "Measuring changes in blood oxygenation levels"
+    },
+    "Voxel Size": {
+        "children": [
+            "Spatial Precision",
+            "Computational Cost"
+        ],
+        "description": "Balancing spatial precision with computational cost"
+    },
+    "Sampling Rate": {
+        "children": [
+            "Temporal Precision",
+            "Data Volume"
+        ],
+        "description": "Balancing temporal precision with data volume"
+    },
+    "IRB Review": {
+        "children": [],
+        "description": "Review by the Institutional Review Board"
+    },
+    "Cognitive Processes": {
+        "children": [],
+        "description": "Mental processes being investigated"
+    },
+    "Brain Regions": {
+        "children": [],
+        "description": "Specific areas of the brain being studied"
+    },
+    "Hemodynamic Response": {
+        "children": [],
+        "description": "Changes in blood flow and oxygenation"
+    },
+    "Oxygen Consumption": {
+        "children": [],
+        "description": "Changes in oxygen consumption by brain tissue"
+    },
+    "Image Clarity": {
+        "children": [],
+        "description": "Quality of the fMRI images"
+    },
+    "Data Accuracy": {
+        "children": [],
+        "description": "Accuracy of the measured data"
+    },
+    "Data Quality": {
+        "children": [],
+        "description": "Overall quality of the fMRI data"
+    },
+    "Image Preprocessing": {
+        "children": [],
+        "description": "Processing steps to improve data quality"
+    },
+    "Fast Imaging": {
+        "children": [],
+        "description": "Rapid acquisition of fMRI images"
+    },
+    "Computational Cost": {
+        "children": [],
+        "description": "Computational resources required for processing"
+    },
+    "Data Volume": {
+        "children": [],
+        "description": "Amount of data generated"
+    },
+    "Demographic Data": {
+        "children": [],
+        "description": "Participant age, gender, etc."
+    },
+    "Health History": {
+        "children": [],
+        "description": "Relevant health information of the participant"
+    },
+    "Head Coil": {
+        "children": [],
+        "description": "Device used to detect brain signals"
+    },
+    "Stimuli Presentation": {
+        "children": [],
+        "description": "Method of presenting stimuli to the participant"
+    },
+    "Behavioral Measures": {
+        "children": [],
+        "description": "Measures of participant's behavior during the experiment"
+    },
+    "Research Question": {
+        "children": [],
+        "description": "The main question the research aims to answer"
+    },
+    "Literature Review": {
+        "children": [],
+        "description": "Review of relevant scientific literature"
+    }
+}

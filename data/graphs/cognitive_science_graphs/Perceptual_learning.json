@@ -1,0 +1,223 @@
+{
+    "Perceptual_Learning": {
+        "children": [
+            "Sensory_Experience",
+            "Attentional_Focus"
+        ],
+        "description": "The process of improving perceptual abilities through repeated exposure and practice."
+    },
+    "Sensory_Experience": {
+        "children": [
+            "Neural_Plasticity",
+            "Feature_Extraction"
+        ],
+        "description": "Repeated exposure to sensory stimuli relevant to the perceptual task."
+    },
+    "Attentional_Focus": {
+        "children": [
+            "Selective_Attention",
+            "Cognitive_Effort"
+        ],
+        "description": "Directed attention towards specific aspects of the stimuli."
+    },
+    "Neural_Plasticity": {
+        "children": [
+            "Synaptic_Changes",
+            "Brain_Reorganization"
+        ],
+        "description": "Structural and functional changes in the brain due to learning."
+    },
+    "Feature_Extraction": {
+        "children": [
+            "Pattern_Recognition",
+            "Discrimination_Improvement"
+        ],
+        "description": "The ability to efficiently identify and distinguish relevant features in stimuli."
+    },
+    "Selective_Attention": {
+        "children": [
+            "Improved_Performance",
+            "Reduced_Interference"
+        ],
+        "description": "The ability to focus on relevant stimuli while ignoring irrelevant ones."
+    },
+    "Cognitive_Effort": {
+        "children": [
+            "Motivation",
+            "Task_Engagement"
+        ],
+        "description": "The mental resources allocated to the perceptual task."
+    },
+    "Synaptic_Changes": {
+        "children": [
+            "Increased_Efficiency",
+            "Enhanced_Connectivity"
+        ],
+        "description": "Changes in the strength and number of connections between neurons."
+    },
+    "Brain_Reorganization": {
+        "children": [
+            "Cortical_Map_Changes",
+            "Functional_Specialization"
+        ],
+        "description": "Structural changes in brain areas responsible for processing the relevant stimuli."
+    },
+    "Pattern_Recognition": {
+        "children": [
+            "Faster_Processing",
+            "Improved_Accuracy"
+        ],
+        "description": "The ability to quickly and accurately identify patterns in stimuli."
+    },
+    "Discrimination_Improvement": {
+        "children": [
+            "Increased_Sensitivity",
+            "Better_Distinction"
+        ],
+        "description": "The ability to better differentiate between similar stimuli."
+    },
+    "Improved_Performance": {
+        "children": [
+            "Faster_Reaction_Time",
+            "Higher_Accuracy"
+        ],
+        "description": "Improved speed and accuracy in performing the perceptual task."
+    },
+    "Reduced_Interference": {
+        "children": [
+            "Less_Distraction",
+            "Improved_Focus"
+        ],
+        "description": "Reduced impact of irrelevant stimuli on task performance."
+    },
+    "Motivation": {
+        "children": [
+            "Persistence",
+            "Engagement"
+        ],
+        "description": "The drive to continue practicing and improving perceptual skills."
+    },
+    "Task_Engagement": {
+        "children": [
+            "Active_Participation",
+            "Focused_Attention"
+        ],
+        "description": "Active involvement and focused attention during the learning process."
+    },
+    "Increased_Efficiency": {
+        "children": [
+            "Reduced_Cognitive_Load",
+            "Faster_Processing"
+        ],
+        "description": "More efficient neural processing of relevant stimuli."
+    },
+    "Enhanced_Connectivity": {
+        "children": [
+            "Improved_Communication",
+            "Stronger_Neural_Networks"
+        ],
+        "description": "Strengthened connections between brain regions involved in the perceptual task."
+    },
+    "Cortical_Map_Changes": {
+        "children": [
+            "Expansion_of_Relevant_Areas",
+            "Refinement_of_Neural_Representations"
+        ],
+        "description": "Changes in the size and organization of cortical areas responsible for processing the stimuli."
+    },
+    "Functional_Specialization": {
+        "children": [
+            "Increased_Efficiency",
+            "Improved_Performance"
+        ],
+        "description": "Greater specialization of brain regions for processing specific aspects of the stimuli."
+    },
+    "Faster_Processing": {
+        "children": [
+            "Improved_Performance",
+            "Reduced_Cognitive_Load"
+        ],
+        "description": "Faster processing of relevant stimuli leads to improved performance."
+    },
+    "Improved_Accuracy": {
+        "children": [
+            "Better_Decision_Making",
+            "Reduced_Errors"
+        ],
+        "description": "Increased accuracy in identifying and responding to stimuli."
+    },
+    "Increased_Sensitivity": {
+        "children": [
+            "Better_Detection",
+            "Improved_Discrimination"
+        ],
+        "description": "Increased ability to detect subtle differences in stimuli."
+    },
+    "Better_Distinction": {
+        "children": [
+            "Improved_Performance",
+            "Reduced_Confusion"
+        ],
+        "description": "Improved ability to distinguish between similar stimuli."
+    },
+    "Less_Distraction": {
+        "children": [],
+        "description": "Reduced interference from irrelevant stimuli."
+    },
+    "Improved_Focus": {
+        "children": [],
+        "description": "Enhanced ability to concentrate on the task."
+    },
+    "Persistence": {
+        "children": [],
+        "description": "Continued effort despite challenges."
+    },
+    "Engagement": {
+        "children": [],
+        "description": "Active participation and interest in the task."
+    },
+    "Active_Participation": {
+        "children": [],
+        "description": "Engaged and focused participation in the learning process."
+    },
+    "Focused_Attention": {
+        "children": [],
+        "description": "Sustained attention on the relevant stimuli."
+    },
+    "Reduced_Cognitive_Load": {
+        "children": [],
+        "description": "Less mental effort required to process stimuli."
+    },
+    "Stronger_Neural_Networks": {
+        "children": [],
+        "description": "More robust and efficient neural pathways."
+    },
+    "Expansion_of_Relevant_Areas": {
+        "children": [],
+        "description": "Increase in the size of brain areas responsible for processing relevant stimuli."
+    },
+    "Refinement_of_Neural_Representations": {
+        "children": [],
+        "description": "More precise and efficient neural representations of stimuli."
+    },
+    "Better_Decision_Making": {
+        "children": [],
+        "description": "Improved ability to make accurate judgments based on perceptual information."
+    },
+    "Reduced_Errors": {
+        "children": [],
+        "description": "Fewer mistakes in performing the perceptual task."
+    },
+    "Better_Detection": {
+        "children": [],
+        "description": "Improved ability to detect faint or subtle stimuli."
+    },
+    "Improved_Discrimination": {
+        "children": [],
+        "description": "Enhanced ability to differentiate between similar stimuli."
+    },
+    "Reduced_Confusion": {
+        "children": [],
+        "description": "Less uncertainty and confusion when processing stimuli."
+    }
+}

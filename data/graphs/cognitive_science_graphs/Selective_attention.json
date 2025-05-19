@@ -1,0 +1,207 @@
+{
+    "Selective Attention": {
+        "children": [
+            "Goal-directed Attention",
+            "Stimulus-driven Attention"
+        ],
+        "description": "The process of focusing on specific aspects of the environment while ignoring others"
+    },
+    "Goal-directed Attention": {
+        "children": [
+            "Top-down Processing",
+            "Working Memory"
+        ],
+        "description": "Attention guided by internal goals and expectations"
+    },
+    "Stimulus-driven Attention": {
+        "children": [
+            "Bottom-up Processing",
+            "Saliency"
+        ],
+        "description": "Attention captured by salient stimuli in the environment"
+    },
+    "Top-down Processing": {
+        "children": [
+            "Prior Knowledge",
+            "Cognitive Control"
+        ],
+        "description": "Information processing driven by pre-existing knowledge and expectations"
+    },
+    "Bottom-up Processing": {
+        "children": [
+            "Sensory Input",
+            "Feature Detection"
+        ],
+        "description": "Information processing driven by sensory input"
+    },
+    "Working Memory": {
+        "children": [
+            "Maintenance",
+            "Manipulation"
+        ],
+        "description": "Temporary storage and manipulation of information"
+    },
+    "Saliency": {
+        "children": [
+            "Intensity",
+            "Novelty"
+        ],
+        "description": "The degree to which a stimulus stands out from its surroundings"
+    },
+    "Prior Knowledge": {
+        "children": [
+            "Experience",
+            "Learning"
+        ],
+        "description": "Knowledge acquired through past experiences"
+    },
+    "Cognitive Control": {
+        "children": [
+            "Inhibition",
+            "Executive Functions"
+        ],
+        "description": "The ability to regulate attention and behavior"
+    },
+    "Sensory Input": {
+        "children": [
+            "Visual Input",
+            "Auditory Input"
+        ],
+        "description": "Information received through the senses"
+    },
+    "Feature Detection": {
+        "children": [
+            "Edges",
+            "Colors"
+        ],
+        "description": "Identification of specific features in sensory input"
+    },
+    "Maintenance": {
+        "children": [
+            "Rehearsal",
+            "Encoding"
+        ],
+        "description": "Maintaining information in working memory"
+    },
+    "Manipulation": {
+        "children": [
+            "Transformation",
+            "Reasoning"
+        ],
+        "description": "Manipulating information in working memory"
+    },
+    "Intensity": {
+        "children": [
+            "Brightness",
+            "Loudness"
+        ],
+        "description": "The physical strength of a stimulus"
+    },
+    "Novelty": {
+        "children": [
+            "Unexpectedness",
+            "Surprise"
+        ],
+        "description": "The degree to which a stimulus is unexpected"
+    },
+    "Experience": {
+        "children": [
+            "Past Events",
+            "Repeated Exposure"
+        ],
+        "description": "Accumulated knowledge from past events"
+    },
+    "Learning": {
+        "children": [
+            "Associative Learning",
+            "Reinforcement Learning"
+        ],
+        "description": "Acquiring new knowledge through various learning mechanisms"
+    },
+    "Inhibition": {
+        "children": [
+            "Suppression",
+            "Filtering"
+        ],
+        "description": "The ability to suppress irrelevant information"
+    },
+    "Executive Functions": {
+        "children": [
+            "Planning",
+            "Decision Making"
+        ],
+        "description": "Higher-order cognitive processes involved in goal-directed behavior"
+    },
+    "Visual Input": {
+        "children": [],
+        "description": "Information received through the visual system"
+    },
+    "Auditory Input": {
+        "children": [],
+        "description": "Information received through the auditory system"
+    },
+    "Edges": {
+        "children": [],
+        "description": "Boundaries between objects"
+    },
+    "Colors": {
+        "children": [],
+        "description": "Chromatic properties of objects"
+    },
+    "Rehearsal": {
+        "children": [],
+        "description": "Repeating information to maintain it in memory"
+    },
+    "Encoding": {
+        "children": [],
+        "description": "Processing information for storage in memory"
+    },
+    "Transformation": {
+        "children": [],
+        "description": "Modifying information in working memory"
+    },
+    "Reasoning": {
+        "children": [],
+        "description": "Using information to draw conclusions"
+    },
+    "Unexpectedness": {
+        "children": [],
+        "description": "The degree to which a stimulus is unanticipated"
+    },
+    "Surprise": {
+        "children": [],
+        "description": "An emotional response to unexpected events"
+    },
+    "Past Events": {
+        "children": [],
+        "description": "Previously experienced events"
+    },
+    "Repeated Exposure": {
+        "children": [],
+        "description": "Repeated presentation of a stimulus"
+    },
+    "Associative Learning": {
+        "children": [],
+        "description": "Learning through association"
+    },
+    "Reinforcement Learning": {
+        "children": [],
+        "description": "Learning through rewards and punishments"
+    },
+    "Suppression": {
+        "children": [],
+        "description": "Actively inhibiting irrelevant information"
+    },
+    "Filtering": {
+        "children": [],
+        "description": "Selecting relevant information and ignoring irrelevant information"
+    },
+    "Planning": {
+        "children": [],
+        "description": "Formulating a plan to achieve a goal"
+    },
+    "Decision Making": {
+        "children": [],
+        "description": "Choosing between different options"
+    }
+}

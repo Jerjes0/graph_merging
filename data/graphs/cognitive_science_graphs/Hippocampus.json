@@ -1,0 +1,314 @@
+{
+    "Hippocampus": {
+        "children": [
+            "Memory Consolidation",
+            "Spatial Navigation"
+        ],
+        "description": "A seahorse-shaped brain structure crucial for learning and memory"
+    },
+    "Memory Consolidation": {
+        "children": [
+            "Long-Term Potentiation",
+            "Synaptic Plasticity"
+        ],
+        "description": "The process of stabilizing a memory trace after acquisition"
+    },
+    "Spatial Navigation": {
+        "children": [
+            "Place Cells",
+            "Grid Cells"
+        ],
+        "description": "The ability to navigate and remember spatial locations"
+    },
+    "Long-Term Potentiation": {
+        "children": [
+            "Increased Synaptic Strength",
+            "Memory Formation"
+        ],
+        "description": "A persistent strengthening of synapses based on recent patterns of activity"
+    },
+    "Synaptic Plasticity": {
+        "children": [
+            "Learning",
+            "Adaptation"
+        ],
+        "description": "The ability of synapses to strengthen or weaken over time"
+    },
+    "Place Cells": {
+        "children": [
+            "Spatial Representation",
+            "Cognitive Maps"
+        ],
+        "description": "Neurons that fire when an animal is in a particular location"
+    },
+    "Grid Cells": {
+        "children": [
+            "Spatial Metric",
+            "Path Integration"
+        ],
+        "description": "Neurons that fire when an animal is at multiple locations forming a grid"
+    },
+    "Increased Synaptic Strength": {
+        "children": [
+            "Improved Recall",
+            "Enhanced Memory"
+        ],
+        "description": "Strengthened connections between neurons leading to better memory"
+    },
+    "Memory Formation": {
+        "children": [
+            "Encoding",
+            "Storage"
+        ],
+        "description": "The process of creating new memories"
+    },
+    "Learning": {
+        "children": [
+            "Experience",
+            "Knowledge"
+        ],
+        "description": "The acquisition of new information or skills"
+    },
+    "Adaptation": {
+        "children": [
+            "Survival",
+            "Evolution"
+        ],
+        "description": "The ability to adjust to changes in the environment"
+    },
+    "Spatial Representation": {
+        "children": [
+            "Mental Maps",
+            "Navigation"
+        ],
+        "description": "Internal representation of spatial information"
+    },
+    "Cognitive Maps": {
+        "children": [
+            "Spatial Reasoning",
+            "Problem Solving"
+        ],
+        "description": "Mental representations of the spatial layout of an environment"
+    },
+    "Spatial Metric": {
+        "children": [
+            "Distance Estimation",
+            "Direction Sensing"
+        ],
+        "description": "The ability to measure distances and directions"
+    },
+    "Path Integration": {
+        "children": [
+            "Dead Reckoning",
+            "Self-Localization"
+        ],
+        "description": "The ability to track one's position relative to a starting point"
+    },
+    "Improved Recall": {
+        "children": [
+            "Retrieval",
+            "Remembering"
+        ],
+        "description": "The ability to access stored memories"
+    },
+    "Enhanced Memory": {
+        "children": [
+            "Memory Capacity",
+            "Memory Accuracy"
+        ],
+        "description": "Improved ability to store and retrieve information"
+    },
+    "Encoding": {
+        "children": [
+            "Sensory Input",
+            "Attention"
+        ],
+        "description": "The process of transforming sensory information into a memory trace"
+    },
+    "Storage": {
+        "children": [],
+        "description": "The process of maintaining information in memory"
+    },
+    "Experience": {
+        "children": [
+            "Sensory Input",
+            "Motor Actions"
+        ],
+        "description": "Interactions with the environment"
+    },
+    "Knowledge": {
+        "children": [
+            "Understanding",
+            "Expertise"
+        ],
+        "description": "Information acquired through learning"
+    },
+    "Mental Maps": {
+        "children": [
+            "Visualization",
+            "Planning"
+        ],
+        "description": "Visual representations of spatial information"
+    },
+    "Navigation": {
+        "children": [
+            "Wayfinding",
+            "Orientation"
+        ],
+        "description": "The process of finding one's way"
+    },
+    "Spatial Reasoning": {
+        "children": [
+            "Problem Solving",
+            "Decision Making"
+        ],
+        "description": "The ability to reason about spatial relationships"
+    },
+    "Problem Solving": {
+        "children": [
+            "Solutions",
+            "Outcomes"
+        ],
+        "description": "The process of finding solutions to problems"
+    },
+    "Distance Estimation": {
+        "children": [
+            "Accuracy",
+            "Precision"
+        ],
+        "description": "The ability to accurately estimate distances"
+    },
+    "Direction Sensing": {
+        "children": [
+            "Compass Sense",
+            "Orientation"
+        ],
+        "description": "The ability to sense direction"
+    },
+    "Dead Reckoning": {
+        "children": [
+            "Position Tracking",
+            "Self-Localization"
+        ],
+        "description": "Estimating one's position based on previous movements"
+    },
+    "Self-Localization": {
+        "children": [
+            "Awareness",
+            "Navigation"
+        ],
+        "description": "Knowing one's location in space"
+    },
+    "Retrieval": {
+        "children": [
+            "Recall",
+            "Recognition"
+        ],
+        "description": "The process of accessing stored memories"
+    },
+    "Remembering": {
+        "children": [
+            "Recall",
+            "Recollection"
+        ],
+        "description": "The act of bringing a memory to conscious awareness"
+    },
+    "Memory Capacity": {
+        "children": [
+            "Storage",
+            "Retrieval"
+        ],
+        "description": "The amount of information that can be stored in memory"
+    },
+    "Memory Accuracy": {
+        "children": [
+            "Reliability",
+            "Precision"
+        ],
+        "description": "The accuracy of stored memories"
+    },
+    "Sensory Input": {
+        "children": [],
+        "description": "Information received from the senses"
+    },
+    "Attention": {
+        "children": [],
+        "description": "The process of focusing on specific information"
+    },
+    "Consolidation": {
+        "children": [],
+        "description": "The process of stabilizing a memory trace"
+    },
+    "Solutions": {
+        "children": [],
+        "description": "Answers to problems"
+    },
+    "Outcomes": {
+        "children": [],
+        "description": "Results of actions"
+    },
+    "Visualization": {
+        "children": [],
+        "description": "The ability to form mental images"
+    },
+    "Planning": {
+        "children": [],
+        "description": "The process of making plans"
+    },
+    "Wayfinding": {
+        "children": [],
+        "description": "The process of finding one's way"
+    },
+    "Orientation": {
+        "children": [],
+        "description": "Knowing one's position and direction"
+    },
+    "Decision Making": {
+        "children": [],
+        "description": "The process of making decisions"
+    },
+    "Accuracy": {
+        "children": [],
+        "description": "The degree of correctness"
+    },
+    "Precision": {
+        "children": [],
+        "description": "The level of detail"
+    },
+    "Compass Sense": {
+        "children": [],
+        "description": "The ability to sense direction"
+    },
+    "Position Tracking": {
+        "children": [],
+        "description": "The process of tracking one's position"
+    },
+    "Awareness": {
+        "children": [],
+        "description": "Conscious perception"
+    },
+    "Recall": {
+        "children": [],
+        "description": "The ability to retrieve information from memory"
+    },
+    "Recollection": {
+        "children": [],
+        "description": "The process of remembering details"
+    },
+    "Reliability": {
+        "children": [],
+        "description": "The consistency of results"
+    },
+    "Motor Actions": {
+        "children": [],
+        "description": "Physical movements"
+    },
+    "Understanding": {
+        "children": [],
+        "description": "Grasping the meaning of something"
+    },
+    "Expertise": {
+        "children": [],
+        "description": "Advanced knowledge and skill"
+    }
+}

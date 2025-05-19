@@ -1,0 +1,450 @@
+{
+    "Cognitive Control": {
+        "children": [
+            "Working Memory",
+            "Inhibition"
+        ],
+        "description": "The ability to regulate thoughts, feelings, and actions to achieve goals."
+    },
+    "Working Memory": {
+        "children": [
+            "Goal Maintenance",
+            "Task Switching"
+        ],
+        "description": "The ability to hold information in mind and manipulate it."
+    },
+    "Inhibition": {
+        "children": [
+            "Response Inhibition",
+            "Interference Control"
+        ],
+        "description": "The ability to suppress irrelevant information or responses."
+    },
+    "Goal Maintenance": {
+        "children": [
+            "Planning",
+            "Decision Making"
+        ],
+        "description": "Maintaining focus on a goal despite distractions."
+    },
+    "Task Switching": {
+        "children": [
+            "Cognitive Flexibility",
+            "Multitasking"
+        ],
+        "description": "The ability to shift attention between tasks."
+    },
+    "Response Inhibition": {
+        "children": [
+            "Impulse Control",
+            "Self-Regulation"
+        ],
+        "description": "The ability to suppress inappropriate responses."
+    },
+    "Interference Control": {
+        "children": [
+            "Selective Attention",
+            "Filtering"
+        ],
+        "description": "The ability to filter out irrelevant information."
+    },
+    "Planning": {
+        "children": [
+            "Goal Setting",
+            "Strategy Selection"
+        ],
+        "description": "Creating a plan to achieve a goal."
+    },
+    "Decision Making": {
+        "children": [
+            "Risk Assessment",
+            "Outcome Evaluation"
+        ],
+        "description": "Choosing between different options."
+    },
+    "Cognitive Flexibility": {
+        "children": [
+            "Adaptability",
+            "Problem Solving"
+        ],
+        "description": "The ability to adjust to changing circumstances."
+    },
+    "Multitasking": {
+        "children": [
+            "Attention Allocation",
+            "Prioritization"
+        ],
+        "description": "Performing multiple tasks simultaneously."
+    },
+    "Impulse Control": {
+        "children": [
+            "Emotional Regulation",
+            "Behavioral Control"
+        ],
+        "description": "The ability to control impulsive behaviors."
+    },
+    "Self-Regulation": {
+        "children": [
+            "Self-Monitoring",
+            "Self-Correction"
+        ],
+        "description": "The ability to monitor and adjust one's behavior."
+    },
+    "Selective Attention": {
+        "children": [
+            "Focus",
+            "Concentration"
+        ],
+        "description": "The ability to focus on relevant information."
+    },
+    "Filtering": {
+        "children": [
+            "Distraction Reduction",
+            "Information Processing"
+        ],
+        "description": "The ability to filter out irrelevant information."
+    },
+    "Goal Setting": {
+        "children": [
+            "Motivation",
+            "Expectation"
+        ],
+        "description": "Setting goals and objectives."
+    },
+    "Strategy Selection": {
+        "children": [
+            "Problem Solving",
+            "Decision Making"
+        ],
+        "description": "Choosing the best strategy to achieve a goal."
+    },
+    "Risk Assessment": {
+        "children": [
+            "Probability Estimation",
+            "Consequence Evaluation"
+        ],
+        "description": "Evaluating the risks and benefits of different options."
+    },
+    "Outcome Evaluation": {
+        "children": [
+            "Feedback Processing",
+            "Learning"
+        ],
+        "description": "Evaluating the outcomes of decisions."
+    },
+    "Adaptability": {
+        "children": [
+            "Flexibility",
+            "Resilience"
+        ],
+        "description": "The ability to adapt to changing circumstances."
+    },
+    "Problem Solving": {
+        "children": [
+            "Creativity",
+            "Innovation"
+        ],
+        "description": "Finding solutions to problems."
+    },
+    "Attention Allocation": {
+        "children": [
+            "Resource Management",
+            "Prioritization"
+        ],
+        "description": "Allocating attention to different tasks."
+    },
+    "Prioritization": {
+        "children": [
+            "Task Sequencing",
+            "Time Management"
+        ],
+        "description": "Prioritizing tasks based on importance and urgency."
+    },
+    "Emotional Regulation": {
+        "children": [
+            "Stress Management",
+            "Mood Regulation"
+        ],
+        "description": "The ability to regulate emotions."
+    },
+    "Behavioral Control": {
+        "children": [
+            "Self-Discipline",
+            "Self-Control"
+        ],
+        "description": "The ability to control behavior."
+    },
+    "Self-Monitoring": {
+        "children": [
+            "Self-Awareness",
+            "Metacognition"
+        ],
+        "description": "The ability to monitor one's own behavior."
+    },
+    "Self-Correction": {
+        "children": [
+            "Error Detection",
+            "Error Correction"
+        ],
+        "description": "The ability to correct one's own mistakes."
+    },
+    "Focus": {
+        "children": [
+            "Concentration",
+            "Sustained Attention"
+        ],
+        "description": "The ability to maintain focus on a task."
+    },
+    "Concentration": {
+        "children": [
+            "Attention Span",
+            "Mental Effort"
+        ],
+        "description": "The ability to concentrate on a task."
+    },
+    "Distraction Reduction": {
+        "children": [
+            "Ignoring Distractions",
+            "Filtering Irrelevant Information"
+        ],
+        "description": "The ability to reduce distractions."
+    },
+    "Information Processing": {
+        "children": [
+            "Encoding",
+            "Retrieval"
+        ],
+        "description": "The ability to process information efficiently."
+    },
+    "Motivation": {
+        "children": [
+            "Intrinsic Motivation",
+            "Extrinsic Motivation"
+        ],
+        "description": "The drive to achieve a goal."
+    },
+    "Expectation": {
+        "children": [
+            "Goal Setting",
+            "Outcome Expectation"
+        ],
+        "description": "Expectations about the outcome of a goal."
+    },
+    "Probability Estimation": {
+        "children": [
+            "Risk Assessment",
+            "Decision Making"
+        ],
+        "description": "Estimating the probability of different outcomes."
+    },
+    "Consequence Evaluation": {
+        "children": [
+            "Risk Assessment",
+            "Decision Making"
+        ],
+        "description": "Evaluating the consequences of different outcomes."
+    },
+    "Feedback Processing": {
+        "children": [
+            "Learning",
+            "Adaptation"
+        ],
+        "description": "Processing feedback to improve performance."
+    },
+    "Learning": {
+        "children": [
+            "Knowledge Acquisition",
+            "Skill Development"
+        ],
+        "description": "Acquiring new knowledge and skills."
+    },
+    "Flexibility": {
+        "children": [
+            "Adaptability",
+            "Problem Solving"
+        ],
+        "description": "The ability to be flexible and adaptable."
+    },
+    "Resilience": {
+        "children": [
+            "Coping Mechanisms",
+            "Stress Management"
+        ],
+        "description": "The ability to bounce back from setbacks."
+    },
+    "Creativity": {
+        "children": [
+            "Innovation",
+            "Problem Solving"
+        ],
+        "description": "The ability to generate new ideas."
+    },
+    "Innovation": {
+        "children": [
+            "Creativity",
+            "Problem Solving"
+        ],
+        "description": "The ability to come up with new solutions."
+    },
+    "Resource Management": {
+        "children": [
+            "Time Management",
+            "Prioritization"
+        ],
+        "description": "Managing resources effectively."
+    },
+    "Time Management": {
+        "children": [
+            "Planning",
+            "Organization"
+        ],
+        "description": "Managing time effectively."
+    },
+    "Self-Discipline": {
+        "children": [
+            "Self-Control",
+            "Willpower"
+        ],
+        "description": "The ability to control impulses and follow through on goals."
+    },
+    "Self-Control": {
+        "children": [
+            "Self-Regulation",
+            "Emotional Regulation"
+        ],
+        "description": "The ability to control one's behavior and emotions."
+    },
+    "Self-Awareness": {
+        "children": [
+            "Metacognition",
+            "Self-Reflection"
+        ],
+        "description": "The ability to be aware of one's own thoughts and feelings."
+    },
+    "Metacognition": {
+        "children": [
+            "Self-Monitoring",
+            "Self-Regulation"
+        ],
+        "description": "Thinking about one's own thinking."
+    },
+    "Error Detection": {
+        "children": [
+            "Self-Monitoring",
+            "Self-Correction"
+        ],
+        "description": "The ability to detect errors."
+    },
+    "Error Correction": {
+        "children": [
+            "Self-Correction",
+            "Problem Solving"
+        ],
+        "description": "The ability to correct errors."
+    },
+    "Sustained Attention": {
+        "children": [
+            "Focus",
+            "Concentration"
+        ],
+        "description": "The ability to maintain attention over time."
+    },
+    "Ignoring Distractions": {
+        "children": [
+            "Selective Attention",
+            "Filtering"
+        ],
+        "description": "The ability to ignore distractions."
+    },
+    "Filtering Irrelevant Information": {
+        "children": [
+            "Selective Attention",
+            "Filtering"
+        ],
+        "description": "The ability to filter out irrelevant information."
+    },
+    "Encoding": {
+        "children": [
+            "Memory",
+            "Information Processing"
+        ],
+        "description": "The process of storing information in memory."
+    },
+    "Retrieval": {
+        "children": [
+            "Memory",
+            "Information Processing"
+        ],
+        "description": "The process of retrieving information from memory."
+    },
+    "Intrinsic Motivation": {
+        "children": [
+            "Motivation",
+            "Goal Setting"
+        ],
+        "description": "Motivation that comes from within."
+    },
+    "Extrinsic Motivation": {
+        "children": [
+            "Motivation",
+            "Goal Setting"
+        ],
+        "description": "Motivation that comes from external rewards."
+    },
+    "Outcome Expectation": {
+        "children": [
+            "Expectation",
+            "Goal Setting"
+        ],
+        "description": "Expectations about the outcome of a goal."
+    },
+    "Coping Mechanisms": {
+        "children": [
+            "Resilience",
+            "Stress Management"
+        ],
+        "description": "Strategies for coping with stress."
+    },
+    "Stress Management": {
+        "children": [
+            "Emotional Regulation",
+            "Resilience"
+        ],
+        "description": "Managing stress effectively."
+    },
+    "Willpower": {
+        "children": [
+            "Self-Discipline",
+            "Self-Control"
+        ],
+        "description": "The ability to exert self-control."
+    },
+    "Self-Reflection": {
+        "children": [
+            "Self-Awareness",
+            "Metacognition"
+        ],
+        "description": "The ability to reflect on one's own thoughts and feelings."
+    },
+    "Attention Span": {
+        "children": [
+            "Focus",
+            "Concentration"
+        ],
+        "description": "The length of time one can maintain attention."
+    },
+    "Mental Effort": {
+        "children": [
+            "Focus",
+            "Concentration"
+        ],
+        "description": "The amount of mental effort required to maintain focus."
+    },
+    "Organization": {
+        "children": [
+            "Time Management",
+            "Planning"
+        ],
+        "description": "Organizing tasks and resources effectively."
+    }
+}

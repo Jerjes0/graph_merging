@@ -1,0 +1,127 @@
+{
+    "Divided Attention": {
+        "children": [
+            "Reduced Performance",
+            "Increased Error Rate"
+        ],
+        "description": "The state of attending to multiple tasks or stimuli simultaneously."
+    },
+    "Reduced Performance": {
+        "children": [
+            "Decreased Efficiency",
+            "Missed Deadlines"
+        ],
+        "description": "Lower quality or quantity of work output due to divided attention."
+    },
+    "Increased Error Rate": {
+        "children": [
+            "Mistakes",
+            "Accidents"
+        ],
+        "description": "Higher probability of making errors or mistakes due to divided attention."
+    },
+    "Decreased Efficiency": {
+        "children": [
+            "Wasted Time",
+            "Resource Inefficiency"
+        ],
+        "description": "Reduced productivity and output due to inefficient task switching."
+    },
+    "Missed Deadlines": {
+        "children": [
+            "Negative Consequences",
+            "Stress"
+        ],
+        "description": "Failure to meet deadlines due to impaired focus and multitasking."
+    },
+    "Mistakes": {
+        "children": [
+            "Financial Losses",
+            "Reputational Damage"
+        ],
+        "description": "Errors leading to negative outcomes."
+    },
+    "Accidents": {
+        "children": [
+            "Injuries",
+            "Property Damage"
+        ],
+        "description": "Unintentional events resulting from impaired attention."
+    },
+    "Wasted Time": {
+        "children": [
+            "Procrastination",
+            "Frustration"
+        ],
+        "description": "Time spent inefficiently due to divided attention."
+    },
+    "Resource Inefficiency": {
+        "children": [
+            "Increased Costs",
+            "Reduced Profitability"
+        ],
+        "description": "Inefficient use of resources leading to financial losses."
+    },
+    "Negative Consequences": {
+        "children": [
+            "Disciplinary Action",
+            "Job Loss"
+        ],
+        "description": "Adverse outcomes resulting from missed deadlines."
+    },
+    "Stress": {
+        "children": [
+            "Anxiety",
+            "Burnout"
+        ],
+        "description": "Mental strain caused by the pressure of multitasking."
+    },
+    "Financial Losses": {
+        "children": [],
+        "description": "Monetary losses due to mistakes."
+    },
+    "Reputational Damage": {
+        "children": [],
+        "description": "Harm to reputation due to errors."
+    },
+    "Injuries": {
+        "children": [],
+        "description": "Physical harm due to accidents."
+    },
+    "Property Damage": {
+        "children": [],
+        "description": "Damage to physical assets due to accidents."
+    },
+    "Procrastination": {
+        "children": [],
+        "description": "Delaying tasks due to difficulty focusing."
+    },
+    "Frustration": {
+        "children": [],
+        "description": "Negative emotional state due to inefficiency."
+    },
+    "Increased Costs": {
+        "children": [],
+        "description": "Higher expenses due to resource inefficiency."
+    },
+    "Reduced Profitability": {
+        "children": [],
+        "description": "Lower profits due to decreased efficiency."
+    },
+    "Disciplinary Action": {
+        "children": [],
+        "description": "Formal reprimand for missed deadlines."
+    },
+    "Job Loss": {
+        "children": [],
+        "description": "Termination of employment due to poor performance."
+    },
+    "Anxiety": {
+        "children": [],
+        "description": "Feeling of worry and unease due to stress."
+    },
+    "Burnout": {
+        "children": [],
+        "description": "State of emotional, physical, and mental exhaustion."
+    }
+}

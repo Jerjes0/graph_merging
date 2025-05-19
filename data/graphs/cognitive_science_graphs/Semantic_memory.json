@@ -1,0 +1,133 @@
+{
+    "Semantic Memory": {
+        "children": [
+            "Long-Term Memory",
+            "Episodic Memory"
+        ],
+        "description": "A type of long-term memory that stores general knowledge and facts about the world"
+    },
+    "Long-Term Memory": {
+        "children": [
+            "Procedural Memory",
+            "Declarative Memory"
+        ],
+        "description": "A relatively permanent and limitless storehouse of the memory system"
+    },
+    "Episodic Memory": {
+        "children": [
+            "Autobiographical Memory",
+            "Flashbulb Memory"
+        ],
+        "description": "Memory for specific events and experiences"
+    },
+    "Procedural Memory": {
+        "children": [
+            "Motor Skills",
+            "Habits"
+        ],
+        "description": "Memory for skills and habits"
+    },
+    "Declarative Memory": {
+        "children": [
+            "Semantic Memory",
+            "Episodic Memory"
+        ],
+        "description": "Memory for facts and events"
+    },
+    "Autobiographical Memory": {
+        "children": [
+            "Personal Narratives",
+            "Life Events"
+        ],
+        "description": "Memory of personal experiences"
+    },
+    "Flashbulb Memory": {
+        "children": [
+            "Vivid Memories",
+            "Emotional Events"
+        ],
+        "description": "A highly detailed and vivid memory of an emotionally significant event"
+    },
+    "Motor Skills": {
+        "children": [
+            "Riding a Bike",
+            "Playing an Instrument"
+        ],
+        "description": "Memory for physical skills"
+    },
+    "Habits": {
+        "children": [
+            "Brushing Teeth",
+            "Daily Routines"
+        ],
+        "description": "Memory for automatic behaviors"
+    },
+    "Personal Narratives": {
+        "children": [
+            "Self-Concept",
+            "Identity"
+        ],
+        "description": "Stories we tell about ourselves"
+    },
+    "Life Events": {
+        "children": [
+            "Significant Experiences",
+            "Milestones"
+        ],
+        "description": "Important events in our lives"
+    },
+    "Vivid Memories": {
+        "children": [
+            "Sensory Details",
+            "Emotional Impact"
+        ],
+        "description": "Memories with strong sensory and emotional components"
+    },
+    "Emotional Events": {
+        "children": [
+            "Traumatic Events",
+            "Joyful Events"
+        ],
+        "description": "Events that evoke strong emotions"
+    },
+    "Riding a Bike": {
+        "children": [],
+        "description": "Skill of riding a bicycle"
+    },
+    "Playing an Instrument": {
+        "children": [],
+        "description": "Skill of playing a musical instrument"
+    },
+    "Brushing Teeth": {
+        "children": [],
+        "description": "Habit of brushing teeth"
+    },
+    "Daily Routines": {
+        "children": [],
+        "description": "Habitual daily activities"
+    },
+    "Self-Concept": {
+        "children": [],
+        "description": "Understanding of oneself"
+    },
+    "Identity": {
+        "children": [],
+        "description": "Sense of who one is"
+    },
+    "Sensory Details": {
+        "children": [],
+        "description": "Detailed sensory information in a memory"
+    },
+    "Emotional Impact": {
+        "children": [],
+        "description": "Emotional intensity of a memory"
+    },
+    "Traumatic Events": {
+        "children": [],
+        "description": "Events causing significant emotional distress"
+    },
+    "Joyful Events": {
+        "children": [],
+        "description": "Events causing happiness and joy"
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "Long-term memory": {
+        "children": [
+            "Encoding",
+            "Retrieval"
+        ],
+        "description": "The ability to store and retrieve information over extended periods."
+    },
+    "Encoding": {
+        "children": [
+            "Attention",
+            "Consolidation"
+        ],
+        "description": "The process of transforming sensory information into a format suitable for long-term storage."
+    },
+    "Retrieval": {
+        "children": [
+            "Recall",
+            "Recognition"
+        ],
+        "description": "The process of accessing and bringing stored information back into conscious awareness."
+    },
+    "Attention": {
+        "children": [
+            "Selective attention",
+            "Divided attention"
+        ],
+        "description": "Focusing cognitive resources on specific stimuli."
+    },
+    "Consolidation": {
+        "children": [
+            "Synaptic consolidation",
+            "System consolidation"
+        ],
+        "description": "The process of stabilizing memories over time."
+    },
+    "Recall": {
+        "children": [
+            "Free recall",
+            "Cued recall"
+        ],
+        "description": "Retrieving information without explicit cues."
+    },
+    "Recognition": {
+        "children": [
+            "Familiarity",
+            "Recollection"
+        ],
+        "description": "Identifying previously encountered information."
+    },
+    "Selective attention": {
+        "children": [
+            "Filtering",
+            "Prioritization"
+        ],
+        "description": "Focusing on relevant information and ignoring irrelevant information."
+    },
+    "Divided attention": {
+        "children": [
+            "Task switching",
+            "Multitasking"
+        ],
+        "description": "Attending to multiple sources of information simultaneously."
+    },
+    "Synaptic consolidation": {
+        "children": [
+            "Long-term potentiation",
+            "Long-term depression"
+        ],
+        "description": "Changes in synaptic strength between neurons."
+    },
+    "System consolidation": {
+        "children": [
+            "Hippocampus",
+            "Cortex"
+        ],
+        "description": "The gradual shift of memory traces from the hippocampus to the cortex."
+    },
+    "Free recall": {
+        "children": [],
+        "description": "Retrieving information without any cues."
+    },
+    "Cued recall": {
+        "children": [],
+        "description": "Retrieving information with the help of cues."
+    },
+    "Familiarity": {
+        "children": [],
+        "description": "A sense of knowing something without remembering specific details."
+    },
+    "Recollection": {
+        "children": [],
+        "description": "Remembering specific details about a past event."
+    },
+    "Long-term potentiation": {
+        "children": [],
+        "description": "Strengthening of synaptic connections."
+    },
+    "Long-term depression": {
+        "children": [],
+        "description": "Weakening of synaptic connections."
+    },
+    "Hippocampus": {
+        "children": [],
+        "description": "Brain region crucial for memory consolidation."
+    },
+    "Cortex": {
+        "children": [],
+        "description": "Brain region involved in long-term storage of memories."
+    },
+    "Filtering": {
+        "children": [],
+        "description": "Ignoring irrelevant information."
+    },
+    "Prioritization": {
+        "children": [],
+        "description": "Focusing on important information."
+    },
+    "Task switching": {
+        "children": [],
+        "description": "Switching between different tasks."
+    },
+    "Multitasking": {
+        "children": [],
+        "description": "Performing multiple tasks simultaneously."
+    }
+}

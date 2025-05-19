@@ -1,0 +1,219 @@
+{
+    "Decision": {
+        "children": [
+            "Information Gathering",
+            "Goal Setting"
+        ],
+        "description": "The overall process of making a choice."
+    },
+    "Information Gathering": {
+        "children": [
+            "Data Acquisition",
+            "Data Analysis"
+        ],
+        "description": "Collecting and processing relevant information."
+    },
+    "Goal Setting": {
+        "children": [
+            "Defining Objectives",
+            "Prioritizing Goals"
+        ],
+        "description": "Establishing desired outcomes."
+    },
+    "Data Acquisition": {
+        "children": [
+            "Research",
+            "Observation"
+        ],
+        "description": "Gathering raw data from various sources."
+    },
+    "Data Analysis": {
+        "children": [
+            "Interpretation",
+            "Evaluation"
+        ],
+        "description": "Analyzing gathered data to identify patterns and insights."
+    },
+    "Defining Objectives": {
+        "children": [
+            "Specificity",
+            "Measurability"
+        ],
+        "description": "Clearly defining what needs to be achieved."
+    },
+    "Prioritizing Goals": {
+        "children": [
+            "Urgency",
+            "Importance"
+        ],
+        "description": "Ranking goals based on their significance."
+    },
+    "Research": {
+        "children": [
+            "Literature Review",
+            "Expert Consultation"
+        ],
+        "description": "Exploring existing knowledge and seeking expert opinions."
+    },
+    "Observation": {
+        "children": [
+            "Direct Observation",
+            "Indirect Observation"
+        ],
+        "description": "Gathering data through direct or indirect observation."
+    },
+    "Interpretation": {
+        "children": [
+            "Inference",
+            "Conclusion"
+        ],
+        "description": "Drawing meaning from analyzed data."
+    },
+    "Evaluation": {
+        "children": [
+            "Assessment",
+            "Comparison"
+        ],
+        "description": "Judging the value and relevance of the data."
+    },
+    "Specificity": {
+        "children": [
+            "Clear Definition",
+            "Unambiguous Language"
+        ],
+        "description": "Ensuring clear and precise definition of objectives."
+    },
+    "Measurability": {
+        "children": [
+            "Quantifiable Metrics",
+            "Qualitative Indicators"
+        ],
+        "description": "Defining measurable criteria for success."
+    },
+    "Urgency": {
+        "children": [
+            "Time Sensitivity",
+            "Deadline"
+        ],
+        "description": "Assessing the time constraints associated with goals."
+    },
+    "Importance": {
+        "children": [
+            "Strategic Alignment",
+            "Value Proposition"
+        ],
+        "description": "Determining the strategic importance and value of goals."
+    },
+    "Literature Review": {
+        "children": [
+            "Relevant Studies",
+            "Background Information"
+        ],
+        "description": "Reviewing existing literature to inform the decision."
+    },
+    "Expert Consultation": {
+        "children": [
+            "Seeking Advice",
+            "Gathering Perspectives"
+        ],
+        "description": "Consulting experts for guidance and insights."
+    },
+    "Direct Observation": {
+        "children": [
+            "First-hand Experience",
+            "Real-time Data"
+        ],
+        "description": "Observing events or phenomena directly."
+    },
+    "Indirect Observation": {
+        "children": [
+            "Secondary Data",
+            "Reported Information"
+        ],
+        "description": "Observing events or phenomena through secondary sources."
+    },
+    "Inference": {
+        "children": [
+            "Logical Reasoning",
+            "Deductive Analysis"
+        ],
+        "description": "Drawing conclusions based on evidence."
+    },
+    "Conclusion": {
+        "children": [
+            "Summary",
+            "Recommendation"
+        ],
+        "description": "Formulating a final judgment or recommendation."
+    },
+    "Assessment": {
+        "children": [
+            "Strengths",
+            "Weaknesses"
+        ],
+        "description": "Evaluating the positive and negative aspects of the data."
+    },
+    "Comparison": {
+        "children": [
+            "Alternatives",
+            "Benchmarking"
+        ],
+        "description": "Comparing the data with alternatives or benchmarks."
+    },
+    "Clear Definition": {
+        "children": [
+            "Specific Terms",
+            "Precise Language"
+        ],
+        "description": "Using precise and unambiguous language to define objectives."
+    },
+    "Unambiguous Language": {
+        "children": [
+            "Avoiding Ambiguity",
+            "Clear Communication"
+        ],
+        "description": "Ensuring clear and concise communication of objectives."
+    },
+    "Quantifiable Metrics": {
+        "children": [
+            "Numerical Data",
+            "Measurable Outcomes"
+        ],
+        "description": "Using numerical data to measure progress towards objectives."
+    },
+    "Qualitative Indicators": {
+        "children": [
+            "Descriptive Data",
+            "Subjective Assessment"
+        ],
+        "description": "Using descriptive data to assess progress towards objectives."
+    },
+    "Time Sensitivity": {
+        "children": [
+            "Deadlines",
+            "Time Constraints"
+        ],
+        "description": "Considering the time constraints associated with achieving goals."
+    },
+    "Deadline": {
+        "children": [
+            "Projected Completion",
+            "Time-bound Targets"
+        ],
+        "description": "Setting specific deadlines for achieving goals."
+    },
+    "Strategic Alignment": {
+        "children": [
+            "Organizational Goals",
+            "Long-term Vision"
+        ],
+        "description": "Aligning goals with the overall strategic direction of the organization."
+    },
+    "Value Proposition": {
+        "children": [
+            "Benefits",
+            "Impact"
+        ],
+        "description": "Assessing the potential benefits and impact of achieving goals."
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Episodic Memory": {
+        "children": [
+            "Encoding",
+            "Retrieval"
+        ],
+        "description": "The mental system responsible for storing and retrieving specific personal experiences"
+    },
+    "Encoding": {
+        "children": [
+            "Sensory Input",
+            "Attention"
+        ],
+        "description": "The process of transforming experiences into a memory trace"
+    },
+    "Retrieval": {
+        "children": [
+            "Retrieval Cues",
+            "Context"
+        ],
+        "description": "The process of accessing and recalling stored memories"
+    },
+    "Sensory Input": {
+        "children": [
+            "Sensory Receptors",
+            "Perception"
+        ],
+        "description": "Information received through the senses"
+    },
+    "Attention": {
+        "children": [
+            "Focus",
+            "Selective Attention"
+        ],
+        "description": "The cognitive process of selectively concentrating on a particular aspect of the environment"
+    },
+    "Retrieval Cues": {
+        "children": [
+            "Environmental Cues",
+            "Internal Cues"
+        ],
+        "description": "Stimuli that trigger the retrieval of a memory"
+    },
+    "Context": {
+        "children": [
+            "Environmental Context",
+            "Internal State"
+        ],
+        "description": "The circumstances surrounding the encoding and retrieval of a memory"
+    },
+    "Sensory Receptors": {
+        "children": [
+            "Eyes",
+            "Ears"
+        ],
+        "description": "Specialized cells that detect sensory information"
+    },
+    "Perception": {
+        "children": [
+            "Interpretation",
+            "Organization"
+        ],
+        "description": "The process of organizing and interpreting sensory information"
+    },
+    "Focus": {
+        "children": [
+            "Conscious Effort",
+            "Motivation"
+        ],
+        "description": "The act of directing attention to a specific stimulus"
+    },
+    "Selective Attention": {
+        "children": [
+            "Filtering",
+            "Prioritization"
+        ],
+        "description": "The ability to focus on relevant information while ignoring irrelevant information"
+    },
+    "Environmental Cues": {
+        "children": [
+            "Location",
+            "Objects"
+        ],
+        "description": "External stimuli associated with a memory"
+    },
+    "Internal Cues": {
+        "children": [
+            "Emotions",
+            "Thoughts"
+        ],
+        "description": "Internal states associated with a memory"
+    },
+    "Environmental Context": {
+        "children": [
+            "Time",
+            "Place"
+        ],
+        "description": "The physical environment where an event occurred"
+    },
+    "Internal State": {
+        "children": [
+            "Mood",
+            "Physiological State"
+        ],
+        "description": "The internal physiological and emotional state during encoding and retrieval"
+    }
+}

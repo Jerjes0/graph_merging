@@ -1,0 +1,199 @@
+{
+    "Procedural Memory": {
+        "children": [
+            "Skill Acquisition",
+            "Habit Formation"
+        ],
+        "description": "The unconscious memory of how to do things."
+    },
+    "Skill Acquisition": {
+        "children": [
+            "Practice",
+            "Feedback"
+        ],
+        "description": "The process of learning a new skill through repetition and refinement."
+    },
+    "Habit Formation": {
+        "children": [
+            "Repetition",
+            "Reward"
+        ],
+        "description": "The development of automatic behaviors through repeated actions."
+    },
+    "Practice": {
+        "children": [
+            "Motor Skills",
+            "Cognitive Skills"
+        ],
+        "description": "Repeated performance of a task to improve proficiency."
+    },
+    "Feedback": {
+        "children": [
+            "Error Correction",
+            "Performance Improvement"
+        ],
+        "description": "Information about the outcome of an action, used to guide further learning."
+    },
+    "Repetition": {
+        "children": [
+            "Automaticity",
+            "Muscle Memory"
+        ],
+        "description": "Repeated execution of a behavior leading to proceduralization."
+    },
+    "Reward": {
+        "children": [
+            "Reinforcement",
+            "Motivation"
+        ],
+        "description": "Positive consequences that strengthen the likelihood of repeating a behavior."
+    },
+    "Motor Skills": {
+        "children": [
+            "Muscle Coordination",
+            "Fine Motor Control"
+        ],
+        "description": "Skills involving the movement of the body."
+    },
+    "Cognitive Skills": {
+        "children": [
+            "Problem Solving",
+            "Decision Making"
+        ],
+        "description": "Skills involving mental processes and reasoning."
+    },
+    "Error Correction": {
+        "children": [
+            "Adaptation",
+            "Refinement"
+        ],
+        "description": "Adjustments made in response to errors during skill acquisition."
+    },
+    "Performance Improvement": {
+        "children": [
+            "Efficiency",
+            "Accuracy"
+        ],
+        "description": "Enhanced skill execution due to practice and feedback."
+    },
+    "Automaticity": {
+        "children": [
+            "Unconscious Processing",
+            "Effortless Execution"
+        ],
+        "description": "The ability to perform a task without conscious thought."
+    },
+    "Muscle Memory": {
+        "children": [
+            "Motor Programs",
+            "Neural Pathways"
+        ],
+        "description": "The encoding of motor skills in the nervous system."
+    },
+    "Reinforcement": {
+        "children": [
+            "Positive Feedback Loop",
+            "Habit Strengthening"
+        ],
+        "description": "The strengthening of a behavior through rewards."
+    },
+    "Motivation": {
+        "children": [
+            "Goal Setting",
+            "Persistence"
+        ],
+        "description": "The drive to learn and improve a skill."
+    },
+    "Adaptation": {
+        "children": [
+            "Flexibility",
+            "Generalization"
+        ],
+        "description": "The ability to adjust a skill to different contexts."
+    },
+    "Refinement": {
+        "children": [
+            "Precision",
+            "Fluency"
+        ],
+        "description": "Increased accuracy and smoothness of skill execution."
+    },
+    "Efficiency": {
+        "children": [
+            "Reduced Effort",
+            "Faster Execution"
+        ],
+        "description": "Improved performance with less expenditure of resources."
+    },
+    "Accuracy": {
+        "children": [
+            "Reduced Errors",
+            "Consistent Performance"
+        ],
+        "description": "The degree to which a skill is performed correctly."
+    },
+    "Unconscious Processing": {
+        "children": [],
+        "description": "Execution of a skill without conscious awareness."
+    },
+    "Effortless Execution": {
+        "children": [],
+        "description": "Performing a skill with minimal cognitive load."
+    },
+    "Motor Programs": {
+        "children": [],
+        "description": "Pre-programmed sequences of muscle movements."
+    },
+    "Neural Pathways": {
+        "children": [],
+        "description": "Connections in the brain that support procedural memory."
+    },
+    "Positive Feedback Loop": {
+        "children": [],
+        "description": "A cycle of reward that reinforces behavior."
+    },
+    "Habit Strengthening": {
+        "children": [],
+        "description": "The process of making a habit stronger and more automatic."
+    },
+    "Goal Setting": {
+        "children": [],
+        "description": "Defining specific objectives for skill acquisition."
+    },
+    "Persistence": {
+        "children": [],
+        "description": "Continued effort despite challenges."
+    },
+    "Flexibility": {
+        "children": [],
+        "description": "Adaptability of a skill to different situations."
+    },
+    "Generalization": {
+        "children": [],
+        "description": "Applying a learned skill to new contexts."
+    },
+    "Precision": {
+        "children": [],
+        "description": "Accuracy and refinement of movement."
+    },
+    "Fluency": {
+        "children": [],
+        "description": "Smooth and effortless execution of a skill."
+    },
+    "Reduced Effort": {
+        "children": [],
+        "description": "Less energy and cognitive resources needed for skill execution."
+    },
+    "Faster Execution": {
+        "children": [],
+        "description": "Increased speed of skill performance."
+    },
+    "Reduced Errors": {
+        "children": [],
+        "description": "Fewer mistakes during skill execution."
+    },
+    "Consistent Performance": {
+        "children": [],
+        "description": "Reliable and predictable skill execution."
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "Serotonin": {
+        "children": [
+            "Mood",
+            "Sleep"
+        ],
+        "description": "A neurotransmitter involved in various bodily functions"
+    },
+    "Mood": {
+        "children": [
+            "Anxiety",
+            "Depression"
+        ],
+        "description": "Emotional state influenced by serotonin levels"
+    },
+    "Sleep": {
+        "children": [
+            "REM Sleep",
+            "Sleep Quality"
+        ],
+        "description": "Serotonin regulates sleep cycles and quality"
+    },
+    "Anxiety": {
+        "children": [
+            "Panic Attacks",
+            "Generalized Anxiety"
+        ],
+        "description": "Elevated anxiety linked to low serotonin"
+    },
+    "Depression": {
+        "children": [
+            "Major Depressive Disorder",
+            "Persistent Depressive Disorder"
+        ],
+        "description": "Low serotonin implicated in depressive disorders"
+    },
+    "REM Sleep": {
+        "children": [
+            "Dream Recall",
+            "Sleep Paralysis"
+        ],
+        "description": "Rapid eye movement sleep phase influenced by serotonin"
+    },
+    "Sleep Quality": {
+        "children": [
+            "Daytime Fatigue",
+            "Cognitive Function"
+        ],
+        "description": "Poor sleep quality associated with serotonin imbalances"
+    },
+    "Panic Attacks": {
+        "children": [
+            "Increased Heart Rate",
+            "Shortness of Breath"
+        ],
+        "description": "Physical symptoms of panic attacks linked to serotonin"
+    },
+    "Generalized Anxiety": {
+        "children": [
+            "Worry",
+            "Restlessness"
+        ],
+        "description": "Chronic worry and restlessness linked to serotonin deficiency"
+    },
+    "Major Depressive Disorder": {
+        "children": [
+            "Loss of Interest",
+            "Suicidal Ideation"
+        ],
+        "description": "A severe mood disorder often treated with serotonin reuptake inhibitors"
+    },
+    "Persistent Depressive Disorder": {
+        "children": [
+            "Low Mood",
+            "Fatigue"
+        ],
+        "description": "Chronic low mood and fatigue associated with serotonin dysfunction"
+    },
+    "Daytime Fatigue": {
+        "children": [
+            "Reduced Productivity",
+            "Impaired Concentration"
+        ],
+        "description": "Fatigue during the day due to poor sleep"
+    },
+    "Cognitive Function": {
+        "children": [
+            "Memory",
+            "Attention"
+        ],
+        "description": "Cognitive functions impacted by sleep quality and serotonin levels"
+    },
+    "Increased Heart Rate": {
+        "children": [],
+        "description": "A physical symptom of panic attacks"
+    },
+    "Shortness of Breath": {
+        "children": [],
+        "description": "A physical symptom of panic attacks"
+    },
+    "Worry": {
+        "children": [],
+        "description": "A symptom of generalized anxiety"
+    },
+    "Restlessness": {
+        "children": [],
+        "description": "A symptom of generalized anxiety"
+    },
+    "Loss of Interest": {
+        "children": [],
+        "description": "A symptom of major depressive disorder"
+    },
+    "Suicidal Ideation": {
+        "children": [],
+        "description": "A symptom of major depressive disorder"
+    },
+    "Low Mood": {
+        "children": [],
+        "description": "A symptom of persistent depressive disorder"
+    },
+    "Fatigue": {
+        "children": [],
+        "description": "A symptom of persistent depressive disorder"
+    },
+    "Reduced Productivity": {
+        "children": [],
+        "description": "A consequence of daytime fatigue"
+    },
+    "Impaired Concentration": {
+        "children": [],
+        "description": "A consequence of daytime fatigue"
+    },
+    "Dream Recall": {
+        "children": [],
+        "description": "Ability to remember dreams"
+    },
+    "Sleep Paralysis": {
+        "children": [],
+        "description": "Temporary inability to move during sleep"
+    }
+}

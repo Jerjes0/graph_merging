@@ -1,0 +1,132 @@
+{
+    "Neural Networks": {
+        "children": [
+            "Architecture",
+            "Training Data"
+        ],
+        "description": "The overall concept of neural networks"
+    },
+    "Architecture": {
+        "children": [
+            "Layers",
+            "Activation Functions"
+        ],
+        "description": "The structure and organization of a neural network"
+    },
+    "Training Data": {
+        "children": [
+            "Data Collection",
+            "Data Preprocessing"
+        ],
+        "description": "The data used to train the neural network"
+    },
+    "Layers": {
+        "children": [
+            "Input Layer",
+            "Hidden Layers"
+        ],
+        "description": "The layers of neurons in the network"
+    },
+    "Activation Functions": {
+        "children": [
+            "Sigmoid",
+            "ReLU"
+        ],
+        "description": "Functions that introduce non-linearity"
+    },
+    "Input Layer": {
+        "children": [
+            "Input Features"
+        ],
+        "description": "The layer receiving initial input"
+    },
+    "Hidden Layers": {
+        "children": [
+            "Weights",
+            "Biases"
+        ],
+        "description": "Intermediate layers processing information"
+    },
+    "Data Collection": {
+        "children": [
+            "Sensors",
+            "Databases"
+        ],
+        "description": "Methods for gathering training data"
+    },
+    "Data Preprocessing": {
+        "children": [
+            "Cleaning",
+            "Normalization"
+        ],
+        "description": "Preparing data for training"
+    },
+    "Weights": {
+        "children": [
+            "Gradient Descent"
+        ],
+        "description": "Parameters adjusted during training"
+    },
+    "Biases": {
+        "children": [
+            "Gradient Descent"
+        ],
+        "description": "Additional parameters adjusted during training"
+    },
+    "Gradient Descent": {
+        "children": [
+            "Loss Function"
+        ],
+        "description": "Optimization algorithm"
+    },
+    "Loss Function": {
+        "children": [
+            "Backpropagation"
+        ],
+        "description": "Measures the error in predictions"
+    },
+    "Backpropagation": {
+        "children": [
+            "Model Accuracy"
+        ],
+        "description": "Algorithm for updating weights and biases"
+    },
+    "Model Accuracy": {
+        "children": [
+            "Hyperparameter Tuning"
+        ],
+        "description": "Performance metric"
+    },
+    "Input Features": {
+        "children": [],
+        "description": "Raw input data"
+    },
+    "Sigmoid": {
+        "children": [],
+        "description": "A type of activation function"
+    },
+    "ReLU": {
+        "children": [],
+        "description": "Another type of activation function"
+    },
+    "Sensors": {
+        "children": [],
+        "description": "Devices that collect data"
+    },
+    "Databases": {
+        "children": [],
+        "description": "Data storage systems"
+    },
+    "Cleaning": {
+        "children": [],
+        "description": "Removing errors from data"
+    },
+    "Normalization": {
+        "children": [],
+        "description": "Scaling data to a specific range"
+    },
+    "Hyperparameter Tuning": {
+        "children": [],
+        "description": "Adjusting parameters to improve performance"
+    }
+}

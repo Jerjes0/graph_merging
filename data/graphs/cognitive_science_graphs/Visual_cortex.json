@@ -1,0 +1,93 @@
+{
+    "Visual Cortex": {
+        "children": [
+            "Retina",
+            "Lateral Geniculate Nucleus"
+        ],
+        "description": "The primary visual processing area in the brain"
+    },
+    "Retina": {
+        "children": [
+            "Photoreceptor Cells",
+            "Bipolar Cells"
+        ],
+        "description": "The light-sensitive tissue lining the inner surface of the eye"
+    },
+    "Photoreceptor Cells": {
+        "children": [
+            "Rods",
+            "Cones"
+        ],
+        "description": "Specialized cells in the retina that convert light into electrical signals"
+    },
+    "Rods": {
+        "children": [],
+        "description": "Photoreceptor cells responsible for vision in low light conditions"
+    },
+    "Cones": {
+        "children": [],
+        "description": "Photoreceptor cells responsible for color vision and high visual acuity"
+    },
+    "Bipolar Cells": {
+        "children": [
+            "Ganglion Cells"
+        ],
+        "description": "Neurons in the retina that transmit signals from photoreceptor cells to ganglion cells"
+    },
+    "Ganglion Cells": {
+        "children": [
+            "Optic Nerve"
+        ],
+        "description": "Neurons in the retina whose axons form the optic nerve"
+    },
+    "Optic Nerve": {
+        "children": [
+            "Lateral Geniculate Nucleus"
+        ],
+        "description": "The nerve that carries visual information from the retina to the brain"
+    },
+    "Lateral Geniculate Nucleus": {
+        "children": [
+            "Visual Cortex"
+        ],
+        "description": "A relay center in the thalamus that processes visual information before sending it to the visual cortex"
+    },
+    "V1 (Primary Visual Cortex)": {
+        "children": [
+            "V2 (Secondary Visual Cortex)",
+            "Superior Colliculus"
+        ],
+        "description": "The first cortical area to receive visual input"
+    },
+    "V2 (Secondary Visual Cortex)": {
+        "children": [
+            "V4",
+            "V5"
+        ],
+        "description": "Processes information from V1, further refining visual perception"
+    },
+    "V4": {
+        "children": [
+            "Inferotemporal Cortex"
+        ],
+        "description": "Involved in color perception and object recognition"
+    },
+    "V5": {
+        "children": [
+            "Parietal Lobe"
+        ],
+        "description": "Involved in motion perception"
+    },
+    "Superior Colliculus": {
+        "children": [],
+        "description": "Plays a role in orienting visual attention"
+    },
+    "Inferotemporal Cortex": {
+        "children": [],
+        "description": "Higher-level visual processing, object recognition"
+    },
+    "Parietal Lobe": {
+        "children": [],
+        "description": "Integrates visual information with other sensory modalities for spatial awareness"
+    }
+}

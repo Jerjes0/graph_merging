@@ -1,0 +1,254 @@
+{
+    "Mental Imagery": {
+        "children": [
+            "Sensory Input",
+            "Memory Recall"
+        ],
+        "description": "The process of creating sensory experiences in the mind in the absence of external sensory input."
+    },
+    "Sensory Input": {
+        "children": [
+            "Visual Cortex Activity",
+            "Auditory Cortex Activity"
+        ],
+        "description": "Sensory information from the environment that can influence mental imagery."
+    },
+    "Memory Recall": {
+        "children": [
+            "Long-Term Memory",
+            "Working Memory"
+        ],
+        "description": "Retrieval of stored information from memory to construct mental images."
+    },
+    "Visual Cortex Activity": {
+        "children": [
+            "Visual Perception",
+            "Visual Hallucinations"
+        ],
+        "description": "Neural activity in the visual cortex related to processing visual information, including mental imagery."
+    },
+    "Auditory Cortex Activity": {
+        "children": [
+            "Auditory Perception",
+            "Auditory Hallucinations"
+        ],
+        "description": "Neural activity in the auditory cortex related to processing auditory information, including mental imagery."
+    },
+    "Long-Term Memory": {
+        "children": [
+            "Semantic Memory",
+            "Episodic Memory"
+        ],
+        "description": "Long-term storage of information, including memories that can be used to form mental images."
+    },
+    "Working Memory": {
+        "children": [
+            "Cognitive Load",
+            "Attention"
+        ],
+        "description": "Temporary storage and manipulation of information, crucial for constructing and maintaining mental images."
+    },
+    "Visual Perception": {
+        "children": [
+            "Image Clarity",
+            "Image Detail"
+        ],
+        "description": "The process of interpreting visual information, influencing the quality of mental images."
+    },
+    "Auditory Perception": {
+        "children": [
+            "Sound Clarity",
+            "Sound Detail"
+        ],
+        "description": "The process of interpreting auditory information, influencing the quality of mental images."
+    },
+    "Cognitive Load": {
+        "children": [
+            "Mental Fatigue",
+            "Image Complexity"
+        ],
+        "description": "The amount of mental resources used, affecting the ability to maintain and manipulate mental images."
+    },
+    "Attention": {
+        "children": [
+            "Focus",
+            "Distraction"
+        ],
+        "description": "The selective concentration of consciousness, influencing the clarity and detail of mental images."
+    },
+    "Semantic Memory": {
+        "children": [
+            "Conceptual Knowledge",
+            "General Knowledge"
+        ],
+        "description": "Knowledge about the world, influencing the content and accuracy of mental images."
+    },
+    "Episodic Memory": {
+        "children": [
+            "Personal Experiences",
+            "Specific Events"
+        ],
+        "description": "Memories of personal experiences, which can be used to create vivid and detailed mental images."
+    },
+    "Image Clarity": {
+        "children": [
+            "Vividness",
+            "Sharpness"
+        ],
+        "description": "The degree of distinctness and detail in a mental image."
+    },
+    "Image Detail": {
+        "children": [
+            "Color",
+            "Texture"
+        ],
+        "description": "The level of specific information present in a mental image."
+    },
+    "Sound Clarity": {
+        "children": [
+            "Pitch",
+            "Volume"
+        ],
+        "description": "The degree of distinctness and detail in a mental sound."
+    },
+    "Sound Detail": {
+        "children": [
+            "Timbre",
+            "Rhythm"
+        ],
+        "description": "The level of specific information present in a mental sound."
+    },
+    "Mental Fatigue": {
+        "children": [
+            "Reduced Image Quality",
+            "Difficulty Maintaining Images"
+        ],
+        "description": "Mental tiredness that impairs the ability to create and maintain mental images."
+    },
+    "Focus": {
+        "children": [
+            "Improved Image Quality",
+            "Enhanced Detail"
+        ],
+        "description": "Concentration improves the clarity and detail of mental images."
+    },
+    "Distraction": {
+        "children": [
+            "Reduced Image Quality",
+            "Image Disruption"
+        ],
+        "description": "Interference that impairs the ability to create and maintain mental images."
+    },
+    "Conceptual Knowledge": {
+        "children": [
+            "Schema",
+            "Concepts"
+        ],
+        "description": "General knowledge that informs mental imagery."
+    },
+    "General Knowledge": {
+        "children": [
+            "Facts",
+            "Information"
+        ],
+        "description": "General knowledge that informs mental imagery."
+    },
+    "Personal Experiences": {
+        "children": [
+            "Emotional Content",
+            "Sensory Details"
+        ],
+        "description": "Personal experiences that provide rich content for mental imagery."
+    },
+    "Specific Events": {
+        "children": [
+            "Time",
+            "Location"
+        ],
+        "description": "Specific events that provide rich content for mental imagery."
+    },
+    "Vividness": {
+        "children": [],
+        "description": "The intensity and richness of a mental image."
+    },
+    "Sharpness": {
+        "children": [],
+        "description": "The clarity and definition of a mental image."
+    },
+    "Color": {
+        "children": [],
+        "description": "The presence and intensity of colors in a mental image."
+    },
+    "Texture": {
+        "children": [],
+        "description": "The perceived surface quality of a mental image."
+    },
+    "Pitch": {
+        "children": [],
+        "description": "The highness or lowness of a mental sound."
+    },
+    "Volume": {
+        "children": [],
+        "description": "The loudness of a mental sound."
+    },
+    "Timbre": {
+        "children": [],
+        "description": "The quality of a mental sound that distinguishes it from other sounds of the same pitch and loudness."
+    },
+    "Rhythm": {
+        "children": [],
+        "description": "The pattern of sounds in a mental sound."
+    },
+    "Reduced Image Quality": {
+        "children": [],
+        "description": "A decrease in the clarity and detail of a mental image."
+    },
+    "Difficulty Maintaining Images": {
+        "children": [],
+        "description": "Inability to maintain a mental image for an extended period."
+    },
+    "Improved Image Quality": {
+        "children": [],
+        "description": "An increase in the clarity and detail of a mental image."
+    },
+    "Enhanced Detail": {
+        "children": [],
+        "description": "Increased level of specific information in a mental image."
+    },
+    "Image Disruption": {
+        "children": [],
+        "description": "Interruption or distortion of a mental image."
+    },
+    "Schema": {
+        "children": [],
+        "description": "A cognitive framework or concept that helps organize and interpret information."
+    },
+    "Concepts": {
+        "children": [],
+        "description": "Abstract ideas or general notions."
+    },
+    "Facts": {
+        "children": [],
+        "description": "Pieces of information that are known to be true."
+    },
+    "Information": {
+        "children": [],
+        "description": "Data or knowledge that is communicated or received."
+    },
+    "Emotional Content": {
+        "children": [],
+        "description": "The emotional significance of a personal experience."
+    },
+    "Sensory Details": {
+        "children": [],
+        "description": "Specific sensory information associated with a personal experience."
+    },
+    "Time": {
+        "children": [],
+        "description": "The temporal context of a specific event."
+    },
+    "Location": {
+        "children": [],
+        "description": "The spatial context of a specific event."
+    }
+}
