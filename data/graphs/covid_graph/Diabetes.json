@@ -1,0 +1,90 @@
+{
+    "Genetics": {
+        "children": [
+            "Insulin Resistance",
+            "Pancreatic Beta Cell Dysfunction"
+        ],
+        "description": "Genetic predisposition to diabetes"
+    },
+    "Insulin Resistance": {
+        "children": [
+            "Hyperglycemia",
+            "Dyslipidemia"
+        ],
+        "description": "Reduced sensitivity of cells to insulin"
+    },
+    "Pancreatic Beta Cell Dysfunction": {
+        "children": [
+            "Insulin Deficiency",
+            "Hyperglycemia"
+        ],
+        "description": "Impaired insulin production by the pancreas"
+    },
+    "Hyperglycemia": {
+        "children": [
+            "Glycated Hemoglobin (HbA1c)",
+            "Diabetic Complications"
+        ],
+        "description": "Elevated blood glucose levels"
+    },
+    "Dyslipidemia": {
+        "children": [
+            "Atherosclerosis",
+            "Cardiovascular Disease"
+        ],
+        "description": "Abnormal lipid levels in the blood"
+    },
+    "Insulin Deficiency": {
+        "children": [
+            "Hyperglycemia",
+            "Ketoacidosis"
+        ],
+        "description": "Insufficient insulin production"
+    },
+    "Glycated Hemoglobin (HbA1c)": {
+        "children": [
+            "Diabetic Complications"
+        ],
+        "description": "Measure of long-term blood glucose control"
+    },
+    "Diabetic Complications": {
+        "children": [
+            "Nephropathy",
+            "Neuropathy",
+            "Retinopathy"
+        ],
+        "description": "Long-term health problems associated with diabetes"
+    },
+    "Atherosclerosis": {
+        "children": [
+            "Cardiovascular Disease"
+        ],
+        "description": "Hardening and narrowing of arteries"
+    },
+    "Cardiovascular Disease": {
+        "children": [],
+        "description": "Diseases of the heart and blood vessels"
+    },
+    "Nephropathy": {
+        "children": [],
+        "description": "Kidney damage"
+    },
+    "Neuropathy": {
+        "children": [],
+        "description": "Nerve damage"
+    },
+    "Retinopathy": {
+        "children": [],
+        "description": "Eye damage"
+    },
+    "Ketoacidosis": {
+        "children": [
+            "Diabetic Coma"
+        ],
+        "description": "A serious complication of diabetes"
+    },
+    "Diabetic Coma": {
+        "children": [],
+        "description": "Life-threatening complication of diabetes"
+    }
+}

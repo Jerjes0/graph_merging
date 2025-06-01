@@ -1,0 +1,335 @@
+{
+    "Public Health Policy": {
+        "children": [
+            "Funding",
+            "Public Awareness"
+        ],
+        "description": "Overall public health policy encompassing strategies and initiatives"
+    },
+    "Funding": {
+        "children": [
+            "Research & Development",
+            "Program Implementation"
+        ],
+        "description": "Financial resources allocated to public health initiatives"
+    },
+    "Public Awareness": {
+        "children": [
+            "Behavioral Change",
+            "Compliance"
+        ],
+        "description": "Public understanding and engagement with health policies"
+    },
+    "Research & Development": {
+        "children": [
+            "New Treatments",
+            "Disease Surveillance"
+        ],
+        "description": "Investment in research leading to advancements in healthcare"
+    },
+    "Program Implementation": {
+        "children": [
+            "Healthcare Access",
+            "Disease Prevention"
+        ],
+        "description": "Execution of public health programs and initiatives"
+    },
+    "Behavioral Change": {
+        "children": [
+            "Reduced Risk Factors",
+            "Improved Health Outcomes"
+        ],
+        "description": "Changes in individual behaviors impacting health"
+    },
+    "Compliance": {
+        "children": [
+            "Policy Effectiveness",
+            "Enforcement"
+        ],
+        "description": "Adherence to public health regulations"
+    },
+    "New Treatments": {
+        "children": [
+            "Improved Mortality Rates",
+            "Reduced Morbidity"
+        ],
+        "description": "Development of new treatments and cures"
+    },
+    "Disease Surveillance": {
+        "children": [
+            "Early Detection",
+            "Epidemic Prevention"
+        ],
+        "description": "Monitoring and tracking of diseases"
+    },
+    "Healthcare Access": {
+        "children": [
+            "Improved Health Equity",
+            "Increased Utilization"
+        ],
+        "description": "Accessibility of healthcare services"
+    },
+    "Disease Prevention": {
+        "children": [
+            "Reduced Incidence",
+            "Improved Public Health"
+        ],
+        "description": "Strategies to prevent the spread and occurrence of diseases"
+    },
+    "Reduced Risk Factors": {
+        "children": [
+            "Improved Health Outcomes",
+            "Reduced Healthcare Costs"
+        ],
+        "description": "Lowering risk factors associated with diseases"
+    },
+    "Improved Health Outcomes": {
+        "children": [
+            "Increased Life Expectancy",
+            "Improved Quality of Life"
+        ],
+        "description": "Positive impact on health status"
+    },
+    "Policy Effectiveness": {
+        "children": [
+            "Sustained Improvements",
+            "Policy Adjustments"
+        ],
+        "description": "Measure of how well a policy achieves its goals"
+    },
+    "Enforcement": {
+        "children": [
+            "Compliance Rates",
+            "Policy Impact"
+        ],
+        "description": "Mechanisms to ensure compliance with regulations"
+    },
+    "Improved Mortality Rates": {
+        "children": [
+            "Increased Life Expectancy",
+            "Improved Public Health"
+        ],
+        "description": "Reduction in death rates"
+    },
+    "Reduced Morbidity": {
+        "children": [
+            "Improved Quality of Life",
+            "Reduced Healthcare Costs"
+        ],
+        "description": "Decrease in the prevalence of disease"
+    },
+    "Early Detection": {
+        "children": [
+            "Improved Treatment Outcomes",
+            "Reduced Mortality"
+        ],
+        "description": "Early identification of diseases"
+    },
+    "Epidemic Prevention": {
+        "children": [
+            "Reduced Disease Spread",
+            "Improved Public Health"
+        ],
+        "description": "Strategies to prevent widespread outbreaks"
+    },
+    "Improved Health Equity": {
+        "children": [
+            "Reduced Health Disparities",
+            "Fairer Access"
+        ],
+        "description": "Addressing inequalities in healthcare access"
+    },
+    "Increased Utilization": {
+        "children": [
+            "Improved Health Outcomes",
+            "Increased Healthcare Costs"
+        ],
+        "description": "Higher use of healthcare services"
+    },
+    "Reduced Incidence": {
+        "children": [
+            "Improved Public Health",
+            "Reduced Healthcare Burden"
+        ],
+        "description": "Lower rates of new disease cases"
+    },
+    "Improved Public Health": {
+        "children": [
+            "Increased Productivity",
+            "Stronger Economy"
+        ],
+        "description": "Overall improvement in the health of the population"
+    },
+    "Reduced Healthcare Costs": {
+        "children": [
+            "Improved Economic Outcomes",
+            "Sustainable Healthcare System"
+        ],
+        "description": "Lowering the overall cost of healthcare"
+    },
+    "Sustained Improvements": {
+        "children": [
+            "Long-Term Health Gains",
+            "Policy Success"
+        ],
+        "description": "Continued positive impact over time"
+    },
+    "Policy Adjustments": {
+        "children": [
+            "Improved Policy Design",
+            "Increased Effectiveness"
+        ],
+        "description": "Modifications to public health policies based on evaluation"
+    },
+    "Compliance Rates": {
+        "children": [
+            "Policy Impact",
+            "Resource Allocation"
+        ],
+        "description": "Percentage of individuals adhering to regulations"
+    },
+    "Policy Impact": {
+        "children": [
+            "Public Health Outcomes",
+            "Policy Evaluation"
+        ],
+        "description": "Overall effect of a policy on public health"
+    },
+    "Increased Life Expectancy": {
+        "children": [
+            "Improved Quality of Life",
+            "Economic Benefits"
+        ],
+        "description": "Longer lifespan"
+    },
+    "Improved Quality of Life": {
+        "children": [
+            "Increased Well-being",
+            "Social Benefits"
+        ],
+        "description": "Enhancement of overall life quality"
+    },
+    "Reduced Disease Spread": {
+        "children": [
+            "Improved Public Health",
+            "Economic Benefits"
+        ],
+        "description": "Prevention of widespread disease transmission"
+    },
+    "Reduced Health Disparities": {
+        "children": [
+            "Health Equity",
+            "Social Justice"
+        ],
+        "description": "Addressing health inequalities among different populations"
+    },
+    "Fairer Access": {
+        "children": [
+            "Improved Health Outcomes",
+            "Health Equity"
+        ],
+        "description": "Equitable access to healthcare services"
+    },
+    "Increased Productivity": {
+        "children": [
+            "Economic Growth",
+            "National Prosperity"
+        ],
+        "description": "Higher workforce productivity due to improved health"
+    },
+    "Stronger Economy": {
+        "children": [
+            "National Development",
+            "Improved Standard of Living"
+        ],
+        "description": "Positive economic impact of improved public health"
+    },
+    "Improved Economic Outcomes": {
+        "children": [
+            "National Prosperity",
+            "Sustainable Development"
+        ],
+        "description": "Positive economic effects of improved public health"
+    },
+    "Sustainable Healthcare System": {
+        "children": [
+            "Long-Term Health Security",
+            "Economic Stability"
+        ],
+        "description": "A healthcare system capable of providing long-term care"
+    },
+    "Long-Term Health Gains": {
+        "children": [
+            "Improved Population Health",
+            "National Well-being"
+        ],
+        "description": "Sustained improvements in public health over time"
+    },
+    "Policy Success": {
+        "children": [
+            "Continued Funding",
+            "Policy Replication"
+        ],
+        "description": "Successful implementation and outcomes of a policy"
+    },
+    "Continued Funding": {
+        "children": [
+            "Sustainable Programs",
+            "Long-Term Impact"
+        ],
+        "description": "Continued financial support for public health initiatives"
+    },
+    "Policy Replication": {
+        "children": [
+            "Widespread Adoption",
+            "Global Health Improvements"
+        ],
+        "description": "Adoption of successful policies in other contexts"
+    },
+    "Long-Term Impact": {
+        "children": [
+            "Sustainable Development Goals",
+            "Improved Global Health"
+        ],
+        "description": "Long-term positive effects on public health"
+    },
+    "Widespread Adoption": {
+        "children": [
+            "Global Health Improvements",
+            "Improved Global Well-being"
+        ],
+        "description": "Adoption of successful policies globally"
+    },
+    "Global Health Improvements": {
+        "children": [
+            "Sustainable Development",
+            "Improved Global Well-being"
+        ],
+        "description": "Positive impact on global health outcomes"
+    },
+    "Improved Global Well-being": {
+        "children": [
+            "Global Prosperity",
+            "Sustainable Future"
+        ],
+        "description": "Enhanced overall well-being globally"
+    },
+    "Sustainable Development": {
+        "children": [
+            "Global Prosperity",
+            "Sustainable Future"
+        ],
+        "description": "Sustainable development goals achieved through improved public health"
+    },
+    "Global Prosperity": {
+        "children": [
+            "Peaceful World",
+            "Sustainable Future"
+        ],
+        "description": "Global economic and social prosperity"
+    },
+    "Sustainable Future": {
+        "children": [],
+        "description": "A future where public health is prioritized and sustainable"
+    }
+}

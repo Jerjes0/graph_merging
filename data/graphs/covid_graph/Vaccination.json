@@ -1,0 +1,163 @@
+{
+    "Vaccination": {
+        "children": [
+            "ImmuneResponse",
+            "HerdImmunity"
+        ],
+        "description": "The act of administering a vaccine to prevent infectious diseases"
+    },
+    "ImmuneResponse": {
+        "children": [
+            "AntibodyProduction",
+            "MemoryCells"
+        ],
+        "description": "The body's response to vaccination, leading to immunity"
+    },
+    "HerdImmunity": {
+        "children": [
+            "ReducedTransmission",
+            "DiseaseEradication"
+        ],
+        "description": "Protection of a population from an infectious disease when a sufficient percentage of individuals are immune"
+    },
+    "AntibodyProduction": {
+        "children": [
+            "Neutralization",
+            "Opsonization"
+        ],
+        "description": "Production of antibodies that target and neutralize pathogens"
+    },
+    "MemoryCells": {
+        "children": [
+            "RapidResponse",
+            "LongTermProtection"
+        ],
+        "description": "Long-lived immune cells that provide rapid and long-lasting immunity"
+    },
+    "ReducedTransmission": {
+        "children": [
+            "LowerInfectionRates",
+            "FewerOutbreaks"
+        ],
+        "description": "Reduced spread of infectious diseases within a population"
+    },
+    "DiseaseEradication": {
+        "children": [
+            "PublicHealthImprovement",
+            "EconomicBenefits"
+        ],
+        "description": "Complete elimination of an infectious disease from a population or region"
+    },
+    "Neutralization": {
+        "children": [
+            "PathogenInactivation",
+            "PreventionOfInfection"
+        ],
+        "description": "Direct inactivation of pathogens by antibodies"
+    },
+    "Opsonization": {
+        "children": [
+            "EnhancedPhagocytosis",
+            "ImprovedImmuneClearance"
+        ],
+        "description": "Enhancement of pathogen uptake and destruction by immune cells"
+    },
+    "RapidResponse": {
+        "children": [
+            "FasterImmuneActivation",
+            "ReducedDiseaseSeverity"
+        ],
+        "description": "Faster and more effective immune response upon subsequent exposure to the pathogen"
+    },
+    "LongTermProtection": {
+        "children": [
+            "SustainedImmunity",
+            "ReducedNeedForReVaccination"
+        ],
+        "description": "Long-lasting immunity that may reduce or eliminate the need for repeated vaccinations"
+    },
+    "LowerInfectionRates": {
+        "children": [
+            "DecreasedMorbidity",
+            "DecreasedMortality"
+        ],
+        "description": "Lower rates of infection and associated illnesses"
+    },
+    "FewerOutbreaks": {
+        "children": [
+            "ImprovedPublicHealth",
+            "ReducedHealthcareCosts"
+        ],
+        "description": "Reduced frequency and severity of disease outbreaks"
+    },
+    "PublicHealthImprovement": {
+        "children": [
+            "IncreasedLifeExpectancy",
+            "ImprovedQualityOfLife"
+        ],
+        "description": "Overall improvement in public health outcomes"
+    },
+    "EconomicBenefits": {
+        "children": [
+            "ReducedHealthcareExpenditures",
+            "IncreasedProductivity"
+        ],
+        "description": "Economic benefits associated with reduced healthcare costs and increased workforce productivity"
+    },
+    "PathogenInactivation": {
+        "children": [],
+        "description": "Direct inactivation of the pathogen, preventing infection"
+    },
+    "PreventionOfInfection": {
+        "children": [],
+        "description": "Prevention of infection by neutralizing the pathogen before it can cause disease"
+    },
+    "EnhancedPhagocytosis": {
+        "children": [],
+        "description": "Enhanced uptake and destruction of pathogens by phagocytic cells"
+    },
+    "ImprovedImmuneClearance": {
+        "children": [],
+        "description": "Improved clearance of pathogens from the body"
+    },
+    "FasterImmuneActivation": {
+        "children": [],
+        "description": "Faster activation of the immune system upon subsequent exposure"
+    },
+    "ReducedDiseaseSeverity": {
+        "children": [],
+        "description": "Reduced severity of illness upon subsequent exposure"
+    },
+    "SustainedImmunity": {
+        "children": [],
+        "description": "Long-lasting immunity against the targeted pathogen"
+    },
+    "ReducedNeedForReVaccination": {
+        "children": [],
+        "description": "Reduced need for booster vaccinations"
+    },
+    "DecreasedMorbidity": {
+        "children": [],
+        "description": "Reduced incidence of illness"
+    },
+    "DecreasedMortality": {
+        "children": [],
+        "description": "Reduced number of deaths"
+    },
+    "ImprovedPublicHealth": {
+        "children": [],
+        "description": "Overall improvement in public health"
+    },
+    "ReducedHealthcareCosts": {
+        "children": [],
+        "description": "Reduced costs associated with healthcare"
+    },
+    "IncreasedLifeExpectancy": {
+        "children": [],
+        "description": "Increased average lifespan"
+    },
+    "ImprovedQualityOfLife": {
+        "children": [],
+        "description": "Improved overall quality of life"
+    }
+}

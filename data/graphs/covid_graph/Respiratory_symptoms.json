@@ -1,0 +1,127 @@
+{
+    "Respiratory Symptoms": {
+        "children": [
+            "Infection",
+            "Allergens"
+        ],
+        "description": "Overall umbrella term encompassing various respiratory issues"
+    },
+    "Infection": {
+        "children": [
+            "Viral Infection",
+            "Bacterial Infection"
+        ],
+        "description": "Presence of a pathogen in the respiratory system"
+    },
+    "Allergens": {
+        "children": [
+            "Pollen",
+            "Dust Mites"
+        ],
+        "description": "Substances causing allergic reactions in the respiratory system"
+    },
+    "Viral Infection": {
+        "children": [
+            "Common Cold",
+            "Influenza"
+        ],
+        "description": "Respiratory infection caused by viruses"
+    },
+    "Bacterial Infection": {
+        "children": [
+            "Pneumonia",
+            "Bronchitis"
+        ],
+        "description": "Respiratory infection caused by bacteria"
+    },
+    "Pollen": {
+        "children": [
+            "Grass Pollen",
+            "Tree Pollen"
+        ],
+        "description": "Tiny particles released by plants that can trigger allergies"
+    },
+    "Dust Mites": {
+        "children": [
+            "House Dust Mites",
+            "Storage Mite"
+        ],
+        "description": "Microscopic organisms found in dust that can trigger allergies"
+    },
+    "Common Cold": {
+        "children": [
+            "Runny Nose",
+            "Cough"
+        ],
+        "description": "Mild viral respiratory infection"
+    },
+    "Influenza": {
+        "children": [
+            "Fever",
+            "Body Aches"
+        ],
+        "description": "More severe viral respiratory infection"
+    },
+    "Pneumonia": {
+        "children": [
+            "Lung Inflammation",
+            "Cough with Phlegm"
+        ],
+        "description": "Infection causing inflammation of the lungs"
+    },
+    "Bronchitis": {
+        "children": [
+            "Inflammation of Bronchi",
+            "Wheezing"
+        ],
+        "description": "Inflammation of the bronchial tubes"
+    },
+    "Grass Pollen": {
+        "children": [],
+        "description": "Pollen from grasses"
+    },
+    "Tree Pollen": {
+        "children": [],
+        "description": "Pollen from trees"
+    },
+    "House Dust Mites": {
+        "children": [],
+        "description": "Dust mites found in houses"
+    },
+    "Storage Mite": {
+        "children": [],
+        "description": "Dust mites found in stored materials"
+    },
+    "Runny Nose": {
+        "children": [],
+        "description": "Excessive nasal mucus"
+    },
+    "Cough": {
+        "children": [],
+        "description": "Reflexive action to clear the airways"
+    },
+    "Fever": {
+        "children": [],
+        "description": "Elevated body temperature"
+    },
+    "Body Aches": {
+        "children": [],
+        "description": "Muscle and joint pain"
+    },
+    "Lung Inflammation": {
+        "children": [],
+        "description": "Inflammation of lung tissue"
+    },
+    "Cough with Phlegm": {
+        "children": [],
+        "description": "Cough producing mucus"
+    },
+    "Inflammation of Bronchi": {
+        "children": [],
+        "description": "Inflammation of the bronchial tubes"
+    },
+    "Wheezing": {
+        "children": [],
+        "description": "Whistling sound during breathing"
+    }
+}

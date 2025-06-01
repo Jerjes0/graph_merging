@@ -1,0 +1,194 @@
+{
+    "COVID-19 Infection": {
+        "children": [
+            "Exposure to Virus",
+            "Underlying Health Conditions"
+        ],
+        "description": "Initial infection with SARS-CoV-2 virus"
+    },
+    "Exposure to Virus": {
+        "children": [
+            "Viral Load",
+            "Mode of Transmission"
+        ],
+        "description": "Contact with the virus through various means"
+    },
+    "Underlying Health Conditions": {
+        "children": [
+            "Severity of Infection",
+            "Mortality Risk"
+        ],
+        "description": "Pre-existing health issues influencing disease progression"
+    },
+    "Viral Load": {
+        "children": [
+            "Severity of Symptoms",
+            "Immune Response"
+        ],
+        "description": "Amount of virus encountered"
+    },
+    "Mode of Transmission": {
+        "children": [
+            "Close Contact",
+            "Aerosol Transmission"
+        ],
+        "description": "How the virus spreads"
+    },
+    "Severity of Symptoms": {
+        "children": [
+            "Hospitalization",
+            "Long COVID"
+        ],
+        "description": "Range from mild to severe"
+    },
+    "Immune Response": {
+        "children": [
+            "Disease Progression",
+            "Recovery Time"
+        ],
+        "description": "Body's reaction to the virus"
+    },
+    "Severity of Infection": {
+        "children": [
+            "Hospitalization",
+            "Mortality Risk"
+        ],
+        "description": "Overall severity of the infection"
+    },
+    "Mortality Risk": {
+        "children": [
+            "Death"
+        ],
+        "description": "Probability of death due to infection"
+    },
+    "Hospitalization": {
+        "children": [
+            "Treatment",
+            "ICU Admission"
+        ],
+        "description": "Requirement for medical care in a hospital"
+    },
+    "Close Contact": {
+        "children": [
+            "Duration of Exposure",
+            "Physical Proximity"
+        ],
+        "description": "Direct contact with an infected individual"
+    },
+    "Aerosol Transmission": {
+        "children": [
+            "Ventilation",
+            "Crowded Spaces"
+        ],
+        "description": "Transmission through airborne particles"
+    },
+    "Long COVID": {
+        "children": [
+            "Chronic Symptoms",
+            "Disability"
+        ],
+        "description": "Lingering symptoms after initial infection"
+    },
+    "Treatment": {
+        "children": [
+            "Recovery",
+            "Complications"
+        ],
+        "description": "Medical interventions to manage the infection"
+    },
+    "ICU Admission": {
+        "children": [
+            "Mechanical Ventilation",
+            "Organ Failure"
+        ],
+        "description": "Intensive care unit admission"
+    },
+    "Disease Progression": {
+        "children": [
+            "Symptom Onset",
+            "Peak Severity"
+        ],
+        "description": "How the infection develops over time"
+    },
+    "Recovery Time": {
+        "children": [
+            "Return to Normal Activities",
+            "Lingering Effects"
+        ],
+        "description": "Time taken to fully recover"
+    },
+    "Chronic Symptoms": {
+        "children": [
+            "Fatigue",
+            "Cognitive Impairment"
+        ],
+        "description": "Long-term health problems"
+    },
+    "Complications": {
+        "children": [
+            "Pneumonia",
+            "Blood Clots"
+        ],
+        "description": "Secondary health issues"
+    },
+    "Death": {
+        "children": [],
+        "description": "Fatal outcome of the infection"
+    },
+    "Duration of Exposure": {
+        "children": [],
+        "description": "Length of time exposed to the virus"
+    },
+    "Physical Proximity": {
+        "children": [],
+        "description": "Closeness to an infected person"
+    },
+    "Ventilation": {
+        "children": [],
+        "description": "Air circulation in a space"
+    },
+    "Crowded Spaces": {
+        "children": [],
+        "description": "Areas with high density of people"
+    },
+    "Fatigue": {
+        "children": [],
+        "description": "Persistent tiredness"
+    },
+    "Cognitive Impairment": {
+        "children": [],
+        "description": "Problems with thinking and memory"
+    },
+    "Pneumonia": {
+        "children": [],
+        "description": "Lung infection"
+    },
+    "Blood Clots": {
+        "children": [],
+        "description": "Formation of blood clots"
+    },
+    "Symptom Onset": {
+        "children": [],
+        "description": "When symptoms first appear"
+    },
+    "Peak Severity": {
+        "children": [],
+        "description": "The point of most severe symptoms"
+    },
+    "Return to Normal Activities": {
+        "children": [],
+        "description": "Resumption of daily life"
+    },
+    "Lingering Effects": {
+        "children": [],
+        "description": "Ongoing health issues after recovery"
+    },
+    "Mechanical Ventilation": {
+        "children": [],
+        "description": "Use of a ventilator to assist breathing"
+    },
+    "Organ Failure": {
+        "children": [],
+        "description": "Failure of one or more organs"
+    }
+}

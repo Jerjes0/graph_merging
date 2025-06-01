@@ -1,0 +1,185 @@
+{
+    "Social Distancing": {
+        "children": [
+            "Reduced Contact Rate",
+            "Economic Impact"
+        ],
+        "description": "Measures taken to reduce physical proximity between people"
+    },
+    "Reduced Contact Rate": {
+        "children": [
+            "Lower Infection Rate",
+            "Increased Mental Health Concerns"
+        ],
+        "description": "Decreased frequency of close interactions between individuals"
+    },
+    "Economic Impact": {
+        "children": [
+            "Business Closures",
+            "Unemployment"
+        ],
+        "description": "Consequences of social distancing on the economy"
+    },
+    "Lower Infection Rate": {
+        "children": [
+            "Reduced Strain on Healthcare System",
+            "Slower Pandemic Spread"
+        ],
+        "description": "Lower transmission rates of infectious diseases"
+    },
+    "Increased Mental Health Concerns": {
+        "children": [
+            "Social Isolation",
+            "Increased Anxiety"
+        ],
+        "description": "Negative psychological effects of reduced social interaction"
+    },
+    "Business Closures": {
+        "children": [
+            "Financial Losses",
+            "Job Losses"
+        ],
+        "description": "Temporary or permanent closure of businesses"
+    },
+    "Unemployment": {
+        "children": [
+            "Financial Hardship",
+            "Increased Poverty"
+        ],
+        "description": "Loss of employment due to economic downturn"
+    },
+    "Reduced Strain on Healthcare System": {
+        "children": [
+            "Improved Patient Outcomes",
+            "Increased Healthcare Capacity"
+        ],
+        "description": "Less burden on hospitals and medical staff"
+    },
+    "Slower Pandemic Spread": {
+        "children": [
+            "Fewer Deaths",
+            "Longer Pandemic Duration"
+        ],
+        "description": "Slowed transmission of infectious diseases"
+    },
+    "Social Isolation": {
+        "children": [
+            "Loneliness",
+            "Depression"
+        ],
+        "description": "Feeling of separation and disconnect from others"
+    },
+    "Increased Anxiety": {
+        "children": [
+            "Stress",
+            "Mental Health Issues"
+        ],
+        "description": "Elevated levels of worry and unease"
+    },
+    "Financial Losses": {
+        "children": [
+            "Bankruptcies",
+            "Reduced Investment"
+        ],
+        "description": "Significant financial setbacks for businesses"
+    },
+    "Job Losses": {
+        "children": [
+            "Homelessness",
+            "Food Insecurity"
+        ],
+        "description": "Loss of employment leading to various hardships"
+    },
+    "Improved Patient Outcomes": {
+        "children": [
+            "Increased Survival Rates",
+            "Better Healthcare Access"
+        ],
+        "description": "Positive effects on patient health and recovery"
+    },
+    "Increased Healthcare Capacity": {
+        "children": [
+            "Better Preparedness for Future Outbreaks",
+            "Improved Resource Allocation"
+        ],
+        "description": "Improved ability of healthcare systems to handle future crises"
+    },
+    "Fewer Deaths": {
+        "children": [
+            "Reduced Mortality Rate",
+            "Improved Public Health"
+        ],
+        "description": "Lower number of deaths due to the pandemic"
+    },
+    "Longer Pandemic Duration": {
+        "children": [
+            "Increased Economic Strain",
+            "Prolonged Social Disruption"
+        ],
+        "description": "Extended period of pandemic impacting various aspects of life"
+    },
+    "Loneliness": {
+        "children": [],
+        "description": "Feeling of isolation and lack of connection"
+    },
+    "Depression": {
+        "children": [],
+        "description": "Persistent sadness and loss of interest"
+    },
+    "Stress": {
+        "children": [],
+        "description": "Mental or emotional strain"
+    },
+    "Mental Health Issues": {
+        "children": [],
+        "description": "Range of mental health problems"
+    },
+    "Bankruptcies": {
+        "children": [],
+        "description": "Businesses forced to close due to financial difficulties"
+    },
+    "Reduced Investment": {
+        "children": [],
+        "description": "Decreased funding and investment in businesses"
+    },
+    "Homelessness": {
+        "children": [],
+        "description": "Lack of stable housing"
+    },
+    "Food Insecurity": {
+        "children": [],
+        "description": "Lack of access to sufficient and nutritious food"
+    },
+    "Increased Survival Rates": {
+        "children": [],
+        "description": "Higher percentage of people surviving the illness"
+    },
+    "Better Healthcare Access": {
+        "children": [],
+        "description": "Improved availability and accessibility of healthcare services"
+    },
+    "Better Preparedness for Future Outbreaks": {
+        "children": [],
+        "description": "Improved ability to respond to future pandemics"
+    },
+    "Improved Resource Allocation": {
+        "children": [],
+        "description": "More efficient distribution of healthcare resources"
+    },
+    "Reduced Mortality Rate": {
+        "children": [],
+        "description": "Lower death rate"
+    },
+    "Improved Public Health": {
+        "children": [],
+        "description": "Overall improvement in public health outcomes"
+    },
+    "Increased Economic Strain": {
+        "children": [],
+        "description": "Increased economic hardship"
+    },
+    "Prolonged Social Disruption": {
+        "children": [],
+        "description": "Extended period of social and community disruption"
+    }
+}

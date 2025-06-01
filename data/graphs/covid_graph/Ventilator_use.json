@@ -1,0 +1,90 @@
+{
+    "Respiratory Failure": {
+        "children": [
+            "Ventilator Use",
+            "Mortality"
+        ],
+        "description": "Severe compromise of respiratory function"
+    },
+    "Ventilator Use": {
+        "children": [
+            "Ventilator-Associated Pneumonia",
+            "Barotrauma",
+            "Improved Oxygenation"
+        ],
+        "description": "Mechanical ventilation to support breathing"
+    },
+    "Mortality": {
+        "children": [],
+        "description": "Death"
+    },
+    "Ventilator-Associated Pneumonia": {
+        "children": [
+            "Increased Hospital Stay",
+            "Antibiotic Use"
+        ],
+        "description": "Lung infection acquired during mechanical ventilation"
+    },
+    "Barotrauma": {
+        "children": [
+            "Pneumothorax",
+            "Lung Injury"
+        ],
+        "description": "Lung injury due to ventilator pressure"
+    },
+    "Improved Oxygenation": {
+        "children": [
+            "Reduced Hypoxemia",
+            "Improved Organ Function"
+        ],
+        "description": "Improved blood oxygen levels"
+    },
+    "Increased Hospital Stay": {
+        "children": [
+            "Increased Healthcare Costs"
+        ],
+        "description": "Extended hospital stay due to complications"
+    },
+    "Antibiotic Use": {
+        "children": [
+            "Antibiotic Resistance"
+        ],
+        "description": "Use of antibiotics to treat infection"
+    },
+    "Pneumothorax": {
+        "children": [
+            "Chest Tube Insertion"
+        ],
+        "description": "Collapsed lung"
+    },
+    "Lung Injury": {
+        "children": [
+            "Respiratory Distress Syndrome"
+        ],
+        "description": "Damage to lung tissue"
+    },
+    "Reduced Hypoxemia": {
+        "children": [],
+        "description": "Decreased low blood oxygen levels"
+    },
+    "Improved Organ Function": {
+        "children": [],
+        "description": "Improved function of other organs"
+    },
+    "Increased Healthcare Costs": {
+        "children": [],
+        "description": "Higher medical expenses"
+    },
+    "Antibiotic Resistance": {
+        "children": [],
+        "description": "Development of drug-resistant bacteria"
+    },
+    "Chest Tube Insertion": {
+        "children": [],
+        "description": "Procedure to drain air from the pleural space"
+    },
+    "Respiratory Distress Syndrome": {
+        "children": [],
+        "description": "Severe lung inflammation"
+    }
+}

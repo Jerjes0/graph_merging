@@ -1,0 +1,205 @@
+{
+    "Comorbidities": {
+        "children": [
+            "Genetic Predisposition",
+            "Environmental Factors"
+        ],
+        "description": "The presence of two or more diseases or disorders in the same individual"
+    },
+    "Genetic Predisposition": {
+        "children": [
+            "Specific Gene Variations",
+            "Family History"
+        ],
+        "description": "Inherited genetic factors increasing the risk of multiple diseases"
+    },
+    "Environmental Factors": {
+        "children": [
+            "Lifestyle Choices",
+            "Exposure to Toxins"
+        ],
+        "description": "External factors contributing to the development of multiple diseases"
+    },
+    "Specific Gene Variations": {
+        "children": [
+            "Increased Inflammation",
+            "Impaired Immune Response"
+        ],
+        "description": "Genetic mutations that increase susceptibility to multiple diseases"
+    },
+    "Family History": {
+        "children": [
+            "Shared Genetic Risk",
+            "Shared Environment"
+        ],
+        "description": "Having family members with multiple diseases increases individual risk"
+    },
+    "Lifestyle Choices": {
+        "children": [
+            "Poor Diet",
+            "Lack of Exercise"
+        ],
+        "description": "Unhealthy lifestyle choices that increase the risk of multiple diseases"
+    },
+    "Exposure to Toxins": {
+        "children": [
+            "Air Pollution",
+            "Occupational Hazards"
+        ],
+        "description": "Exposure to harmful substances that can cause multiple diseases"
+    },
+    "Increased Inflammation": {
+        "children": [
+            "Chronic Diseases",
+            "Autoimmune Disorders"
+        ],
+        "description": "Persistent inflammation contributing to various diseases"
+    },
+    "Impaired Immune Response": {
+        "children": [
+            "Infections",
+            "Cancer"
+        ],
+        "description": "Weakened immune system leading to increased susceptibility to diseases"
+    },
+    "Shared Genetic Risk": {
+        "children": [
+            "Multiple Disease Susceptibility",
+            "Early Onset of Diseases"
+        ],
+        "description": "Inherited genes increasing the risk of multiple diseases"
+    },
+    "Shared Environment": {
+        "children": [
+            "Similar Lifestyle Choices",
+            "Exposure to Shared Toxins"
+        ],
+        "description": "Shared living conditions that increase the risk of multiple diseases"
+    },
+    "Poor Diet": {
+        "children": [
+            "Obesity",
+            "Diabetes"
+        ],
+        "description": "Nutritional deficiencies and excess calorie intake"
+    },
+    "Lack of Exercise": {
+        "children": [
+            "Cardiovascular Disease",
+            "Obesity"
+        ],
+        "description": "Sedentary lifestyle increasing the risk of various diseases"
+    },
+    "Air Pollution": {
+        "children": [
+            "Respiratory Diseases",
+            "Cardiovascular Disease"
+        ],
+        "description": "Exposure to air pollutants causing respiratory and cardiovascular problems"
+    },
+    "Occupational Hazards": {
+        "children": [
+            "Exposure to Carcinogens",
+            "Physical Injuries"
+        ],
+        "description": "Workplace hazards leading to various health issues"
+    },
+    "Chronic Diseases": {
+        "children": [
+            "Heart Disease",
+            "Diabetes"
+        ],
+        "description": "Long-lasting health conditions"
+    },
+    "Autoimmune Disorders": {
+        "children": [
+            "Rheumatoid Arthritis",
+            "Lupus"
+        ],
+        "description": "Diseases where the immune system attacks the body's own tissues"
+    },
+    "Infections": {
+        "children": [
+            "Pneumonia",
+            "Influenza"
+        ],
+        "description": "Infectious diseases"
+    },
+    "Cancer": {
+        "children": [
+            "Lung Cancer",
+            "Breast Cancer"
+        ],
+        "description": "Uncontrolled cell growth"
+    },
+    "Multiple Disease Susceptibility": {
+        "children": [
+            "Increased Mortality Risk",
+            "Reduced Quality of Life"
+        ],
+        "description": "Higher likelihood of developing multiple diseases"
+    },
+    "Early Onset of Diseases": {
+        "children": [
+            "Increased Severity of Diseases",
+            "Reduced Life Expectancy"
+        ],
+        "description": "Diseases appearing earlier in life"
+    },
+    "Similar Lifestyle Choices": {
+        "children": [
+            "Shared Risk Factors",
+            "Increased Disease Prevalence"
+        ],
+        "description": "Similar unhealthy habits increasing the risk of multiple diseases"
+    },
+    "Exposure to Shared Toxins": {
+        "children": [
+            "Shared Disease Risks",
+            "Clustered Disease Occurrence"
+        ],
+        "description": "Exposure to similar environmental toxins increasing the risk of multiple diseases"
+    },
+    "Obesity": {
+        "children": [
+            "Heart Disease",
+            "Type 2 Diabetes"
+        ],
+        "description": "Excess body fat increasing the risk of various diseases"
+    },
+    "Diabetes": {
+        "children": [
+            "Heart Disease",
+            "Kidney Disease"
+        ],
+        "description": "High blood sugar levels damaging various organs"
+    },
+    "Cardiovascular Disease": {
+        "children": [
+            "Heart Attack",
+            "Stroke"
+        ],
+        "description": "Diseases affecting the heart and blood vessels"
+    },
+    "Respiratory Diseases": {
+        "children": [
+            "Asthma",
+            "Chronic Obstructive Pulmonary Disease"
+        ],
+        "description": "Diseases affecting the lungs"
+    },
+    "Exposure to Carcinogens": {
+        "children": [
+            "Various Cancers",
+            "DNA Damage"
+        ],
+        "description": "Exposure to cancer-causing agents"
+    },
+    "Physical Injuries": {
+        "children": [
+            "Musculoskeletal Disorders",
+            "Traumatic Brain Injury"
+        ],
+        "description": "Injuries resulting from physical trauma"
+    }
+}

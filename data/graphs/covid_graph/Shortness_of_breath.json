@@ -1,0 +1,389 @@
+{
+    "Shortness of breath": {
+        "children": [
+            "Underlying Lung Disease",
+            "Heart Failure",
+            "Anxiety"
+        ],
+        "description": "The primary symptom being investigated"
+    },
+    "Underlying Lung Disease": {
+        "children": [
+            "Asthma",
+            "Pneumonia",
+            "COPD"
+        ],
+        "description": "Diseases affecting the lungs' ability to function properly"
+    },
+    "Asthma": {
+        "children": [
+            "Bronchospasm",
+            "Inflammation"
+        ],
+        "description": "Chronic inflammatory disease of the airways"
+    },
+    "Pneumonia": {
+        "children": [
+            "Infection",
+            "Inflammation"
+        ],
+        "description": "Infection that inflames the air sacs in one or both lungs"
+    },
+    "COPD": {
+        "children": [
+            "Emphysema",
+            "Chronic Bronchitis"
+        ],
+        "description": "A group of lung diseases that block airflow to the lungs"
+    },
+    "Heart Failure": {
+        "children": [
+            "Reduced Cardiac Output",
+            "Fluid Buildup"
+        ],
+        "description": "A condition where the heart can't pump enough blood to meet the body's needs"
+    },
+    "Anxiety": {
+        "children": [
+            "Hyperventilation",
+            "Increased Heart Rate"
+        ],
+        "description": "Mental health condition causing shortness of breath"
+    },
+    "Bronchospasm": {
+        "children": [
+            "Airway Narrowing",
+            "Wheezing"
+        ],
+        "description": "Constriction of the airways"
+    },
+    "Inflammation": {
+        "children": [
+            "Mucus Production",
+            "Cough"
+        ],
+        "description": "Swelling and irritation of the airways"
+    },
+    "Emphysema": {
+        "children": [
+            "Alveoli Damage",
+            "Reduced Lung Capacity"
+        ],
+        "description": "Damage to the air sacs in the lungs"
+    },
+    "Chronic Bronchitis": {
+        "children": [
+            "Mucus Buildup",
+            "Chronic Cough"
+        ],
+        "description": "Inflammation of the bronchi"
+    },
+    "Reduced Cardiac Output": {
+        "children": [
+            "Decreased Oxygen Delivery",
+            "Fatigue"
+        ],
+        "description": "Inability of the heart to pump enough blood"
+    },
+    "Fluid Buildup": {
+        "children": [
+            "Edema",
+            "Weight Gain"
+        ],
+        "description": "Excess fluid in the body's tissues"
+    },
+    "Hyperventilation": {
+        "children": [
+            "Low CO2 Levels",
+            "Dizziness"
+        ],
+        "description": "Breathing too rapidly"
+    },
+    "Increased Heart Rate": {
+        "children": [
+            "Palpitations",
+            "Chest Pain"
+        ],
+        "description": "Faster than normal heart beat"
+    },
+    "Airway Narrowing": {
+        "children": [
+            "Difficulty Breathing",
+            "Whistling Sounds"
+        ],
+        "description": "Reduction in the size of the airways"
+    },
+    "Wheezing": {
+        "children": [
+            "High-pitched Sounds",
+            "Respiratory Distress"
+        ],
+        "description": "High-pitched whistling sound during breathing"
+    },
+    "Mucus Production": {
+        "children": [
+            "Coughing",
+            "Phlegm"
+        ],
+        "description": "Increased production of mucus in the airways"
+    },
+    "Cough": {
+        "children": [
+            "Irritation",
+            "Inflammation"
+        ],
+        "description": "Reflexive action to clear the airways"
+    },
+    "Alveoli Damage": {
+        "children": [
+            "Reduced Gas Exchange",
+            "Shortness of Breath"
+        ],
+        "description": "Damage to the small air sacs in the lungs"
+    },
+    "Reduced Lung Capacity": {
+        "children": [
+            "Decreased Oxygen Uptake",
+            "Fatigue"
+        ],
+        "description": "Lower than normal lung volume"
+    },
+    "Mucus Buildup": {
+        "children": [
+            "Airway Obstruction",
+            "Infection"
+        ],
+        "description": "Accumulation of mucus in the airways"
+    },
+    "Chronic Cough": {
+        "children": [
+            "Irritation",
+            "Inflammation"
+        ],
+        "description": "Persistent cough lasting for a prolonged period"
+    },
+    "Decreased Oxygen Delivery": {
+        "children": [
+            "Fatigue",
+            "Cyanosis"
+        ],
+        "description": "Reduced oxygen supply to the body's tissues"
+    },
+    "Fatigue": {
+        "children": [
+            "Weakness",
+            "Lethargy"
+        ],
+        "description": "Feeling of tiredness or lack of energy"
+    },
+    "Edema": {
+        "children": [
+            "Swelling",
+            "Fluid Retention"
+        ],
+        "description": "Fluid buildup in body tissues"
+    },
+    "Weight Gain": {
+        "children": [
+            "Fluid Retention",
+            "Sodium Retention"
+        ],
+        "description": "Increase in body weight due to fluid accumulation"
+    },
+    "Low CO2 Levels": {
+        "children": [
+            "Lightheadedness",
+            "Tingling Sensations"
+        ],
+        "description": "Lower than normal carbon dioxide levels in the blood"
+    },
+    "Dizziness": {
+        "children": [
+            "Lightheadedness",
+            "Loss of Balance"
+        ],
+        "description": "Feeling of faintness or unsteadiness"
+    },
+    "Palpitations": {
+        "children": [
+            "Rapid Heartbeat",
+            "Fluttering Sensation"
+        ],
+        "description": "Awareness of one's own heartbeat"
+    },
+    "Chest Pain": {
+        "children": [
+            "Discomfort",
+            "Pressure"
+        ],
+        "description": "Pain or discomfort in the chest area"
+    },
+    "Difficulty Breathing": {
+        "children": [
+            "Respiratory Distress",
+            "Anxiety"
+        ],
+        "description": "Trouble breathing"
+    },
+    "Whistling Sounds": {
+        "children": [
+            "Airway Obstruction",
+            "Respiratory Distress"
+        ],
+        "description": "High-pitched sounds during breathing"
+    },
+    "Phlegm": {
+        "children": [
+            "Cough",
+            "Mucus Production"
+        ],
+        "description": "Thick mucus produced by the lungs"
+    },
+    "Reduced Gas Exchange": {
+        "children": [
+            "Hypoxia",
+            "Shortness of Breath"
+        ],
+        "description": "Decreased oxygen uptake in the lungs"
+    },
+    "Airway Obstruction": {
+        "children": [
+            "Reduced Airflow",
+            "Wheezing"
+        ],
+        "description": "Blockage of the airways"
+    },
+    "Hypoxia": {
+        "children": [
+            "Tissue Damage",
+            "Organ Failure"
+        ],
+        "description": "Low oxygen levels in the body's tissues"
+    },
+    "Respiratory Distress": {
+        "children": [
+            "Shortness of Breath",
+            "Cyanosis"
+        ],
+        "description": "Difficulty breathing"
+    },
+    "Cyanosis": {
+        "children": [
+            "Reduced Oxygen Saturation",
+            "Bluish Skin"
+        ],
+        "description": "Bluish discoloration of the skin due to low oxygen levels"
+    },
+    "Reduced Oxygen Saturation": {
+        "children": [
+            "Hypoxia",
+            "Tissue Damage"
+        ],
+        "description": "Lower than normal oxygen levels in the blood"
+    },
+    "Bluish Skin": {
+        "children": [
+            "Cyanosis",
+            "Hypoxia"
+        ],
+        "description": "Bluish discoloration of the skin"
+    },
+    "Lethargy": {
+        "children": [
+            "Fatigue",
+            "Weakness"
+        ],
+        "description": "Lack of energy and motivation"
+    },
+    "Weakness": {
+        "children": [
+            "Fatigue",
+            "Lethargy"
+        ],
+        "description": "Lack of physical strength"
+    },
+    "Fluid Retention": {
+        "children": [
+            "Edema",
+            "Weight Gain"
+        ],
+        "description": "Retention of excess fluid in the body"
+    },
+    "Sodium Retention": {
+        "children": [
+            "Fluid Retention",
+            "Weight Gain"
+        ],
+        "description": "Retention of excess sodium in the body"
+    },
+    "Lightheadedness": {
+        "children": [
+            "Dizziness",
+            "Low CO2 Levels"
+        ],
+        "description": "Feeling of faintness or lightheadedness"
+    },
+    "Tingling Sensations": {
+        "children": [
+            "Low CO2 Levels",
+            "Numbness"
+        ],
+        "description": "Prickling or tingling sensations"
+    },
+    "Loss of Balance": {
+        "children": [
+            "Dizziness",
+            "Vertigo"
+        ],
+        "description": "Inability to maintain balance"
+    },
+    "Fluttering Sensation": {
+        "children": [
+            "Palpitations",
+            "Rapid Heartbeat"
+        ],
+        "description": "Unpleasant feeling in the chest"
+    },
+    "Rapid Heartbeat": {
+        "children": [
+            "Palpitations",
+            "Increased Heart Rate"
+        ],
+        "description": "Faster than normal heart rate"
+    },
+    "Pressure": {
+        "children": [
+            "Chest Pain",
+            "Discomfort"
+        ],
+        "description": "Feeling of tightness or pressure in the chest"
+    },
+    "Discomfort": {
+        "children": [
+            "Chest Pain",
+            "Pressure"
+        ],
+        "description": "Unpleasant sensation in the chest"
+    },
+    "Irritation": {
+        "children": [
+            "Cough",
+            "Inflammation"
+        ],
+        "description": "Inflammation of the airways"
+    },
+    "Numbness": {
+        "children": [
+            "Tingling Sensations",
+            "Low CO2 Levels"
+        ],
+        "description": "Loss of sensation"
+    },
+    "Vertigo": {
+        "children": [
+            "Loss of Balance",
+            "Dizziness"
+        ],
+        "description": "Sensation of spinning or whirling"
+    }
+}

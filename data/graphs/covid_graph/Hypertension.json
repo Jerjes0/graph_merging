@@ -1,0 +1,116 @@
+{
+    "Hypertension": {
+        "children": [
+            "Genetics",
+            "Lifestyle"
+        ],
+        "description": "High blood pressure"
+    },
+    "Genetics": {
+        "children": [
+            "Family history of hypertension"
+        ],
+        "description": "Inherited predisposition to hypertension"
+    },
+    "Lifestyle": {
+        "children": [
+            "Diet",
+            "Physical Activity",
+            "Stress"
+        ],
+        "description": "Lifestyle factors contributing to hypertension"
+    },
+    "Family history of hypertension": {
+        "children": [
+            "Increased risk of hypertension"
+        ],
+        "description": "Presence of hypertension in family members"
+    },
+    "Diet": {
+        "children": [
+            "High sodium intake",
+            "Obesity"
+        ],
+        "description": "Dietary habits affecting blood pressure"
+    },
+    "Physical Activity": {
+        "children": [
+            "Low physical activity"
+        ],
+        "description": "Lack of exercise"
+    },
+    "Stress": {
+        "children": [
+            "Increased cortisol levels"
+        ],
+        "description": "Chronic stress impacting blood pressure"
+    },
+    "High sodium intake": {
+        "children": [
+            "Fluid retention"
+        ],
+        "description": "Excessive salt consumption"
+    },
+    "Obesity": {
+        "children": [
+            "Increased vascular resistance"
+        ],
+        "description": "Excess body fat"
+    },
+    "Low physical activity": {
+        "children": [
+            "Increased risk of obesity"
+        ],
+        "description": "Insufficient physical activity"
+    },
+    "Increased cortisol levels": {
+        "children": [
+            "Vascular constriction"
+        ],
+        "description": "Elevated cortisol levels"
+    },
+    "Fluid retention": {
+        "children": [
+            "Increased blood volume"
+        ],
+        "description": "Retention of excess fluid"
+    },
+    "Increased vascular resistance": {
+        "children": [
+            "Increased blood pressure"
+        ],
+        "description": "Narrowing of blood vessels"
+    },
+    "Increased blood volume": {
+        "children": [
+            "Increased blood pressure"
+        ],
+        "description": "Higher volume of blood in the circulatory system"
+    },
+    "Vascular constriction": {
+        "children": [
+            "Increased blood pressure"
+        ],
+        "description": "Narrowing of blood vessels"
+    },
+    "Increased risk of hypertension": {
+        "children": [
+            "Increased blood pressure"
+        ],
+        "description": "Higher chance of developing hypertension"
+    },
+    "Increased blood pressure": {
+        "children": [
+            "Organ damage"
+        ],
+        "description": "Elevated blood pressure"
+    },
+    "Organ damage": {
+        "children": [
+            "Heart disease",
+            "Kidney disease",
+            "Stroke"
+        ],
+        "description": "Damage to vital organs due to hypertension"
+    }
+}

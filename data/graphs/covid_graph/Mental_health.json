@@ -1,0 +1,180 @@
+{
+    "Mental Health": {
+        "children": [
+            "Genetics",
+            "Environment"
+        ],
+        "description": "Overall mental well-being"
+    },
+    "Genetics": {
+        "children": [
+            "Predisposition to Mental Illness"
+        ],
+        "description": "Inherited traits influencing mental health"
+    },
+    "Environment": {
+        "children": [
+            "Childhood Trauma",
+            "Social Support"
+        ],
+        "description": "External factors impacting mental health"
+    },
+    "Predisposition to Mental Illness": {
+        "children": [
+            "Increased Risk of Mental Illness"
+        ],
+        "description": "Genetic vulnerability to mental health conditions"
+    },
+    "Childhood Trauma": {
+        "children": [
+            "PTSD",
+            "Depression"
+        ],
+        "description": "Adverse experiences during childhood"
+    },
+    "Social Support": {
+        "children": [
+            "Resilience",
+            "Coping Mechanisms"
+        ],
+        "description": "Strength of social connections"
+    },
+    "Increased Risk of Mental Illness": {
+        "children": [
+            "Mental Illness"
+        ],
+        "description": "Higher probability of developing mental health disorders"
+    },
+    "PTSD": {
+        "children": [
+            "Anxiety",
+            "Flashbacks"
+        ],
+        "description": "Post-traumatic stress disorder"
+    },
+    "Depression": {
+        "children": [
+            "Low Mood",
+            "Loss of Interest"
+        ],
+        "description": "Major depressive disorder"
+    },
+    "Resilience": {
+        "children": [
+            "Stress Management"
+        ],
+        "description": "Ability to bounce back from adversity"
+    },
+    "Coping Mechanisms": {
+        "children": [
+            "Stress Management"
+        ],
+        "description": "Strategies for managing stress"
+    },
+    "Anxiety": {
+        "children": [
+            "Panic Attacks"
+        ],
+        "description": "Excessive worry and fear"
+    },
+    "Flashbacks": {
+        "children": [
+            "Trauma Re-experiencing"
+        ],
+        "description": "Reliving traumatic events"
+    },
+    "Low Mood": {
+        "children": [
+            "Suicidal Ideation"
+        ],
+        "description": "Persistent sadness"
+    },
+    "Loss of Interest": {
+        "children": [
+            "Anhedonia"
+        ],
+        "description": "Lack of pleasure in activities"
+    },
+    "Stress Management": {
+        "children": [
+            "Improved Mental Health"
+        ],
+        "description": "Techniques for reducing stress"
+    },
+    "Panic Attacks": {
+        "children": [
+            "Fear of Panic Attacks"
+        ],
+        "description": "Sudden episodes of intense fear"
+    },
+    "Trauma Re-experiencing": {
+        "children": [
+            "Avoidance Behaviors"
+        ],
+        "description": "Repeatedly experiencing trauma"
+    },
+    "Suicidal Ideation": {
+        "children": [
+            "Suicide Attempts"
+        ],
+        "description": "Thoughts of self-harm"
+    },
+    "Anhedonia": {
+        "children": [
+            "Social Isolation"
+        ],
+        "description": "Inability to experience pleasure"
+    },
+    "Improved Mental Health": {
+        "children": [
+            "Increased Well-being"
+        ],
+        "description": "Positive changes in mental health"
+    },
+    "Fear of Panic Attacks": {
+        "children": [
+            "Agoraphobia"
+        ],
+        "description": "Fear of having a panic attack in public"
+    },
+    "Avoidance Behaviors": {
+        "children": [
+            "Social Isolation"
+        ],
+        "description": "Avoiding situations that trigger trauma"
+    },
+    "Suicide Attempts": {
+        "children": [
+            "Self-Harm"
+        ],
+        "description": "Attempts to end one's life"
+    },
+    "Social Isolation": {
+        "children": [
+            "Loneliness"
+        ],
+        "description": "Lack of social interaction"
+    },
+    "Increased Well-being": {
+        "children": [],
+        "description": "Overall improvement in mental health"
+    },
+    "Loneliness": {
+        "children": [],
+        "description": "Feeling alone and isolated"
+    },
+    "Mental Illness": {
+        "children": [
+            "Reduced Quality of Life"
+        ],
+        "description": "Diagnosable mental health condition"
+    },
+    "Reduced Quality of Life": {
+        "children": [],
+        "description": "Negative impact on daily life"
+    },
+    "Agoraphobia": {
+        "children": [],
+        "description": "Fear of open spaces"
+    }
+}

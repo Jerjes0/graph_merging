@@ -1,0 +1,139 @@
+{
+    "Infection": {
+        "children": [
+            "Immune_System_Activation"
+        ],
+        "description": "Presence of pathogens (bacteria, viruses, etc.)"
+    },
+    "Immune_System_Activation": {
+        "children": [
+            "Inflammation",
+            "Antigen_Presentation"
+        ],
+        "description": "Activation of the immune system's various components"
+    },
+    "Inflammation": {
+        "children": [
+            "Recruitment_of_Immune_Cells",
+            "Tissue_Repair"
+        ],
+        "description": "Local response characterized by redness, swelling, heat, and pain"
+    },
+    "Antigen_Presentation": {
+        "children": [
+            "T_Cell_Activation",
+            "B_Cell_Activation"
+        ],
+        "description": "Antigens are presented to lymphocytes"
+    },
+    "Recruitment_of_Immune_Cells": {
+        "children": [
+            "Phagocytosis",
+            "Complement_Activation"
+        ],
+        "description": "Immune cells migrate to the site of infection"
+    },
+    "Tissue_Repair": {
+        "children": [
+            "Wound_Healing"
+        ],
+        "description": "Repair of damaged tissues"
+    },
+    "T_Cell_Activation": {
+        "children": [
+            "Cytotoxic_T_Cell_Response",
+            "Helper_T_Cell_Response"
+        ],
+        "description": "Activation of T lymphocytes"
+    },
+    "B_Cell_Activation": {
+        "children": [
+            "Antibody_Production"
+        ],
+        "description": "Activation of B lymphocytes"
+    },
+    "Phagocytosis": {
+        "children": [
+            "Pathogen_Destruction"
+        ],
+        "description": "Engulfment and destruction of pathogens by phagocytes"
+    },
+    "Complement_Activation": {
+        "children": [
+            "Pathogen_Lysis"
+        ],
+        "description": "Activation of the complement system leading to pathogen destruction"
+    },
+    "Cytotoxic_T_Cell_Response": {
+        "children": [
+            "Pathogen_Destruction"
+        ],
+        "description": "Killing of infected cells by cytotoxic T cells"
+    },
+    "Helper_T_Cell_Response": {
+        "children": [
+            "B_Cell_Activation",
+            "Macrophage_Activation"
+        ],
+        "description": "Helper T cells assist other immune cells"
+    },
+    "Antibody_Production": {
+        "children": [
+            "Neutralization",
+            "Opsonization"
+        ],
+        "description": "Production of antibodies by plasma cells"
+    },
+    "Macrophage_Activation": {
+        "children": [
+            "Enhanced_Phagocytosis"
+        ],
+        "description": "Activation of macrophages to enhance phagocytosis"
+    },
+    "Neutralization": {
+        "children": [
+            "Inhibition_of_Pathogen_Infectivity"
+        ],
+        "description": "Antibodies bind to pathogens and prevent them from infecting cells"
+    },
+    "Opsonization": {
+        "children": [
+            "Enhanced_Phagocytosis"
+        ],
+        "description": "Antibodies coat pathogens, making them easier for phagocytes to engulf"
+    },
+    "Pathogen_Destruction": {
+        "children": [
+            "Resolution_of_Infection"
+        ],
+        "description": "Elimination of pathogens"
+    },
+    "Enhanced_Phagocytosis": {
+        "children": [
+            "Pathogen_Destruction"
+        ],
+        "description": "Increased efficiency of phagocytosis"
+    },
+    "Inhibition_of_Pathogen_Infectivity": {
+        "children": [
+            "Resolution_of_Infection"
+        ],
+        "description": "Prevention of pathogen infection"
+    },
+    "Pathogen_Lysis": {
+        "children": [
+            "Resolution_of_Infection"
+        ],
+        "description": "Direct killing of pathogens"
+    },
+    "Wound_Healing": {
+        "children": [
+            "Resolution_of_Infection"
+        ],
+        "description": "Repair of damaged tissues"
+    },
+    "Resolution_of_Infection": {
+        "children": [],
+        "description": "Elimination of the infection"
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "Mortality": {
+        "children": [
+            "Age",
+            "Disease"
+        ],
+        "description": "The state of being subject to death"
+    },
+    "Age": {
+        "children": [
+            "Genetic Predisposition",
+            "Lifestyle Choices"
+        ],
+        "description": "The length of time a being has existed"
+    },
+    "Disease": {
+        "children": [
+            "Infection",
+            "Genetic Disorder"
+        ],
+        "description": "A disorder of structure or function in a human, animal, or plant"
+    },
+    "Genetic Predisposition": {
+        "children": [
+            "Inherited Genes",
+            "Mutations"
+        ],
+        "description": "An increased likelihood of developing a particular disease based on genetic makeup"
+    },
+    "Lifestyle Choices": {
+        "children": [
+            "Diet",
+            "Exercise"
+        ],
+        "description": "Decisions and behaviors that impact health and longevity"
+    },
+    "Infection": {
+        "children": [
+            "Exposure to Pathogens",
+            "Immune System Strength"
+        ],
+        "description": "Invasion of the body by pathogenic microorganisms"
+    },
+    "Genetic Disorder": {
+        "children": [
+            "Chromosomal Abnormalities",
+            "Gene Mutations"
+        ],
+        "description": "A disease caused by abnormalities in an individual's genetic material"
+    },
+    "Inherited Genes": {
+        "children": [
+            "Parental Genes",
+            "Ancestral Genes"
+        ],
+        "description": "Genes passed down from parents"
+    },
+    "Mutations": {
+        "children": [
+            "Environmental Factors",
+            "Spontaneous Errors"
+        ],
+        "description": "Changes in DNA sequence"
+    },
+    "Diet": {
+        "children": [
+            "Nutrient Intake",
+            "Caloric Intake"
+        ],
+        "description": "The food and drink consumed"
+    },
+    "Exercise": {
+        "children": [
+            "Physical Activity Level",
+            "Type of Exercise"
+        ],
+        "description": "Physical activity to improve health"
+    },
+    "Exposure to Pathogens": {
+        "children": [
+            "Environmental Contamination",
+            "Contact with Infected Individuals"
+        ],
+        "description": "Exposure to disease-causing organisms"
+    },
+    "Immune System Strength": {
+        "children": [
+            "Genetics",
+            "Lifestyle"
+        ],
+        "description": "The ability of the body to fight off infection"
+    },
+    "Chromosomal Abnormalities": {
+        "children": [
+            "Meiotic Errors",
+            "Environmental Factors"
+        ],
+        "description": "Abnormal number or structure of chromosomes"
+    },
+    "Gene Mutations": {
+        "children": [
+            "DNA Replication Errors",
+            "Environmental Mutagens"
+        ],
+        "description": "Changes in the DNA sequence of a gene"
+    },
+    "Parental Genes": {
+        "children": [],
+        "description": "Genes inherited from parents"
+    },
+    "Ancestral Genes": {
+        "children": [],
+        "description": "Genes inherited from ancestors"
+    },
+    "Environmental Factors": {
+        "children": [],
+        "description": "External factors influencing health"
+    },
+    "Spontaneous Errors": {
+        "children": [],
+        "description": "Random errors in DNA replication"
+    },
+    "Nutrient Intake": {
+        "children": [],
+        "description": "Consumption of essential nutrients"
+    },
+    "Caloric Intake": {
+        "children": [],
+        "description": "Total energy intake from food"
+    },
+    "Physical Activity Level": {
+        "children": [],
+        "description": "Amount of physical activity"
+    },
+    "Type of Exercise": {
+        "children": [],
+        "description": "Kind of physical activity"
+    },
+    "Environmental Contamination": {
+        "children": [],
+        "description": "Presence of harmful substances in the environment"
+    },
+    "Contact with Infected Individuals": {
+        "children": [],
+        "description": "Direct contact with people carrying pathogens"
+    },
+    "Genetics": {
+        "children": [],
+        "description": "Genetic factors influencing immune system strength"
+    },
+    "Lifestyle": {
+        "children": [],
+        "description": "Lifestyle factors influencing immune system strength"
+    },
+    "Meiotic Errors": {
+        "children": [],
+        "description": "Errors during cell division"
+    },
+    "DNA Replication Errors": {
+        "children": [],
+        "description": "Errors during DNA copying"
+    },
+    "Environmental Mutagens": {
+        "children": [],
+        "description": "Substances causing DNA mutations"
+    }
+}

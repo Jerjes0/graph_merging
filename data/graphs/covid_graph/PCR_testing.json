@@ -1,0 +1,114 @@
+{
+    "PCR testing": {
+        "children": [
+            "Sample Collection",
+            "RNA Extraction"
+        ],
+        "description": "The process of detecting nucleic acids using polymerase chain reaction"
+    },
+    "Sample Collection": {
+        "children": [
+            "Nasopharyngeal swab",
+            "Saliva sample"
+        ],
+        "description": "Collecting a biological sample from an individual"
+    },
+    "RNA Extraction": {
+        "children": [
+            "Reverse Transcription",
+            "Purification"
+        ],
+        "description": "Isolating RNA from the sample"
+    },
+    "Reverse Transcription": {
+        "children": [
+            "cDNA synthesis"
+        ],
+        "description": "Converting RNA to cDNA"
+    },
+    "cDNA synthesis": {
+        "children": [
+            "PCR Amplification"
+        ],
+        "description": "Creating complementary DNA"
+    },
+    "Purification": {
+        "children": [
+            "PCR Amplification"
+        ],
+        "description": "Removing impurities from the extracted RNA"
+    },
+    "PCR Amplification": {
+        "children": [
+            "Detection",
+            "Data Analysis"
+        ],
+        "description": "Amplifying the target DNA sequence exponentially"
+    },
+    "Detection": {
+        "children": [
+            "Fluorescence detection",
+            "Real-time PCR"
+        ],
+        "description": "Detecting the amplified DNA"
+    },
+    "Data Analysis": {
+        "children": [
+            "Result Interpretation"
+        ],
+        "description": "Analyzing the PCR data"
+    },
+    "Result Interpretation": {
+        "children": [
+            "Positive Result",
+            "Negative Result"
+        ],
+        "description": "Interpreting the results of the PCR test"
+    },
+    "Positive Result": {
+        "children": [
+            "Further investigation",
+            "Treatment"
+        ],
+        "description": "Indicates the presence of the target nucleic acid"
+    },
+    "Negative Result": {
+        "children": [
+            "No further action",
+            "Re-testing"
+        ],
+        "description": "Indicates the absence of the target nucleic acid"
+    },
+    "Nasopharyngeal swab": {
+        "children": [],
+        "description": "Collecting a sample from the nasopharynx"
+    },
+    "Saliva sample": {
+        "children": [],
+        "description": "Collecting a saliva sample"
+    },
+    "Fluorescence detection": {
+        "children": [],
+        "description": "Detecting fluorescence emitted during PCR"
+    },
+    "Real-time PCR": {
+        "children": [],
+        "description": "PCR that allows for real-time monitoring of the reaction"
+    },
+    "Further investigation": {
+        "children": [],
+        "description": "Further testing and investigations"
+    },
+    "Treatment": {
+        "children": [],
+        "description": "Treatment based on the positive result"
+    },
+    "No further action": {
+        "children": [],
+        "description": "No further action needed"
+    },
+    "Re-testing": {
+        "children": [],
+        "description": "Repeating the PCR test"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "SARS-CoV-2 Infection": {
+        "children": [
+            "Acute COVID-19",
+            "Immune Dysregulation"
+        ],
+        "description": "Infection with the SARS-CoV-2 virus"
+    },
+    "Acute COVID-19": {
+        "children": [
+            "Organ Damage",
+            "Inflammation"
+        ],
+        "description": "Initial phase of COVID-19 infection with symptoms"
+    },
+    "Immune Dysregulation": {
+        "children": [
+            "Autoimmunity",
+            "Cytokine Storm"
+        ],
+        "description": "Abnormal immune response"
+    },
+    "Organ Damage": {
+        "children": [
+            "Lung Damage",
+            "Heart Damage"
+        ],
+        "description": "Damage to various organs"
+    },
+    "Inflammation": {
+        "children": [
+            "Persistent Inflammation",
+            "Vascular Damage"
+        ],
+        "description": "Inflammatory response"
+    },
+    "Autoimmunity": {
+        "children": [
+            "Long COVID Symptoms"
+        ],
+        "description": "Immune system attacking own tissues"
+    },
+    "Cytokine Storm": {
+        "children": [
+            "Long COVID Symptoms"
+        ],
+        "description": "Overwhelming immune response"
+    },
+    "Lung Damage": {
+        "children": [
+            "Long COVID Symptoms",
+            "Respiratory Issues"
+        ],
+        "description": "Damage to lung tissue"
+    },
+    "Heart Damage": {
+        "children": [
+            "Long COVID Symptoms",
+            "Cardiovascular Issues"
+        ],
+        "description": "Damage to heart tissue"
+    },
+    "Persistent Inflammation": {
+        "children": [
+            "Long COVID Symptoms"
+        ],
+        "description": "Prolonged inflammatory response"
+    },
+    "Vascular Damage": {
+        "children": [
+            "Long COVID Symptoms",
+            "Blood Clot Risk"
+        ],
+        "description": "Damage to blood vessels"
+    },
+    "Long COVID Symptoms": {
+        "children": [],
+        "description": "Persistent symptoms after acute infection"
+    },
+    "Respiratory Issues": {
+        "children": [],
+        "description": "Ongoing respiratory problems"
+    },
+    "Cardiovascular Issues": {
+        "children": [],
+        "description": "Ongoing cardiovascular problems"
+    },
+    "Blood Clot Risk": {
+        "children": [],
+        "description": "Increased risk of blood clots"
+    }
+}

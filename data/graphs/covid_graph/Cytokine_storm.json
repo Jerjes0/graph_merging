@@ -1,0 +1,111 @@
+{
+    "Cytokine Storm": {
+        "children": [
+            "Excessive Immune Response",
+            "Infection/Inflammation"
+        ],
+        "description": "A life-threatening immune response characterized by excessive cytokine production"
+    },
+    "Excessive Immune Response": {
+        "children": [
+            "Tissue Damage",
+            "Organ Failure"
+        ],
+        "description": "Overactivation of the immune system leading to widespread inflammation"
+    },
+    "Infection/Inflammation": {
+        "children": [
+            "Viral Infection",
+            "Bacterial Infection"
+        ],
+        "description": "Underlying trigger for cytokine storm, often viral or bacterial"
+    },
+    "Tissue Damage": {
+        "children": [
+            "Vascular Leakage",
+            "Edema"
+        ],
+        "description": "Damage to tissues caused by excessive inflammation"
+    },
+    "Organ Failure": {
+        "children": [
+            "Respiratory Distress",
+            "Multi-Organ Dysfunction Syndrome"
+        ],
+        "description": "Failure of vital organs due to inflammation and damage"
+    },
+    "Vascular Leakage": {
+        "children": [
+            "Hypotension",
+            "Shock"
+        ],
+        "description": "Leakage of fluid from blood vessels into tissues"
+    },
+    "Edema": {
+        "children": [
+            "Fluid Accumulation",
+            "Tissue Swelling"
+        ],
+        "description": "Accumulation of fluid in tissues causing swelling"
+    },
+    "Respiratory Distress": {
+        "children": [
+            "ARDS",
+            "Hypoxia"
+        ],
+        "description": "Difficulty breathing due to lung inflammation"
+    },
+    "Multi-Organ Dysfunction Syndrome": {
+        "children": [
+            "Death",
+            "Sepsis"
+        ],
+        "description": "Failure of multiple organs"
+    },
+    "Viral Infection": {
+        "children": [
+            "Influenza",
+            "COVID-19"
+        ],
+        "description": "Viral infections can trigger cytokine storms"
+    },
+    "Bacterial Infection": {
+        "children": [
+            "Sepsis",
+            "Pneumonia"
+        ],
+        "description": "Bacterial infections can trigger cytokine storms"
+    },
+    "Hypotension": {
+        "children": [],
+        "description": "Low blood pressure"
+    },
+    "Shock": {
+        "children": [],
+        "description": "Life-threatening condition"
+    },
+    "Fluid Accumulation": {
+        "children": [],
+        "description": "Excessive fluid in tissues"
+    },
+    "Tissue Swelling": {
+        "children": [],
+        "description": "Swelling due to fluid accumulation"
+    },
+    "ARDS": {
+        "children": [],
+        "description": "Acute respiratory distress syndrome"
+    },
+    "Hypoxia": {
+        "children": [],
+        "description": "Low oxygen levels in the blood"
+    },
+    "Death": {
+        "children": [],
+        "description": "Fatal outcome"
+    },
+    "Sepsis": {
+        "children": [],
+        "description": "Life-threatening complication"
+    }
+}

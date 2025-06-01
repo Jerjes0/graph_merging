@@ -1,0 +1,127 @@
+{
+    "ICU Admission": {
+        "children": [
+            "Severity of Illness",
+            "Availability of Resources"
+        ],
+        "description": "The event of a patient being admitted to an Intensive Care Unit (ICU)"
+    },
+    "Severity of Illness": {
+        "children": [
+            "Underlying Medical Conditions",
+            "Acute Illness Onset"
+        ],
+        "description": "The seriousness of a patient's medical condition requiring ICU-level care"
+    },
+    "Availability of Resources": {
+        "children": [
+            "Hospital Bed Capacity",
+            "ICU Staffing Levels"
+        ],
+        "description": "The availability of resources such as beds and staff within the ICU"
+    },
+    "Underlying Medical Conditions": {
+        "children": [
+            "Chronic Diseases",
+            "Genetic Predisposition"
+        ],
+        "description": "Pre-existing health conditions that contribute to the severity of illness"
+    },
+    "Acute Illness Onset": {
+        "children": [
+            "Trauma",
+            "Infection"
+        ],
+        "description": "The sudden onset of a serious illness or injury"
+    },
+    "Chronic Diseases": {
+        "children": [
+            "Heart Disease",
+            "Diabetes"
+        ],
+        "description": "Long-term health conditions that increase the risk of ICU admission"
+    },
+    "Genetic Predisposition": {
+        "children": [
+            "Family History",
+            "Genetic Mutations"
+        ],
+        "description": "Inherited factors influencing susceptibility to severe illness"
+    },
+    "Trauma": {
+        "children": [
+            "Accidents",
+            "Violence"
+        ],
+        "description": "Physical injuries resulting from accidents or violence"
+    },
+    "Infection": {
+        "children": [
+            "Bacterial Infections",
+            "Viral Infections"
+        ],
+        "description": "Infections causing severe illness requiring ICU care"
+    },
+    "Hospital Bed Capacity": {
+        "children": [
+            "Patient Discharge Rate",
+            "Hospital Size"
+        ],
+        "description": "The number of available ICU beds in the hospital"
+    },
+    "ICU Staffing Levels": {
+        "children": [
+            "Nurse-to-Patient Ratio",
+            "Physician Availability"
+        ],
+        "description": "The number of ICU staff available to care for patients"
+    },
+    "Heart Disease": {
+        "children": [],
+        "description": "Conditions affecting the heart"
+    },
+    "Diabetes": {
+        "children": [],
+        "description": "Metabolic disorder affecting blood sugar regulation"
+    },
+    "Family History": {
+        "children": [],
+        "description": "Presence of similar conditions in family members"
+    },
+    "Genetic Mutations": {
+        "children": [],
+        "description": "Alterations in genes increasing risk"
+    },
+    "Accidents": {
+        "children": [],
+        "description": "Unintentional injuries"
+    },
+    "Violence": {
+        "children": [],
+        "description": "Intentional harm"
+    },
+    "Bacterial Infections": {
+        "children": [],
+        "description": "Infections caused by bacteria"
+    },
+    "Viral Infections": {
+        "children": [],
+        "description": "Infections caused by viruses"
+    },
+    "Patient Discharge Rate": {
+        "children": [],
+        "description": "Rate at which patients leave the ICU"
+    },
+    "Hospital Size": {
+        "children": [],
+        "description": "Physical size and capacity of the hospital"
+    },
+    "Nurse-to-Patient Ratio": {
+        "children": [],
+        "description": "Number of nurses per patient"
+    },
+    "Physician Availability": {
+        "children": [],
+        "description": "Number of physicians available in the ICU"
+    }
+}

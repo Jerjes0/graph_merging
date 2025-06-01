@@ -1,0 +1,190 @@
+{
+    "Fever": {
+        "children": [
+            "Infection",
+            "Inflammation"
+        ],
+        "description": "Elevated body temperature"
+    },
+    "Infection": {
+        "children": [
+            "Bacterial Infection",
+            "Viral Infection"
+        ],
+        "description": "Invasion of the body by pathogenic microorganisms"
+    },
+    "Inflammation": {
+        "children": [
+            "Immune Response",
+            "Tissue Damage"
+        ],
+        "description": "Body's response to injury or infection"
+    },
+    "Bacterial Infection": {
+        "children": [
+            "Bacterial Toxins",
+            "Immune System Response"
+        ],
+        "description": "Infection caused by bacteria"
+    },
+    "Viral Infection": {
+        "children": [
+            "Viral Replication",
+            "Immune System Response"
+        ],
+        "description": "Infection caused by viruses"
+    },
+    "Immune Response": {
+        "children": [
+            "Cytokine Release",
+            "Increased Body Temperature"
+        ],
+        "description": "Body's defense mechanism against infection"
+    },
+    "Tissue Damage": {
+        "children": [
+            "Pain",
+            "Swelling"
+        ],
+        "description": "Physical harm to body tissues"
+    },
+    "Bacterial Toxins": {
+        "children": [
+            "Fever Induction",
+            "Organ Damage"
+        ],
+        "description": "Harmful substances produced by bacteria"
+    },
+    "Viral Replication": {
+        "children": [
+            "Fever Induction",
+            "Cell Death"
+        ],
+        "description": "Process of viruses multiplying inside host cells"
+    },
+    "Cytokine Release": {
+        "children": [
+            "Fever Induction",
+            "Inflammation"
+        ],
+        "description": "Release of signaling molecules by immune cells"
+    },
+    "Increased Body Temperature": {
+        "children": [
+            "Fever",
+            "Dehydration"
+        ],
+        "description": "Rise in body temperature"
+    },
+    "Fever Induction": {
+        "children": [
+            "Fever",
+            "Shivering"
+        ],
+        "description": "Process leading to fever development"
+    },
+    "Pain": {
+        "children": [
+            "Discomfort",
+            "Reduced Mobility"
+        ],
+        "description": "Unpleasant sensory and emotional experience"
+    },
+    "Swelling": {
+        "children": [
+            "Inflammation",
+            "Pain"
+        ],
+        "description": "Accumulation of fluid in tissues"
+    },
+    "Dehydration": {
+        "children": [
+            "Electrolyte Imbalance",
+            "Fatigue"
+        ],
+        "description": "Loss of body fluids"
+    },
+    "Shivering": {
+        "children": [
+            "Heat Generation",
+            "Muscle Aches"
+        ],
+        "description": "Involuntary muscle contractions to generate heat"
+    },
+    "Electrolyte Imbalance": {
+        "children": [
+            "Muscle Weakness",
+            "Fatigue"
+        ],
+        "description": "Disturbance in the balance of electrolytes"
+    },
+    "Heat Generation": {
+        "children": [
+            "Increased Body Temperature",
+            "Energy Consumption"
+        ],
+        "description": "Production of heat to raise body temperature"
+    },
+    "Muscle Aches": {
+        "children": [
+            "Pain",
+            "Fatigue"
+        ],
+        "description": "Pain in muscles"
+    },
+    "Organ Damage": {
+        "children": [
+            "Organ Dysfunction",
+            "Mortality"
+        ],
+        "description": "Damage to internal organs"
+    },
+    "Cell Death": {
+        "children": [
+            "Tissue Damage",
+            "Organ Dysfunction"
+        ],
+        "description": "Death of cells"
+    },
+    "Muscle Weakness": {
+        "children": [
+            "Reduced Mobility",
+            "Fatigue"
+        ],
+        "description": "Weakness in muscles"
+    },
+    "Fatigue": {
+        "children": [
+            "Reduced Energy Levels",
+            "Lethargy"
+        ],
+        "description": "Feeling of tiredness"
+    },
+    "Organ Dysfunction": {
+        "children": [
+            "Mortality",
+            "Reduced Organ Function"
+        ],
+        "description": "Impaired function of an organ"
+    },
+    "Mortality": {
+        "children": [],
+        "description": "Death"
+    },
+    "Reduced Mobility": {
+        "children": [],
+        "description": "Impaired ability to move"
+    },
+    "Reduced Energy Levels": {
+        "children": [],
+        "description": "Decreased energy levels"
+    },
+    "Lethargy": {
+        "children": [],
+        "description": "Lack of energy and enthusiasm"
+    },
+    "Reduced Organ Function": {
+        "children": [],
+        "description": "Decreased function of an organ"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "Antibodies": {
+        "children": [
+            "B Cell Activation",
+            "Antigen Binding"
+        ],
+        "description": "Proteins produced by the immune system to identify and neutralize foreign substances"
+    },
+    "B Cell Activation": {
+        "children": [
+            "Plasma Cell Differentiation",
+            "Memory B Cell Formation"
+        ],
+        "description": "The process by which B cells are stimulated to produce antibodies"
+    },
+    "Antigen Binding": {
+        "children": [
+            "Complement Activation",
+            "Opsonization"
+        ],
+        "description": "The binding of an antibody to its specific antigen"
+    },
+    "Plasma Cell Differentiation": {
+        "children": [
+            "Antibody Production"
+        ],
+        "description": "The differentiation of B cells into plasma cells, which are antibody factories"
+    },
+    "Memory B Cell Formation": {
+        "children": [
+            "Secondary Immune Response"
+        ],
+        "description": "The formation of memory B cells, which provide long-lasting immunity"
+    },
+    "Antibody Production": {
+        "children": [
+            "Neutralization",
+            "Agglutination"
+        ],
+        "description": "The production of antibodies by plasma cells"
+    },
+    "Complement Activation": {
+        "children": [
+            "Cell Lysis"
+        ],
+        "description": "The activation of the complement system, leading to the destruction of pathogens"
+    },
+    "Opsonization": {
+        "children": [
+            "Phagocytosis"
+        ],
+        "description": "The coating of pathogens with antibodies, making them more susceptible to phagocytosis"
+    },
+    "Secondary Immune Response": {
+        "children": [
+            "Faster and Stronger Response"
+        ],
+        "description": "A faster and stronger immune response upon re-exposure to the same antigen"
+    },
+    "Neutralization": {
+        "children": [
+            "Inactivation of Pathogens"
+        ],
+        "description": "The inactivation of pathogens by antibodies"
+    },
+    "Agglutination": {
+        "children": [
+            "Clumping of Pathogens"
+        ],
+        "description": "The clumping of pathogens by antibodies"
+    },
+    "Cell Lysis": {
+        "children": [
+            "Pathogen Destruction"
+        ],
+        "description": "The destruction of pathogens by the complement system"
+    },
+    "Phagocytosis": {
+        "children": [
+            "Pathogen Ingestion"
+        ],
+        "description": "The ingestion of pathogens by phagocytic cells"
+    },
+    "Faster and Stronger Response": {
+        "children": [
+            "Improved Immunity"
+        ],
+        "description": "Improved immunity due to the faster and stronger secondary immune response"
+    },
+    "Inactivation of Pathogens": {
+        "children": [],
+        "description": "Antibodies prevent pathogens from infecting cells"
+    },
+    "Clumping of Pathogens": {
+        "children": [],
+        "description": "Antibodies clump pathogens together, making them easier to eliminate"
+    },
+    "Pathogen Destruction": {
+        "children": [],
+        "description": "Pathogens are destroyed by the complement system"
+    },
+    "Pathogen Ingestion": {
+        "children": [],
+        "description": "Phagocytes ingest and destroy pathogens"
+    }
+}
