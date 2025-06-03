@@ -1,0 +1,5680 @@
+{
+    "COVID-19 Infection": {
+        "Exposure to Virus": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Underlying Health Conditions": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Exposure to Virus": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mode of Transmission": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Underlying Health Conditions": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mortality Risk": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Viral Load": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Immune Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mode of Transmission": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Aerosol Transmission": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Severity of Symptoms": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Immune Response": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Recovery Time": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Severity of Infection": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hospitalization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mortality Risk": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Hospitalization": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ICU Admission": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Close Contact": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Physical Proximity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Aerosol Transmission": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Crowded Spaces": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Long COVID": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Treatment": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ICU Admission": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Failure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Disease Progression": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Peak Severity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Recovery Time": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lingering Effects": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Chronic Symptoms": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cognitive Impairment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Complications": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Blood Clots": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Death": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Duration of Exposure": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Physical Proximity": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Ventilation": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Crowded Spaces": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fatigue": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cognitive Impairment": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pneumonia": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Blood Clots": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Symptom Onset": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Peak Severity": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Return to Normal Activities": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lingering Effects": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mechanical Ventilation": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Organ Failure": {
+        "COVID-19 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Virus": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Health Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Load": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mode of Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospitalization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Close Contact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Aerosol Transmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Disease Progression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recovery Time": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Duration of Exposure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Proximity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Crowded Spaces": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cognitive Impairment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clots": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Symptom Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Peak Severity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Return to Normal Activities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lingering Effects": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mechanical Ventilation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

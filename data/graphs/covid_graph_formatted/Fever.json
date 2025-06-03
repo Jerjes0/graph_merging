@@ -1,0 +1,4120 @@
+{
+    "Fever": {
+        "Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Infection": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inflammation": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Tissue Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bacterial Infection": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Viral Infection": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Immune Response": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Body Temperature": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Tissue Damage": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Swelling": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bacterial Toxins": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Viral Replication": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cytokine Release": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Body Temperature": {
+        "Fever": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fever Induction": {
+        "Fever": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pain": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Swelling": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Dehydration": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Shivering": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Muscle Aches": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Electrolyte Imbalance": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fatigue": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Heat Generation": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Muscle Aches": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Organ Damage": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cell Death": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Muscle Weakness": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fatigue": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lethargy": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Organ Dysfunction": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Mortality": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Mobility": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Energy Levels": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lethargy": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Organ Function": {
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Replication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Release": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Body Temperature": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever Induction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dehydration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shivering": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Electrolyte Imbalance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heat Generation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Muscle Weakness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fatigue": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Dysfunction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mobility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Energy Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lethargy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

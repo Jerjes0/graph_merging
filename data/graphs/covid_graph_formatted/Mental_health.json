@@ -1,0 +1,4412 @@
+{
+    "Mental Health": {
+        "Genetics": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Environment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetics": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Environment": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Social Support": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Predisposition to Mental Illness": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Childhood Trauma": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Depression": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Social Support": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Coping Mechanisms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Risk of Mental Illness": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "PTSD": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Flashbacks": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Depression": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Loss of Interest": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Resilience": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Coping Mechanisms": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Anxiety": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Flashbacks": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Low Mood": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Loss of Interest": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Stress Management": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Panic Attacks": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Trauma Re-experiencing": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Suicidal Ideation": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Anhedonia": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Improved Mental Health": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fear of Panic Attacks": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Avoidance Behaviors": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Suicide Attempts": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Social Isolation": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Well-being": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Loneliness": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mental Illness": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Quality of Life": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Agoraphobia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Agoraphobia": {
+        "Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Predisposition to Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Childhood Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Support": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Risk of Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PTSD": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resilience": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Coping Mechanisms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Flashbacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low Mood": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loss of Interest": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress Management": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Panic Attacks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma Re-experiencing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicidal Ideation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Anhedonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Mental Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fear of Panic Attacks": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Avoidance Behaviors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Suicide Attempts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Well-being": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Quality of Life": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

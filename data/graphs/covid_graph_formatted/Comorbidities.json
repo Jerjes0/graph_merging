@@ -1,0 +1,4120 @@
+{
+    "Comorbidities": {
+        "Genetic Predisposition": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Environmental Factors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetic Predisposition": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Family History": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Environmental Factors": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Exposure to Toxins": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Specific Gene Variations": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Impaired Immune Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Family History": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Shared Environment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lifestyle Choices": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lack of Exercise": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Exposure to Toxins": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Occupational Hazards": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Inflammation": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Autoimmune Disorders": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Impaired Immune Response": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cancer": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Shared Genetic Risk": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Early Onset of Diseases": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Shared Environment": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Poor Diet": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diabetes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lack of Exercise": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Air Pollution": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Diseases": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Occupational Hazards": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Physical Injuries": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Chronic Diseases": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Autoimmune Disorders": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Infections": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cancer": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Multiple Disease Susceptibility": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Early Onset of Diseases": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Similar Lifestyle Choices": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Exposure to Shared Toxins": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Obesity": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Diabetes": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cardiovascular Disease": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Respiratory Diseases": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Exposure to Carcinogens": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Injuries": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Physical Injuries": {
+        "Comorbidities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Specific Gene Variations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Impaired Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Genetic Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shared Environment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Poor Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lack of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Air Pollution": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Occupational Hazards": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmune Disorders": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cancer": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multiple Disease Susceptibility": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Early Onset of Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Similar Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Shared Toxins": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Carcinogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

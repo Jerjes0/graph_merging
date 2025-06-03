@@ -1,0 +1,2356 @@
+{
+    "Infection": {
+        "Immune_System_Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Immune_System_Activation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Antigen_Presentation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inflammation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Tissue_Repair": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Antigen_Presentation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "B_Cell_Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Recruitment_of_Immune_Cells": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Complement_Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Tissue_Repair": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "T_Cell_Activation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "B_Cell_Activation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antibody_Production": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Phagocytosis": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Complement_Activation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cytotoxic_T_Cell_Response": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Helper_T_Cell_Response": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "B_Cell_Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Antibody_Production": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Macrophage_Activation": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Neutralization": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Opsonization": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pathogen_Destruction": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Enhanced_Phagocytosis": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pathogen_Destruction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inhibition_of_Pathogen_Infectivity": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Pathogen_Lysis": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Wound_Healing": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Resolution_of_Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Resolution_of_Infection": {
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune_System_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen_Presentation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Recruitment_of_Immune_Cells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue_Repair": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "T_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B_Cell_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytotoxic_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Helper_T_Cell_Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody_Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Macrophage_Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen_Destruction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Enhanced_Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inhibition_of_Pathogen_Infectivity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pathogen_Lysis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Wound_Healing": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        }
+    }
+}

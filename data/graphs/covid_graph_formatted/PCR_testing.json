@@ -1,0 +1,1942 @@
+{
+    "PCR testing": {
+        "Sample Collection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "RNA Extraction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Sample Collection": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Saliva sample": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "RNA Extraction": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reverse Transcription": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "cDNA synthesis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "cDNA synthesis": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Purification": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "PCR Amplification": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Detection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Data Analysis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Detection": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Real-time PCR": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Data Analysis": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Result Interpretation": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Positive Result": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Negative Result": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Positive Result": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Treatment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Negative Result": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Re-testing": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Nasopharyngeal swab": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Saliva sample": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fluorescence detection": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Real-time PCR": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Further investigation": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Treatment": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "No further action": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Re-testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Re-testing": {
+        "PCR testing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sample Collection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RNA Extraction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reverse Transcription": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "cDNA synthesis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Purification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PCR Amplification": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Data Analysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Result Interpretation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Positive Result": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Negative Result": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Nasopharyngeal swab": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Saliva sample": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluorescence detection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Real-time PCR": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Further investigation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Treatment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "No further action": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

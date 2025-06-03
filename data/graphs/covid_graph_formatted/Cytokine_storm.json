@@ -1,0 +1,1750 @@
+{
+    "Cytokine Storm": {
+        "Excessive Immune Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Infection/Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Excessive Immune Response": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Failure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Infection/Inflammation": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Tissue Damage": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Edema": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Organ Failure": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Vascular Leakage": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Shock": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Edema": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Tissue Swelling": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Respiratory Distress": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hypoxia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Multi-Organ Dysfunction Syndrome": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Sepsis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Viral Infection": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bacterial Infection": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Hypotension": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Shock": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fluid Accumulation": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Tissue Swelling": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ARDS": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Hypoxia": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Death": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Sepsis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Sepsis": {
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Excessive Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection/Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Leakage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Edema": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Multi-Organ Dysfunction Syndrome": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Hypotension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Shock": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid Accumulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tissue Swelling": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ARDS": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hypoxia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Death": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

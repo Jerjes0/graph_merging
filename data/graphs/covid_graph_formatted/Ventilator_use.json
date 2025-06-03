@@ -1,0 +1,1234 @@
+{
+    "Respiratory Failure": {
+        "Ventilator Use": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Ventilator Use": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Barotrauma": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Improved Oxygenation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mortality": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Ventilator-Associated Pneumonia": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Antibiotic Use": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Barotrauma": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lung Injury": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Improved Oxygenation": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Improved Organ Function": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Hospital Stay": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Antibiotic Use": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pneumothorax": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lung Injury": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Reduced Hypoxemia": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Improved Organ Function": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Healthcare Costs": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Antibiotic Resistance": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Chest Tube Insertion": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Distress Syndrome": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Respiratory Distress Syndrome": {
+        "Respiratory Failure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ventilator-Associated Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Barotrauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Oxygenation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Hospital Stay": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Use": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumothorax": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Injury": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Reduced Hypoxemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Organ Function": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Costs": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibiotic Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chest Tube Insertion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

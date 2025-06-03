@@ -1,0 +1,4120 @@
+{
+    "Vaccination": {
+        "ImmuneResponse": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "HerdImmunity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ImmuneResponse": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "MemoryCells": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "HerdImmunity": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "DiseaseEradication": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "AntibodyProduction": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "MemoryCells": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "LongTermProtection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ReducedTransmission": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "FewerOutbreaks": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "DiseaseEradication": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "EconomicBenefits": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Neutralization": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "PreventionOfInfection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Opsonization": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "RapidResponse": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "LongTermProtection": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "LowerInfectionRates": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "DecreasedMortality": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "FewerOutbreaks": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "PublicHealthImprovement": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "EconomicBenefits": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "PathogenInactivation": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "PreventionOfInfection": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "EnhancedPhagocytosis": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ImprovedImmuneClearance": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "FasterImmuneActivation": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ReducedDiseaseSeverity": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "SustainedImmunity": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ReducedNeedForReVaccination": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "DecreasedMorbidity": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "DecreasedMortality": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ImprovedPublicHealth": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ReducedHealthcareCosts": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "IncreasedLifeExpectancy": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedQualityOfLife": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ImprovedQualityOfLife": {
+        "Vaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImmuneResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "HerdImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "AntibodyProduction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "MemoryCells": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedTransmission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DiseaseEradication": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "RapidResponse": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LongTermProtection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "LowerInfectionRates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FewerOutbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PublicHealthImprovement": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "EconomicBenefits": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PathogenInactivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "PreventionOfInfection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "EnhancedPhagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedImmuneClearance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "FasterImmuneActivation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedDiseaseSeverity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "SustainedImmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedNeedForReVaccination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMorbidity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DecreasedMortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ImprovedPublicHealth": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ReducedHealthcareCosts": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "IncreasedLifeExpectancy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

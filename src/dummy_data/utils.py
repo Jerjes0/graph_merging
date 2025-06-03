@@ -37,3 +37,33 @@ def visualize_graph(graph_dict):
     plt.title("Causal Graph Visualization")
     plt.axis('off')
     plt.show()
+
+def convert_graph_to_relation_matrix(graph):
+    nodes = list(graph.keys())
+    relation_matrix = {}
+
+    for i in nodes:
+        relation_matrix[i] = {}
+        for j in nodes:
+            if i == j:
+                continue
+            if j in graph[i]["children"]:
+                relation_matrix[i][j] = {
+                    "isChild": 1,
+                    "isParent": 0,
+                    "noRelation": 0
+                }
+            elif i in graph[j]["children"]:
+                relation_matrix[i][j] = {
+                    "isChild": 0,
+                    "isParent": 1,
+                    "noRelation": 0
+                }
+            else:
+                relation_matrix[i][j] = {
+                    "isChild": 0,
+                    "isParent": 0,
+                    "noRelation": 1
+                }
+
+    return relation_matrix

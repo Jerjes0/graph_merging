@@ -1,0 +1,4412 @@
+{
+    "Mortality": {
+        "Age": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Disease": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Age": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lifestyle Choices": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Disease": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Genetic Disorder": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetic Predisposition": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mutations": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lifestyle Choices": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Exercise": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Infection": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Immune System Strength": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetic Disorder": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Gene Mutations": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inherited Genes": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Ancestral Genes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mutations": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Spontaneous Errors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Diet": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Caloric Intake": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Exercise": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Type of Exercise": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Exposure to Pathogens": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Immune System Strength": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lifestyle": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Chromosomal Abnormalities": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Gene Mutations": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Environmental Mutagens": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Parental Genes": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Ancestral Genes": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Environmental Factors": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Spontaneous Errors": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Nutrient Intake": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Caloric Intake": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Physical Activity Level": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Type of Exercise": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Environmental Contamination": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Contact with Infected Individuals": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetics": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lifestyle": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Meiotic Errors": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "DNA Replication Errors": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Mutagens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Environmental Mutagens": {
+        "Mortality": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Age": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle Choices": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Disorder": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inherited Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Exposure to Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune System Strength": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chromosomal Abnormalities": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Gene Mutations": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Parental Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ancestral Genes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Factors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Spontaneous Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nutrient Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Caloric Intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity Level": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Type of Exercise": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Environmental Contamination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Contact with Infected Individuals": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Meiotic Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "DNA Replication Errors": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

@@ -1,0 +1,2578 @@
+{
+    "ICU Admission": {
+        "Severity of Illness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Availability of Resources": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Severity of Illness": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Acute Illness Onset": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Availability of Resources": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "ICU Staffing Levels": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Underlying Medical Conditions": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Acute Illness Onset": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Chronic Diseases": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diabetes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetic Predisposition": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Genetic Mutations": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Trauma": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Violence": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Infection": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Viral Infections": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Hospital Bed Capacity": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hospital Size": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "ICU Staffing Levels": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Physician Availability": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Heart Disease": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Diabetes": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Family History": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetic Mutations": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Accidents": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Violence": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bacterial Infections": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Viral Infections": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Patient Discharge Rate": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Hospital Size": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Nurse-to-Patient Ratio": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physician Availability": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Physician Availability": {
+        "ICU Admission": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Severity of Illness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Availability of Resources": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Underlying Medical Conditions": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute Illness Onset": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Chronic Diseases": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Predisposition": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Trauma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Bed Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "ICU Staffing Levels": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Heart Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family History": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetic Mutations": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Accidents": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Violence": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infections": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Patient Discharge Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hospital Size": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nurse-to-Patient Ratio": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

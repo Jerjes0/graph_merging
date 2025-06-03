@@ -1,0 +1,1568 @@
+{
+    "Hypertension": {
+        "Genetics": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lifestyle": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Genetics": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lifestyle": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Physical Activity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Stress": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Family history of hypertension": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Diet": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Obesity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Physical Activity": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Stress": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "High sodium intake": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Obesity": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Low physical activity": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased cortisol levels": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fluid retention": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased vascular resistance": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased blood volume": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Vascular constriction": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased risk of hypertension": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased blood pressure": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Organ damage": {
+        "Hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lifestyle": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Family history of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diet": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Physical Activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "High sodium intake": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Obesity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Low physical activity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased cortisol levels": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fluid retention": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased vascular resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood volume": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular constriction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased risk of hypertension": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased blood pressure": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        }
+    }
+}

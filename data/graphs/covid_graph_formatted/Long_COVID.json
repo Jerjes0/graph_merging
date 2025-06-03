@@ -1,0 +1,1082 @@
+{
+    "SARS-CoV-2 Infection": {
+        "Acute COVID-19": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Immune Dysregulation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Acute COVID-19": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Immune Dysregulation": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cytokine Storm": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Organ Damage": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Heart Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inflammation": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Vascular Damage": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Autoimmunity": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cytokine Storm": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lung Damage": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Heart Damage": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Persistent Inflammation": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Vascular Damage": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Long COVID Symptoms": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Respiratory Issues": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cardiovascular Issues": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Blood Clot Risk": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Blood Clot Risk": {
+        "SARS-CoV-2 Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Acute COVID-19": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Immune Dysregulation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Organ Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Autoimmunity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cytokine Storm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Heart Damage": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Persistent Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Vascular Damage": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Long COVID Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Respiratory Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

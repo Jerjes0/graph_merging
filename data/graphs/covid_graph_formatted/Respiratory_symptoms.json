@@ -1,0 +1,2578 @@
+{
+    "Respiratory Symptoms": {
+        "Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Allergens": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Infection": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Allergens": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Dust Mites": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Viral Infection": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Influenza": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bacterial Infection": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bronchitis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pollen": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Tree Pollen": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Dust Mites": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Storage Mite": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Common Cold": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cough": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Influenza": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Body Aches": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pneumonia": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cough with Phlegm": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bronchitis": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Wheezing": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Grass Pollen": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Tree Pollen": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "House Dust Mites": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Storage Mite": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Runny Nose": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cough": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fever": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Body Aches": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lung Inflammation": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cough with Phlegm": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inflammation of Bronchi": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Wheezing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Wheezing": {
+        "Respiratory Symptoms": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Allergens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Viral Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bacterial Infection": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Common Cold": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Influenza": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pneumonia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bronchitis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Grass Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Tree Pollen": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "House Dust Mites": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Storage Mite": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Runny Nose": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fever": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Body Aches": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lung Inflammation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cough with Phlegm": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inflammation of Bronchi": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

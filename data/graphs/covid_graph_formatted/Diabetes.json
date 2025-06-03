@@ -1,0 +1,1082 @@
+{
+    "Genetics": {
+        "Insulin Resistance": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Insulin Resistance": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Dyslipidemia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pancreatic Beta Cell Dysfunction": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Hyperglycemia": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diabetic Complications": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Dyslipidemia": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cardiovascular Disease": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Insulin Deficiency": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Hyperglycemia": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Glycated Hemoglobin (HbA1c)": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Diabetic Complications": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Neuropathy": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Retinopathy": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Atherosclerosis": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cardiovascular Disease": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Nephropathy": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Neuropathy": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Retinopathy": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Ketoacidosis": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Coma": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Diabetic Coma": {
+        "Genetics": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Resistance": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pancreatic Beta Cell Dysfunction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Hyperglycemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Dyslipidemia": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Insulin Deficiency": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Glycated Hemoglobin (HbA1c)": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Diabetic Complications": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Atherosclerosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cardiovascular Disease": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Nephropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neuropathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Retinopathy": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Ketoacidosis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        }
+    }
+}

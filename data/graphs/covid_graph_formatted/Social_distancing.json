@@ -1,0 +1,5348 @@
+{
+    "Social Distancing": {
+        "Reduced Contact Rate": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Economic Impact": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Contact Rate": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Economic Impact": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Unemployment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Lower Infection Rate": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Mental Health Concerns": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Anxiety": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Business Closures": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Job Losses": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Unemployment": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Strain on Healthcare System": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Slower Pandemic Spread": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Social Isolation": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Depression": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Anxiety": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Mental Health Issues": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Financial Losses": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Investment": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Job Losses": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Food Insecurity": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Improved Patient Outcomes": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Better Healthcare Access": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Healthcare Capacity": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Improved Resource Allocation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Fewer Deaths": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Improved Public Health": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Longer Pandemic Duration": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Loneliness": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Depression": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Stress": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Mental Health Issues": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Bankruptcies": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Investment": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Homelessness": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Food Insecurity": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Survival Rates": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Better Healthcare Access": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Better Preparedness for Future Outbreaks": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Improved Resource Allocation": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Reduced Mortality Rate": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Improved Public Health": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Increased Economic Strain": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Prolonged Social Disruption": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Prolonged Social Disruption": {
+        "Social Distancing": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Contact Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Economic Impact": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Lower Infection Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Mental Health Concerns": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Business Closures": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Unemployment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Strain on Healthcare System": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Slower Pandemic Spread": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Social Isolation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Anxiety": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Financial Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Job Losses": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Patient Outcomes": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Healthcare Capacity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Fewer Deaths": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Longer Pandemic Duration": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Loneliness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Depression": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Stress": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Mental Health Issues": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Bankruptcies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Investment": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Homelessness": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Food Insecurity": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Survival Rates": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Healthcare Access": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Better Preparedness for Future Outbreaks": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Resource Allocation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Reduced Mortality Rate": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Improved Public Health": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Increased Economic Strain": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}

@@ -1,0 +1,1568 @@
+{
+    "Antibodies": {
+        "B Cell Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Antigen Binding": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "B Cell Activation": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Memory B Cell Formation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Antigen Binding": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Plasma Cell Differentiation": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Memory B Cell Formation": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Antibody Production": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Agglutination": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Complement Activation": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Opsonization": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Secondary Immune Response": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Neutralization": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Agglutination": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Cell Lysis": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Phagocytosis": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 1,
+            "isParent": 0,
+            "noRelation": 0
+        }
+    },
+    "Faster and Stronger Response": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Inactivation of Pathogens": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Clumping of Pathogens": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pathogen Destruction": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Ingestion": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    },
+    "Pathogen Ingestion": {
+        "Antibodies": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "B Cell Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antigen Binding": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Plasma Cell Differentiation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Memory B Cell Formation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Antibody Production": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Complement Activation": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Opsonization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Secondary Immune Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Neutralization": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Agglutination": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Cell Lysis": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Phagocytosis": {
+            "isChild": 0,
+            "isParent": 1,
+            "noRelation": 0
+        },
+        "Faster and Stronger Response": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Inactivation of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Clumping of Pathogens": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        },
+        "Pathogen Destruction": {
+            "isChild": 0,
+            "isParent": 0,
+            "noRelation": 1
+        }
+    }
+}
