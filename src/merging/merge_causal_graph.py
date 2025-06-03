@@ -87,7 +87,7 @@ class CausalGraph(object):
             for dst_node, edge_type in self.graph[src_node].items():
                 if dst_node not in merged_graph[src_node]:
                     merged_graph[src_node][dst_node] = {}
-                if edge_type["noRelation"] == 1:
+                if edge_type.get("noRelation", 0) >= 1:
                     merged_graph[src_node][dst_node] = {"isChild": 0, "isParent": 0, "noRelation": 1}
         for src_node in rhs.graph.keys():
             if src_node not in merged_graph:
@@ -95,7 +95,7 @@ class CausalGraph(object):
             for dst_node, edge_type in rhs.graph[src_node].items():
                 if dst_node not in merged_graph[src_node]:
                     merged_graph[src_node][dst_node] = {}
-                if edge_type["noRelation"] == 1:
+                if edge_type.get("noRelation", 0) >= 1:
                     merged_graph[src_node][dst_node] = {"isChild": 0, "isParent": 0, "noRelation": 1}
 
         # Merge isChild and isParent relationships.
@@ -122,7 +122,7 @@ class CausalGraph(object):
             energy = 0.0
             for src_node, edges in graph.items():
                 for dst_node, edge_type in edges.items():
-                    if edge_type["isChild"] == 1 and hierarchy[src_node] <= hierarchy[dst_node]:
+                    if edge_type.get("isChild", 0) >= 1 and hierarchy[src_node] <= hierarchy[dst_node]:
                         energy += 1.0
             return energy
 
@@ -150,7 +150,7 @@ class CausalGraph(object):
 
         for src_node, edges in merged_graph.items():
             for dst_node, edge_type in edges.items():
-                if edge_type["isChild"] == 1 and best_hierarchy[src_node] <= best_hierarchy[dst_node]:
+                if edge_type.get("isChild", 0) >= 1 and best_hierarchy[src_node] <= best_hierarchy[dst_node]:
                     merged_graph[src_node][dst_node] = {"isChild": 0, "isParent": 0, "noRelation": 1}
                     merged_graph[dst_node][src_node] = {"isChild": 0, "isParent": 0, "noRelation": 1}
 
