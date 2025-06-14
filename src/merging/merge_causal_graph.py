@@ -9,6 +9,7 @@ class CausalGraph(object):
     def __init__(self, filename: Path):
         self.filename = filename
         self.graph = None
+        self.hierarchy = None
         # self.node_mapping = {}
         # self.adjacency = {
         #     "isChild": np.array([]),
@@ -116,7 +117,7 @@ class CausalGraph(object):
         # Eliminate cycles by simulated annealing.
         temperature = 10
         decay = 0.9
-        patience = 50
+        patience = 5000
 
         def compute_energy(graph: Dict[str, Any], hierarchy: Dict[str, int]) -> float:
             energy = 0.0
@@ -126,14 +127,18 @@ class CausalGraph(object):
                         energy += 1.0
             return energy
 
-        hierarchy = {}
+        if self.hierarchy is None:
+            self.hierarchy = {}
         for node in merged_graph.keys():
-            hierarchy[node] = np.random.randint(0, len(merged_graph))
-        best_hierarchy = hierarchy
-        energy = compute_energy(merged_graph, hierarchy)
+            if node not in self.hierarchy:
+                self.hierarchy[node] = np.random.randint(0, len(merged_graph))
+        hierarchy = deepcopy(self.hierarchy)
+        best_hierarchy = deepcopy(hierarchy)
+        energy = compute_energy(merged_graph, self.hierarchy)
         best_energy = energy
         patience_count = 0
-        while patience_count < patience:
+        while patience_count < patience and energy > 0:
+            print(f"Current energy: {energy}, best energy: {best_energy}, patience count: {patience_count}")
             patience_count += 1
             new_hierarchy = deepcopy(hierarchy)
             node = np.random.choice(list(merged_graph.keys()))
@@ -146,6 +151,7 @@ class CausalGraph(object):
                     best_energy = energy
                     best_hierarchy = hierarchy
                     patience_count = 0
+                    print(f"New best energy: {best_energy}, patience count reset.")
             temperature *= decay
 
         for src_node, edges in merged_graph.items():
@@ -154,10 +160,17 @@ class CausalGraph(object):
                     merged_graph[src_node][dst_node] = {"isChild": 0, "isParent": 0, "noRelation": 1}
                     merged_graph[dst_node][src_node] = {"isChild": 0, "isParent": 0, "noRelation": 1}
 
+        self.hierarchy = best_hierarchy
         self.graph = merged_graph
 
 if __name__ == "__main__":
-    graph1 = CausalGraph(Path("graph1.json"))
-    graph2 = CausalGraph(Path("graph2.json"))
-    graph1.merge(graph2)
-    graph1.save(Path("merged_graph.json"))
+    np.random.seed(42)
+    path_to_data = Path('../../data/graphs/covid_graph_formatted/')
+    data_list = os.listdir(path_to_data)
+    for i, data in enumerate(data_list):
+        if i == 0:
+            merged_graph = CausalGraph(path_to_data / data)
+        else:
+            graph = CausalGraph(path_to_data / data)
+            merged_graph.merge(graph)
+    merged_graph.save(path_to_data / 'merged_graph.json')
